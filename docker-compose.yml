@@ -1,0 +1,13 @@
+version: '3'
+services:
+  minecraft:
+    image: itzg/minecraft-server
+    environment:
+      - EULA=TRUE
+      - VERSION=1.12.2
+      - TYPE=FORGE
+#docker run -d -it -e EULA=TRUE -p 25565:25565 VERSION=1.12.2 --name mc itzg/minecraft-server
+    ports:
+      - 25565:25565
+    volumes:
+      - "./mc-server-files:/data"
