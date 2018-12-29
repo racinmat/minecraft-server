@@ -1,0 +1,28 @@
+# --- ModList ---
+# Generated: 29-11-2018 (Server time)
+# Change the location of this file in main.cfg
+
+Minecraft;1.12.2;
+Minecraft Coder Pack;9.42;http://www.modcoderpack.com/website/
+Forge Mod Loader;8.0.99.99;https://github.com/MinecraftForge/FML/wiki
+Minecraft Forge;14.23.5.2768;http://minecraftforge.net
+Baubles;1.5.2;http://www.minecraftforum.net/topic/2535073-baubles
+BiblioCraft;2.4.5;http://www.bibliocraftmod.com
+Biomes O' Plenty;7.0.1.2422;http://mods.curse.com/mc-mods/minecraft/220318-biomes-o-plenty
+Chisel;MC1.12.2-0.2.1.35;https://minecraft.curseforge.com/projects/chisel
+Clumps;3.1.1;
+Mantle;1.12-1.3.3.39;https://github.com/SlimeKnights/Mantle
+Thaumcraft;6.1.BETA26;http://www.minecraftforum.net/topic/2011841-thaumcraft
+The Twilight Forest;3.8.689;https://minecraft.curseforge.com/projects/the-twilight-forest
+Tinkers' Construct;1.12.2-2.11.0.106;https://github.com/SlimeKnights/TinkersConstruct
+Construct's Armory;1.2.1.1;
+WorldEdit;6.1.8;http://wiki.sk89q.com/wiki/WorldEdit
+Forge Essentials;12.3;
+Gravestone Mod;1.10.1;http://maxhenkel.de
+iChunUtil;7.1.4;http://ichun.me/mods/ichunutil/
+Iron Chest;1.12.2-7.0.54.838;http://www.minecraftforum.net/topic/981855-
+Mekanism;1.12.2-9.4.13.349;
+MekanismGenerators;9.4.11;
+Morpheus;1.12-3.3.2;http://www.curse.com/mc-mods/Minecraft/morpheus
+Oreberries;0.5.0;https://minecraft.curseforge.com/projects/oreberries
+Thaumcrafft Inventory Scanning;2.0.10;
