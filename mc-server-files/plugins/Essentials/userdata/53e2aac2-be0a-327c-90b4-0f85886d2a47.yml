@@ -1,0 +1,31 @@
+lastAccountName: Sethrak
+timestamps:
+  login: 1545988530602
+  logout: 1545998774379
+  lastteleport: 1545998170452
+ipAddress: 178.21.189.32
+lastlocation:
+  world: scitaniautismus
+  x: 3483.745646559187
+  y: 63.0
+  z: -2621.4516069617403
+  yaw: -188.65666
+  pitch: 46.04995
+logoutlocation:
+  world: scitaniautismus
+  x: 3404.116916506138
+  y: 86.0
+  z: -2282.8623076761555
+  yaw: -158.76506
+  pitch: 49.649925
+homes:
+  home:
+    world: scitaniautismus
+    x: 3400.624300222936
+    y: 81.0
+    z: -2292.695272511721
+    yaw: -172.26361
+    pitch: 25.499983
+nickname: §bTemnokneznik
+money: '212'
+afk: false

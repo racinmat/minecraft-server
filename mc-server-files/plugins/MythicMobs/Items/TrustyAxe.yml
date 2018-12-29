@@ -1,0 +1,11 @@
+TrustyAxe:
+  ItemStack:
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_AXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §aTrusty Axe
+      enchants:
+        DIG_SPEED: 4
+        DURABILITY: 3

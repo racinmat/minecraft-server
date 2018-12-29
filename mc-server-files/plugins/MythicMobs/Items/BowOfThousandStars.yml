@@ -1,0 +1,12 @@
+BowOfThousandStars:
+  ItemStack:
+    ==: org.bukkit.inventory.ItemStack
+    type: BOW
+    damage: 67
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §2Bow of Thousand Stars
+      enchants:
+        ARROW_DAMAGE: 2
+        DURABILITY: 3

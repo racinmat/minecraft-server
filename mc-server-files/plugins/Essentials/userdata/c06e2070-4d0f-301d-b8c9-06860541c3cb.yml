@@ -1,0 +1,21 @@
+uuid: c06e2070-4d0f-301d-b8c9-06860541c3cb
+timestamps:
+  login: 1545732329527
+  logout: 1545732358912
+ipAddress: 78.45.138.4
+lastlocation:
+  world: scitaniautismus
+  x: 3243.5
+  y: 110.0
+  z: -2058.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: scitaniautismus
+  x: 3248.9590319850836
+  y: 97.0
+  z: -2057.7613771103283
+  yaw: 240.34378
+  pitch: 5.0999413
+money: '45'
+lastAccountName: niko

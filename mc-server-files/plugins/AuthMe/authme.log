@@ -1,0 +1,460 @@
+[12-23 21:55:33]: [INFO] Created column 'regdate' and set the current timestamp, 1545598533003, to all 0 rows
+[12-23 21:55:33]: [INFO] SQLite Setup finished
+[12-23 21:55:33]: [INFO] Hooked into Vault!
+[12-23 21:55:34]: [INFO] Hooked successfully into Essentials
+[12-23 21:55:34]: [INFO] Essentials spawn file not found: 'C:\Users\Home\Desktop\Serveru\plugins\Essentials\spawn.yml'
+[12-23 21:55:34]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[12-23 21:55:34]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[12-23 21:55:34]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[12-23 21:55:34]: [INFO] AuthMe 5.4.0 build n.1877 correctly enabled!
+[12-23 21:57:38]: [INFO] SQLite Setup finished
+[12-23 21:57:38]: [INFO] Hooked into Vault!
+[12-23 21:57:38]: [INFO] Hooked successfully into Essentials
+[12-23 21:57:38]: [INFO] Essentials spawn file not found: 'C:\Users\Home\Desktop\Serveru\plugins\Essentials\spawn.yml'
+[12-23 21:57:38]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[12-23 21:57:39]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[12-23 21:57:39]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[12-23 21:57:39]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[12-23 21:57:39]: [INFO] AuthMe 5.4.0 build n.1877 correctly enabled!
+[12-23 22:06:55]: [INFO] SQLite Setup finished
+[12-23 22:06:56]: [INFO] Hooked into Vault!
+[12-23 22:06:57]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[12-23 22:06:57]: [INFO] Hooked successfully into Essentials
+[12-23 22:06:57]: [INFO] Essentials spawn file not found: 'C:\Users\Home\Desktop\Serveru\plugins\Essentials\spawn.yml'
+[12-23 22:06:58]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[12-23 22:06:59]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[12-23 22:06:59]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[12-23 22:06:59]: [INFO] AuthMe 5.4.0 build n.1877 correctly enabled!
+[12-23 22:12:55]: [FINE] KrysiAutismus registered 127.0.0.1
+[12-23 22:12:55]: [FINE] KrysiAutismus logged in!
+[12-23 22:27:39]: [INFO] AuthMe 5.4.0-b1877 disabled!
+[12-23 22:27:42]: [INFO] SQLite Setup finished
+[12-23 22:27:42]: [INFO] Hooked into Vault!
+[12-23 22:27:43]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[12-23 22:27:43]: [INFO] Hooked successfully into Essentials
+[12-23 22:27:43]: [INFO] Essentials spawn file not found: 'C:\Users\Home\Desktop\Serveru\plugins\Essentials\spawn.yml'
+[12-23 22:27:43]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[12-23 22:27:43]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[12-23 22:27:43]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[12-23 22:27:43]: [INFO] AuthMe 5.4.0 build n.1877 correctly enabled!
+[12-23 22:27:53]: [FINE] KrysiAutismus logged in!
+[12-23 22:34:20]: [INFO] AuthMe 5.4.0-b1877 disabled!
+[12-23 22:42:06]: [INFO] SQLite Setup finished
+[12-23 22:42:06]: [INFO] Hooked into Vault!
+[12-23 22:42:06]: [INFO] Hooked successfully into Essentials
+[12-23 22:42:06]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[12-23 22:42:06]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[12-23 22:42:07]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[12-23 22:42:07]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[12-23 22:42:07]: [INFO] AuthMe 5.4.0 build n.1877 correctly enabled!
+[12-23 22:44:01]: [FINE] SpiiKeKiLLeR registered 80.250.28.97
+[12-23 22:44:01]: [FINE] SpiiKeKiLLeR logged in!
+[12-23 22:48:16]: [FINE] KrysiAutismus logged in!
+[12-23 22:57:19]: [INFO] AuthMe 5.4.0-b1877 disabled!
+[12-23 22:57:23]: [INFO] SQLite Setup finished
+[12-23 22:57:23]: [INFO] Hooked into Vault!
+[12-23 22:57:23]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[12-23 22:57:23]: [INFO] Hooked successfully into Essentials
+[12-23 22:57:23]: [WARN] Failed to read welcome.txt file: [MalformedInputException]: Input length = 1
+[12-23 22:57:23]: java.nio.charset.MalformedInputException: Input length = 1
+	at java.nio.charset.CoderResult.throwException(Unknown Source)
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+	at java.io.InputStreamReader.read(Unknown Source)
+	at java.io.BufferedReader.fill(Unknown Source)
+	at java.io.BufferedReader.readLine(Unknown Source)
+	at java.io.BufferedReader.readLine(Unknown Source)
+	at java.nio.file.Files.readAllLines(Unknown Source)
+	at fr.xephi.authme.settings.WelcomeMessageConfiguration.readWelcomeFile(WelcomeMessageConfiguration.java:117)
+	at fr.xephi.authme.settings.WelcomeMessageConfiguration.reload(WelcomeMessageConfiguration.java:78)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at fr.xephi.authme.libs.jalu.injector.utils.ReflectionUtils.invokeMethod(ReflectionUtils.java:73)
+	at fr.xephi.authme.libs.jalu.injector.handlers.postconstruct.PostConstructMethodInvoker.process(PostConstructMethodInvoker.java:25)
+	at fr.xephi.authme.libs.jalu.injector.InjectorImpl.runPostConstructHandlers(InjectorImpl.java:255)
+	at fr.xephi.authme.libs.jalu.injector.InjectorImpl.instantiate(InjectorImpl.java:182)
+	at fr.xephi.authme.libs.jalu.injector.InjectorImpl.get(InjectorImpl.java:155)
+	at fr.xephi.authme.libs.jalu.injector.InjectorImpl.resolveDependencies(InjectorImpl.java:208)
+	at fr.xephi.authme.libs.jalu.injector.InjectorImpl.instantiate(InjectorImpl.java:177)
+	at fr.xephi.authme.libs.jalu.injector.InjectorImpl.get(InjectorImpl.java:155)
+	at fr.xephi.authme.libs.jalu.injector.InjectorImpl.resolveDependencies(InjectorImpl.java:208)
+	at fr.xephi.authme.libs.jalu.injector.InjectorImpl.instantiate(InjectorImpl.java:177)
+	at fr.xephi.authme.libs.jalu.injector.InjectorImpl.get(InjectorImpl.java:155)
+	at fr.xephi.authme.libs.jalu.injector.InjectorImpl.resolveDependencies(InjectorImpl.java:208)
+	at fr.xephi.authme.libs.jalu.injector.InjectorImpl.instantiate(InjectorImpl.java:177)
+	at fr.xephi.authme.libs.jalu.injector.InjectorImpl.get(InjectorImpl.java:155)
+	at fr.xephi.authme.libs.jalu.injector.InjectorImpl.resolveDependencies(InjectorImpl.java:208)
+	at fr.xephi.authme.libs.jalu.injector.InjectorImpl.instantiate(InjectorImpl.java:177)
+	at fr.xephi.authme.libs.jalu.injector.InjectorImpl.get(InjectorImpl.java:155)
+	at fr.xephi.authme.libs.jalu.injector.InjectorImpl.resolveDependencies(InjectorImpl.java:208)
+	at fr.xephi.authme.libs.jalu.injector.InjectorImpl.instantiate(InjectorImpl.java:177)
+	at fr.xephi.authme.libs.jalu.injector.InjectorImpl.newInstance(InjectorImpl.java:82)
+	at fr.xephi.authme.initialization.factory.FactoryDependencyHandler$FactoryImpl.newInstance(FactoryDependencyHandler.java:41)
+	at fr.xephi.authme.command.CommandHandler.initializeCommands(CommandHandler.java:109)
+	at fr.xephi.authme.command.CommandHandler.<init>(CommandHandler.java:49)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at fr.xephi.authme.libs.jalu.injector.utils.ReflectionUtils.newInstance(ReflectionUtils.java:91)
+	at fr.xephi.authme.libs.jalu.injector.handlers.instantiation.StandardInjection.instantiateWith(StandardInjection.java:62)
+	at fr.xephi.authme.libs.jalu.injector.InjectorImpl.instantiate(InjectorImpl.java:181)
+	at fr.xephi.authme.libs.jalu.injector.InjectorImpl.get(InjectorImpl.java:155)
+	at fr.xephi.authme.libs.jalu.injector.InjectorImpl.getSingleton(InjectorImpl.java:56)
+	at fr.xephi.authme.AuthMe.instantiateServices(AuthMe.java:248)
+	at fr.xephi.authme.AuthMe.initialize(AuthMe.java:221)
+	at fr.xephi.authme.AuthMe.onEnable(AuthMe.java:136)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:316)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:324)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:404)
+	at org.bukkit.craftbukkit.v1_7_R4.CraftServer.loadPlugin(CraftServer.java:455)
+	at org.bukkit.craftbukkit.v1_7_R4.CraftServer.enablePlugins(CraftServer.java:389)
+	at org.bukkit.craftbukkit.v1_7_R4.CraftServer.reload(CraftServer.java:839)
+	at org.bukkit.Bukkit.reload(Bukkit.java:303)
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:23)
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:180)
+	at org.bukkit.craftbukkit.v1_7_R4.CraftServer.dispatchCommand(CraftServer.java:740)
+	at net.minecraft.server.v1_7_R4.PlayerConnection.handleCommand(PlayerConnection.java:957)
+	at net.minecraft.server.v1_7_R4.PlayerConnection.a(PlayerConnection.java:818)
+	at net.minecraft.server.v1_7_R4.PacketPlayInChat.a(PacketPlayInChat.java:28)
+	at net.minecraft.server.v1_7_R4.PacketPlayInChat.handle(PacketPlayInChat.java:47)
+	at net.minecraft.server.v1_7_R4.NetworkManager.a(NetworkManager.java:157)
+	at net.minecraft.server.v1_7_R4.ServerConnection.c(SourceFile:134)
+	at net.minecraft.server.v1_7_R4.MinecraftServer.v(MinecraftServer.java:667)
+	at net.minecraft.server.v1_7_R4.DedicatedServer.v(DedicatedServer.java:258)
+	at net.minecraft.server.v1_7_R4.MinecraftServer.u(MinecraftServer.java:558)
+	at net.minecraft.server.v1_7_R4.MinecraftServer.run(MinecraftServer.java:469)
+	at net.minecraft.server.v1_7_R4.ThreadServerApplication.run(SourceFile:628)
+
+[12-23 22:57:23]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[12-23 22:57:23]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[12-23 22:57:23]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[12-23 22:57:23]: [INFO] AuthMe 5.4.0 build n.1877 correctly enabled!
+[12-23 22:57:33]: [FINE] KrysiAutismus logged in!
+[12-23 22:57:52]: [FINE] SpiiKeKiLLeR logged in!
+[12-23 22:59:48]: [FINE] Watros registered 78.45.245.26
+[12-23 22:59:48]: [FINE] Watros logged in!
+[12-23 23:25:22]: [FINE] KrysiAutismus logged in!
+[12-23 23:48:45]: [FINE] SpiiKeKiLLeR logged in!
+[12-24 00:04:04]: [FINE] PheleanorPhil registered 89.177.68.122
+[12-24 00:04:04]: [FINE] PheleanorPhil logged in!
+[12-24 00:41:14]: [FINE] Feykro registered 90.178.236.216
+[12-24 00:41:14]: [FINE] Feykro logged in!
+[12-24 00:48:34]: [FINE] Grayfoox registered 109.81.181.254
+[12-24 00:48:34]: [FINE] Grayfoox logged in!
+[12-24 02:29:01]: [FINE] Feykro logged in!
+[12-24 12:35:03]: [INFO] SQLite Setup finished
+[12-24 12:35:03]: [INFO] Hooked into Vault!
+[12-24 12:35:04]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[12-24 12:35:04]: [INFO] Hooked successfully into Essentials
+[12-24 12:35:04]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[12-24 12:35:04]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[12-24 12:35:04]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[12-24 12:35:04]: [INFO] AuthMe 5.4.0 build n.1877 correctly enabled!
+[12-24 12:35:59]: [FINE] Feykro logged in!
+[12-24 12:36:47]: [FINE] KrysiAutismus logged in!
+[12-24 12:41:26]: [FINE] Watros used the wrong password
+[12-24 12:42:15]: [FINE] Watros logged in!
+[12-24 13:00:32]: [FINE] MonsterDoctor registered 91.226.113.217
+[12-24 13:00:33]: [FINE] MonsterDoctor logged in!
+[12-24 13:01:11]: [FINE] Grayfoox logged in!
+[12-24 13:08:46]: [FINE] Enemis registered 185.131.62.247
+[12-24 13:08:46]: [FINE] Enemis logged in!
+[12-24 13:27:00]: [FINE] Grayfoox logged in!
+[12-24 13:30:03]: [FINE] PheleanorPhil logged in!
+[12-24 14:18:45]: [FINE] KrysiAutismus logged in!
+[12-24 14:28:24]: [FINE] PheleanorPhil logged in!
+[12-24 14:29:36]: [FINE] PheleanorPhil logged in!
+[12-24 15:53:48]: [FINE] Grayfoox logged in!
+[12-24 17:48:14]: [FINE] PheleanorPhil logged in!
+[12-24 20:08:15]: [FINE] Feykro logged in!
+[12-24 20:17:10]: [FINE] PheleanorPhil logged in!
+[12-24 20:23:01]: [INFO] AuthMe 5.4.0-b1877 disabled!
+[12-24 20:29:09]: [INFO] SQLite Setup finished
+[12-24 20:29:09]: [INFO] Hooked into Vault!
+[12-24 20:29:09]: [INFO] Hooked successfully into Essentials
+[12-24 20:29:09]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[12-24 20:29:09]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[12-24 20:29:10]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[12-24 20:29:10]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[12-24 20:29:10]: [INFO] AuthMe 5.4.0 build n.1877 correctly enabled!
+[12-24 20:29:24]: [FINE] PheleanorPhil logged in!
+[12-24 20:31:58]: [FINE] Feykro used the wrong password
+[12-24 20:32:08]: [FINE] Feykro logged in!
+[12-24 20:47:06]: [FINE] Watros logged in!
+[12-24 20:48:42]: [FINE] KrysiAutismus logged in!
+[12-24 21:04:29]: [FINE] Watros logged in!
+[12-24 21:25:29]: [INFO] AuthMe 5.4.0-b1877 disabled!
+[12-24 21:25:30]: [INFO] SQLite Setup finished
+[12-24 21:25:30]: [INFO] Hooked into Vault!
+[12-24 21:25:30]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[12-24 21:25:30]: [INFO] Hooked successfully into Essentials
+[12-24 21:25:30]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[12-24 21:25:30]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[12-24 21:25:30]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[12-24 21:25:30]: [INFO] AuthMe 5.4.0 build n.1877 correctly enabled!
+[12-24 21:25:41]: [FINE] KrysiAutismus logged in!
+[12-24 21:25:49]: [FINE] Feykro logged in!
+[12-24 21:25:52]: [FINE] PheleanorPhil logged in!
+[12-24 21:26:03]: [FINE] Watros logged in!
+[12-24 21:53:56]: [FINE] Grayfoox logged in!
+[12-24 22:02:52]: [FINE] SpiiKeKiLLeR logged in!
+[12-24 22:41:51]: [FINE] Feykro logged in!
+[12-24 23:48:11]: [FINE] jiji registered 78.45.138.4
+[12-24 23:48:36]: [FINE] jiji logged in!
+[12-24 23:49:12]: [FINE] jiji logged in!
+[12-25 00:55:32]: [INFO] AuthMe 5.4.0-b1877 disabled!
+[12-25 10:59:25]: [INFO] SQLite Setup finished
+[12-25 10:59:25]: [INFO] Hooked into Vault!
+[12-25 10:59:25]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[12-25 10:59:25]: [INFO] Hooked successfully into Essentials
+[12-25 10:59:26]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[12-25 10:59:26]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[12-25 10:59:26]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[12-25 10:59:26]: [INFO] AuthMe 5.4.0 build n.1877 correctly enabled!
+[12-25 11:02:53]: [FINE] Grayfoox logged in!
+[12-25 11:06:32]: [FINE] jiji logged in!
+[12-25 11:09:27]: [FINE] jiji logged in!
+[12-25 11:13:28]: [INFO] AuthMe 5.4.0-b1877 disabled!
+[12-25 11:40:57]: [INFO] SQLite Setup finished
+[12-25 11:40:57]: [INFO] Hooked into Vault!
+[12-25 11:40:57]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[12-25 11:40:57]: [INFO] Hooked successfully into Essentials
+[12-25 11:40:57]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[12-25 11:40:57]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[12-25 11:40:57]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[12-25 11:40:57]: [INFO] AuthMe 5.4.0 build n.1877 correctly enabled!
+[12-25 11:41:44]: [INFO] AuthMe 5.4.0-b1877 disabled!
+[12-25 11:42:13]: [INFO] SQLite Setup finished
+[12-25 11:42:14]: [INFO] Hooked into Vault!
+[12-25 11:42:14]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[12-25 11:42:14]: [INFO] Hooked successfully into Essentials
+[12-25 11:42:14]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[12-25 11:42:14]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[12-25 11:42:14]: [INFO] AuthMe 5.4.0 build n.1877 correctly enabled!
+[12-25 11:42:44]: [INFO] AuthMe 5.4.0-b1877 disabled!
+[12-25 11:43:17]: [INFO] SQLite Setup finished
+[12-25 11:43:17]: [INFO] Hooked into Vault!
+[12-25 11:43:17]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[12-25 11:43:17]: [INFO] Hooked successfully into Essentials
+[12-25 11:43:18]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[12-25 11:43:18]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[12-25 11:43:18]: [INFO] AuthMe 5.4.0 build n.1877 correctly enabled!
+[12-25 11:46:58]: [INFO] SQLite Setup finished
+[12-25 11:46:58]: [INFO] Hooked into Vault!
+[12-25 11:46:58]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[12-25 11:46:58]: [INFO] Hooked successfully into Essentials
+[12-25 11:46:59]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[12-25 11:46:59]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[12-25 11:46:59]: [INFO] AuthMe 5.4.0 build n.1877 correctly enabled!
+[12-25 11:49:19]: [FINE] KrysiAutismus logged in!
+[12-25 11:50:14]: [INFO] AuthMe 5.4.0-b1877 disabled!
+[12-25 11:51:24]: [INFO] SQLite Setup finished
+[12-25 11:51:24]: [INFO] Hooked into Vault!
+[12-25 11:51:24]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[12-25 11:51:24]: [INFO] Hooked successfully into Essentials
+[12-25 11:51:25]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[12-25 11:51:25]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[12-25 11:51:25]: [INFO] AuthMe 5.4.0 build n.1877 correctly enabled!
+[12-25 11:52:25]: [FINE] KrysiAutismus logged in!
+[12-25 11:55:55]: [FINE] PheleanorPhil logged in!
+[12-25 12:17:09]: [FINE] KrysiAutismus logged in!
+[12-25 12:18:40]: [INFO] AuthMe 5.4.0-b1877 disabled!
+[12-25 12:46:51]: [INFO] SQLite Setup finished
+[12-25 12:46:51]: [INFO] Hooked into Vault!
+[12-25 12:46:51]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[12-25 12:46:51]: [INFO] Hooked successfully into Essentials
+[12-25 12:46:52]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[12-25 12:46:52]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[12-25 12:46:52]: [INFO] AuthMe 5.4.0 build n.1877 correctly enabled!
+[12-25 12:47:24]: [FINE] KrysiAutismus logged in!
+[12-25 12:51:03]: [INFO] AuthMe 5.4.0-b1877 disabled!
+[12-27 07:47:14]: [INFO] SQLite Setup finished
+[12-27 07:47:14]: [INFO] Hooked into Vault!
+[12-27 07:47:15]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[12-27 07:47:15]: [INFO] Hooked successfully into Essentials
+[12-27 07:47:15]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[12-27 07:47:15]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[12-27 07:47:15]: [INFO] AuthMe 5.4.0 build n.1877 correctly enabled!
+[12-27 07:51:02]: [INFO] AuthMe 5.4.0-b1877 disabled!
+[12-27 10:32:11]: [INFO] SQLite Setup finished
+[12-27 10:32:11]: [INFO] Hooked into Vault!
+[12-27 10:32:11]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[12-27 10:32:11]: [INFO] Hooked successfully into Essentials
+[12-27 10:32:12]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[12-27 10:32:12]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[12-27 10:32:12]: [INFO] AuthMe 5.4.0 build n.1877 correctly enabled!
+[12-27 11:36:37]: [FINE] MonsterDoctor logged in!
+[12-27 11:51:34]: [INFO] AuthMe 5.4.0-b1877 disabled!
+[12-27 11:51:37]: [INFO] SQLite Setup finished
+[12-27 11:51:37]: [INFO] Hooked into Vault!
+[12-27 11:51:37]: [INFO] Hooked successfully into Essentials
+[12-27 11:51:37]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[12-27 11:51:37]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[12-27 11:51:37]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[12-27 11:51:37]: [INFO] AuthMe 5.4.0 build n.1877 correctly enabled!
+[12-27 12:21:26]: [INFO] SQLite Setup finished
+[12-27 12:21:27]: [INFO] Hooked into Vault!
+[12-27 12:21:27]: [INFO] Hooked successfully into Essentials
+[12-27 12:21:27]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[12-27 12:21:28]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[12-27 12:21:28]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[12-27 12:21:28]: [INFO] AuthMe 5.4.0 build n.1877 correctly enabled!
+[12-27 13:03:37]: [FINE] jony008 registered 95.82.135.181
+[12-27 13:03:37]: [FINE] jony008 logged in!
+[12-27 13:06:32]: [FINE] PheleanorPhil logged in!
+[12-27 13:34:43]: [FINE] SpiiKeKiLLeR logged in!
+[12-27 17:24:01]: [FINE] Feykro logged in!
+[12-27 18:04:07]: [FINE] KrysiAutismus logged in!
+[12-27 18:15:34]: [FINE] Feykro logged in!
+[12-27 18:28:36]: [FINE] KrysiAutismus logged in!
+[12-27 20:03:05]: [INFO] AuthMe 5.4.0-b1877 disabled!
+[12-27 20:03:25]: [INFO] SQLite Setup finished
+[12-27 20:03:25]: [INFO] Hooked into Vault!
+[12-27 20:03:25]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[12-27 20:03:25]: [INFO] Hooked successfully into Essentials
+[12-27 20:03:26]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[12-27 20:03:26]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[12-27 20:03:26]: [INFO] AuthMe 5.4.0 build n.1877 correctly enabled!
+[12-27 20:03:36]: [FINE] KrysiAutismus logged in!
+[12-27 20:04:44]: [INFO] AuthMe 5.4.0-b1877 disabled!
+[12-27 20:07:50]: [INFO] SQLite Setup finished
+[12-27 20:07:50]: [INFO] Hooked into Vault!
+[12-27 20:07:50]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[12-27 20:07:50]: [INFO] Hooked successfully into Essentials
+[12-27 20:07:50]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[12-27 20:07:50]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[12-27 20:07:50]: [INFO] AuthMe 5.4.0 build n.1877 correctly enabled!
+[12-27 20:11:53]: [FINE] KrysiAutismus logged in!
+[12-27 20:54:34]: [FINE] Feykro logged in!
+[12-27 21:04:27]: [FINE] Watros logged in!
+[12-27 21:08:28]: [FINE] KrysiAutismus logged in!
+[12-27 21:10:08]: [FINE] SmilerCZE registered 77.242.90.183
+[12-27 21:10:21]: [FINE] SmilerCZE logged in!
+[12-27 21:20:41]: [FINE] Sethrak logged in!
+[12-27 21:20:41]: [FINE] Sethrak registered 178.21.189.32
+[12-27 21:32:45]: [FINE] Doggy registered 192.162.96.81
+[12-27 21:33:26]: [FINE] Doggy logged in!
+[12-27 21:34:34]: [FINE] PheleanorPhil used the wrong password
+[12-27 21:34:47]: [FINE] PheleanorPhil logged in!
+[12-27 22:00:54]: [FINE] Doggy logged in!
+[12-27 22:01:02]: [FINE] PheleanorPhil logged in!
+[12-27 22:32:14]: [FINE] Salty4Daddy registered 194.228.11.224
+[12-27 22:32:47]: [FINE] Salty4Daddy logged in!
+[12-27 22:32:48]: [FINE] SpiiKeKiLLeR logged in!
+[12-27 22:34:52]: [FINE] Salty4Daddy logged in!
+[12-27 22:49:21]: [FINE] Salty4Daddy logged in!
+[12-27 22:49:44]: [FINE] SpiiKeKiLLeR logged in!
+[12-27 22:50:05]: [FINE] Salty4Daddy logged in!
+[12-27 22:53:26]: [FINE] SpiiKeKiLLeR logged in!
+[12-27 22:54:44]: [INFO] AuthMe 5.4.0-b1877 disabled!
+[12-27 22:59:07]: [INFO] SQLite Setup finished
+[12-27 22:59:07]: [INFO] Hooked into Vault!
+[12-27 22:59:07]: [INFO] Hooked successfully into Essentials
+[12-27 22:59:07]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[12-27 22:59:09]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[12-27 22:59:09]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[12-27 22:59:09]: [INFO] AuthMe 5.4.0 build n.1877 correctly enabled!
+[12-27 22:59:32]: [FINE] KrysiAutismus logged in!
+[12-27 22:59:48]: [FINE] SmilerCZE logged in!
+[12-27 23:00:06]: [FINE] PheleanorPhil logged in!
+[12-27 23:00:28]: [FINE] Watros logged in!
+[12-27 23:00:32]: [FINE] Doggy logged in!
+[12-27 23:00:49]: [FINE] Salty4Daddy logged in!
+[12-27 23:01:23]: [FINE] Feykro logged in!
+[12-27 23:02:07]: [FINE] SpiiKeKiLLeR logged in!
+[12-27 23:15:48]: [FINE] jiji logged in!
+[12-27 23:34:40]: [FINE] Salty4Daddy logged in!
+[12-27 23:44:01]: [INFO] AuthMe 5.4.0-b1877 disabled!
+[12-27 23:44:47]: [INFO] SQLite Setup finished
+[12-27 23:44:47]: [INFO] Hooked into Vault!
+[12-27 23:44:47]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[12-27 23:44:47]: [INFO] Hooked successfully into Essentials
+[12-27 23:44:49]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[12-27 23:44:49]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[12-27 23:44:49]: [INFO] AuthMe 5.4.0 build n.1877 correctly enabled!
+[12-27 23:45:06]: [FINE] SpiiKeKiLLeR logged in!
+[12-27 23:45:08]: [FINE] jiji logged in!
+[12-27 23:45:15]: [FINE] KrysiAutismus logged in!
+[12-27 23:45:23]: [FINE] Feykro logged in!
+[12-27 23:45:24]: [FINE] Watros logged in!
+[12-27 23:45:30]: [FINE] PheleanorPhil logged in!
+[12-27 23:45:46]: [FINE] Doggy logged in!
+[12-27 23:46:07]: [INFO] AuthMe 5.4.0-b1877 disabled!
+[12-27 23:46:58]: [INFO] SQLite Setup finished
+[12-27 23:46:58]: [INFO] Hooked into Vault!
+[12-27 23:46:58]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[12-27 23:46:58]: [INFO] Hooked successfully into Essentials
+[12-27 23:47:00]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[12-27 23:47:00]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[12-27 23:47:00]: [INFO] AuthMe 5.4.0 build n.1877 correctly enabled!
+[12-27 23:47:28]: [FINE] KrysiAutismus logged in!
+[12-27 23:47:29]: [FINE] Doggy logged in!
+[12-27 23:47:37]: [FINE] Feykro logged in!
+[12-27 23:47:42]: [FINE] SpiiKeKiLLeR logged in!
+[12-27 23:47:43]: [FINE] jiji logged in!
+[12-27 23:47:48]: [FINE] SmilerCZE logged in!
+[12-27 23:48:44]: [FINE] PheleanorPhil logged in!
+[12-27 23:48:46]: [INFO] AuthMe 5.4.0-b1877 disabled!
+[12-27 23:49:59]: [INFO] SQLite Setup finished
+[12-27 23:50:00]: [INFO] Hooked into Vault!
+[12-27 23:50:00]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[12-27 23:50:00]: [INFO] Hooked successfully into Essentials
+[12-27 23:50:01]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[12-27 23:50:01]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[12-27 23:50:01]: [INFO] AuthMe 5.4.0 build n.1877 correctly enabled!
+[12-27 23:50:14]: [FINE] KrysiAutismus logged in!
+[12-27 23:50:17]: [FINE] SpiiKeKiLLeR logged in!
+[12-27 23:50:43]: [FINE] Doggy logged in!
+[12-27 23:51:16]: [FINE] Watros logged in!
+[12-27 23:51:55]: [FINE] SmilerCZE used the wrong password
+[12-27 23:52:27]: [FINE] SmilerCZE logged in!
+[12-27 23:52:46]: [FINE] PheleanorPhil logged in!
+[12-27 23:55:42]: [FINE] Abystoma registered 185.243.172.82
+[12-27 23:55:42]: [FINE] Abystoma logged in!
+[12-27 23:59:27]: [FINE] Feykro logged in!
+[12-28 00:03:09]: [FINE] Grayfoox logged in!
+[12-28 10:10:03]: [INFO] SQLite Setup finished
+[12-28 10:10:04]: [INFO] Hooked into Vault!
+[12-28 10:10:04]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[12-28 10:10:04]: [INFO] Hooked successfully into Essentials
+[12-28 10:10:06]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[12-28 10:10:06]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[12-28 10:10:06]: [INFO] AuthMe 5.4.0 build n.1877 correctly enabled!
+[12-28 10:10:26]: [FINE] SmilerCZE logged in!
+[12-28 10:10:37]: [FINE] Doggy logged in!
+[12-28 10:15:36]: [FINE] Sethrak logged in!
+[12-28 10:22:49]: [FINE] KrysiAutismus logged in!
+[12-28 11:38:48]: [FINE] Doggy logged in!
+[12-28 12:27:49]: [FINE] EpickyMinecrafak registered 84.42.247.58
+[12-28 12:27:49]: [FINE] EpickyMinecrafak logged in!
+[12-28 13:16:45]: [FINE] EpickyMinecrafak logged in!
+[12-28 13:45:09]: [FINE] Doggy logged in!
+[12-28 13:45:26]: [FINE] EpickyMinecrafak logged in!
+[12-28 13:46:44]: [FINE] SmilerCZE logged in!
+[12-28 13:55:35]: [FINE] EpickyMinecrafak logged in!
+[12-28 13:55:38]: [FINE] Doggy logged in!
+[12-28 14:05:14]: [FINE] EpickyMinecrafak logged in!
+[12-28 14:05:33]: [FINE] Doggy logged in!
+[12-28 14:07:51]: [FINE] Doggy logged in!
+[12-28 14:08:03]: [FINE] EpickyMinecrafak logged in!
+[12-28 14:24:16]: [FINE] EpickyMinecrafak logged in!
+[12-28 14:24:49]: [FINE] Doggy logged in!
+[12-28 14:56:07]: [INFO] AuthMe 5.4.0-b1877 disabled!
+[12-28 14:56:13]: [INFO] SQLite Setup finished
+[12-28 14:56:13]: [INFO] Hooked into Vault!
+[12-28 14:56:14]: [INFO] Hooked successfully into Essentials
+[12-28 14:56:14]: [INFO] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[12-28 14:56:14]: [INFO] Development builds are available on our jenkins, thanks to f14stelt.
+[12-28 14:56:14]: [INFO] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[12-28 14:56:14]: [INFO] AuthMe 5.4.0 build n.1877 correctly enabled!
+[12-28 14:56:27]: [FINE] KrysiAutismus logged in!
+[12-28 14:56:36]: [FINE] EpickyMinecrafak logged in!
+[12-28 14:56:39]: [FINE] Doggy logged in!
+[12-28 15:08:55]: [FINE] SpiiKeKiLLeR logged in!
+[12-28 15:24:00]: [FINE] KrysiAutismus logged in!
+[12-28 16:25:02]: [FINE] Abystoma logged in!
+[12-28 17:05:17]: [FINE] Abystoma logged in!
+[12-28 17:58:58]: [INFO] AuthMe 5.4.0-b1877 disabled!

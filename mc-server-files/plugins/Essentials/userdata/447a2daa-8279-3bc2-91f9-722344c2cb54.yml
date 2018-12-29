@@ -1,0 +1,32 @@
+uuid: 447a2daa-8279-3bc2-91f9-722344c2cb54
+timestamps:
+  login: 1545951777902
+  logout: 1545732666393
+  lastteleport: 1545962016345
+ipAddress: 109.81.181.254
+lastlocation:
+  world: scitaniautismus
+  x: 6040.546002796999
+  y: 62.07326432466507
+  z: -2557.7644857738183
+  yaw: -35.780098
+  pitch: 0.0
+logoutlocation:
+  world: scitaniautismus
+  x: 3169.592572876388
+  y: 114.0
+  z: -1942.5155971327015
+  yaw: 185.61517
+  pitch: 37.573868
+homes:
+  home:
+    world: scitaniautismus
+    x: 3157.4330672265096
+    y: 109.0
+    z: -1938.0645327010227
+    yaw: 229.02393
+    pitch: 32.039974
+nickname: §2Nurgle
+money: '5642'
+afk: false
+lastAccountName: Grayfoox

@@ -1,0 +1,31 @@
+lastAccountName: SmilerCZE
+timestamps:
+  login: 1546001196392
+  lastteleport: 1546001037601
+  logout: 1546001711745
+ipAddress: 77.242.90.183
+lastlocation:
+  world: scitaniautismus
+  x: 3459.4186176237895
+  y: 11.0
+  z: -2599.174768027362
+  yaw: -273.4619
+  pitch: 11.387881
+nickname: §eYungYardar
+money: '511.5'
+homes:
+  home:
+    world: scitaniautismus
+    x: 3402.775984842834
+    y: 81.0
+    z: -2297.4492617984793
+    yaw: -355.4187
+    pitch: 17.421545
+logoutlocation:
+  world: scitaniautismus
+  x: 3527.051441187869
+  y: 12.0
+  z: -2596.495943325886
+  yaw: -90.70044
+  pitch: 25.584375
+afk: false

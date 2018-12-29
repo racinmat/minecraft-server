@@ -1,0 +1,32 @@
+uuid: 2e8add62-d997-37f6-95f4-3a2e1cd15677
+timestamps:
+  login: 1545951558397
+  lastteleport: 1545688689407
+  logout: 1545952335820
+ipAddress: 90.178.236.216
+lastlocation:
+  world: scitaniautismus
+  x: 3403.7532540835373
+  y: 12.0
+  z: -2103.3968899571028
+  yaw: 93.46985
+  pitch: 30.362709
+logoutlocation:
+  world: scitaniautismus
+  x: 3285.251379625827
+  y: 88.95000770523878
+  z: -2129.706984316729
+  yaw: 9.358887
+  pitch: 14.249985
+homes:
+  home:
+    world: scitaniautismus
+    x: 3289.2850239520985
+    y: 108.0
+    z: -2108.5242989218837
+    yaw: 14.298706
+    pitch: 16.4998
+nickname: §2Pesek
+money: '342'
+afk: false
+lastAccountName: Feykro

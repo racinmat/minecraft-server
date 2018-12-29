@@ -1,0 +1,32 @@
+uuid: 6220dacd-98ba-3371-873c-baac80c0b989
+timestamps:
+  login: 1545951156334
+  lastteleport: 1545951188971
+  logout: 1545951307256
+ipAddress: 89.177.68.122
+lastlocation:
+  world: scitaniautismus
+  x: 3196.343501900719
+  y: 94.0
+  z: -2105.1724294304177
+  yaw: 91.24839
+  pitch: 9.8997555
+afk: false
+homes:
+  home:
+    world: scitaniautismus
+    x: 3219.2216959012994
+    y: 89.0
+    z: -2093.934620860241
+    yaw: 165.94751
+    pitch: -4.6499815
+logoutlocation:
+  world: scitaniautismus
+  x: 3224.1591675299937
+  y: 112.0
+  z: -2280.300000011921
+  yaw: -72.98895
+  pitch: 6.899987
+money: '242'
+nickname: §cTNT§1Fira
+lastAccountName: PheleanorPhil

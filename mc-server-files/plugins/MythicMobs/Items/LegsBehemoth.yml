@@ -1,0 +1,12 @@
+LegsBehemoth:
+  ItemStack:
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §dLegs of the Behemoth
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 4
+        DURABILITY: 2
+        THORNS: 2

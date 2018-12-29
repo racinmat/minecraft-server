@@ -1,0 +1,31 @@
+uuid: e7b0f780-52d5-347d-8c98-1bbd39b3263f
+timestamps:
+  login: 1545951067450
+  logout: 1545950888876
+  lastteleport: 1545962775345
+ipAddress: 78.45.245.26
+lastlocation:
+  world: scitaniautismus_nether
+  x: 708.7050813840317
+  y: 57.0
+  z: -400.7487157244352
+  yaw: -173.97302
+  pitch: 26.400084
+logoutlocation:
+  world: scitaniautismus
+  x: 3054.5943506646713
+  y: 17.0
+  z: -1675.085106190879
+  yaw: 178.0753
+  pitch: 10.500002
+homes:
+  home:
+    world: scitaniautismus
+    x: 3081.389764659844
+    y: 17.0
+    z: -1666.2884840064892
+    yaw: -343.175
+    pitch: 19.64996
+money: '442'
+nickname: §aMalman
+lastAccountName: Watros

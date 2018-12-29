@@ -1,0 +1,32 @@
+lastAccountName: Doggy
+timestamps:
+  login: 1546003479073
+  logout: 1546016289291
+  lastteleport: 1546010776374
+  kits:
+    tools: 1546014660334
+ipAddress: 192.162.96.81
+lastlocation:
+  world: scitaniautismus
+  x: 3641.1624435614435
+  y: 63.0
+  z: -2535.7528542793343
+  yaw: 238.46347
+  pitch: 9.299772
+logoutlocation:
+  world: scitaniautismus
+  x: 3417.4824186636483
+  y: 86.0
+  z: -2283.395433000249
+  yaw: -141.89197
+  pitch: 10.350004
+homes:
+  home:
+    world: scitaniautismus
+    x: 3419.8741853155466
+    y: 86.0
+    z: -2287.674009327605
+    yaw: 22.343811
+    pitch: 25.49993
+money: '1397'
+nickname: §aDoggy

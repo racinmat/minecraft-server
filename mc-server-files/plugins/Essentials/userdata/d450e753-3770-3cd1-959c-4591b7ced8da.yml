@@ -1,0 +1,33 @@
+uuid: d450e753-3770-3cd1-959c-4591b7ced8da
+timestamps:
+  login: 1545906989606
+  lastteleport: 1545653089869
+  kits:
+    tools: 1545655406809
+  logout: 1545907264343
+ipAddress: 91.226.113.217
+lastlocation:
+  world: scitaniautismus
+  x: 2808.5
+  y: 97.0
+  z: -1058.5
+  yaw: 267.7486
+  pitch: 46.800117
+homes:
+  home:
+    world: scitaniautismus
+    x: 3389.3025241342525
+    y: 82.0
+    z: -2053.9954248427102
+    yaw: -1.8986816
+    pitch: 12.599862
+nickname: Sulframus
+money: '342'
+logoutlocation:
+  world: scitaniautismus
+  x: 3380.757219218678
+  y: 83.0
+  z: -2044.8361881496558
+  yaw: 268.62134
+  pitch: 46.499977
+lastAccountName: MonsterDoctor

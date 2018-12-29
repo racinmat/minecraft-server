@@ -1,0 +1,12 @@
+ChainmailFirelord:
+  ItemStack:
+    ==: org.bukkit.inventory.ItemStack
+    type: CHAINMAIL_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §dChainmail of the Firelord
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 1
+        PROTECTION_FIRE: 1
+        DURABILITY: 1

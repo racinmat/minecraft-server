@@ -1,0 +1,13 @@
+#MythicDrops Config File
+#How often should it remove drops, in seconds.
+interval: 3600
+#The minimum age for blocks to be removed, so recently dropped items are safe, in seconds
+ageToRemove: 60
+#Should only specific blocks be removed?
+specificBlocksRemove: true
+#If so, which blocks are they? Each id seperated by a comma
+blocksToRemove: 1,2,3,4,5,12,17,18
+#Should the age be ignored one some blocks?
+specificBlocksIgnoreAge: true
+#If so, which ones?
+blocksToIgnoreAge: 3,4,12,18

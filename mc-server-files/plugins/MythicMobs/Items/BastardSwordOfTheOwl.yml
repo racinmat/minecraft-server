@@ -1,0 +1,10 @@
+BastardSwordOfTheOwl:
+  ItemStack:
+    ==: org.bukkit.inventory.ItemStack
+    type: IRON_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §2Bastard Sword of the Owl
+      enchants:
+        DAMAGE_ALL: 1

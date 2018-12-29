@@ -1,0 +1,30 @@
+uuid: 5ee32200-5739-38b8-b606-b3758a8fe17b
+timestamps:
+  login: 1545653301675
+  lastteleport: 1545663401750
+  logout: 1545663420050
+ipAddress: 185.131.62.247
+lastlocation:
+  world: scitaniautismus
+  x: 3214.7535889992196
+  y: 80.0
+  z: -2051.5440082378063
+  yaw: -81.111084
+  pitch: 7.8000174
+money: '342'
+homes:
+  home:
+    world: scitaniautismus
+    x: 3206.301733406775
+    y: 78.0
+    z: -1965.7631632591863
+    yaw: -16.476181
+    pitch: 11.699891
+logoutlocation:
+  world: scitaniautismus
+  x: 3199.7673413890034
+  y: 78.0
+  z: -1975.5888254850072
+  yaw: -2.676268
+  pitch: -6.3001046
+lastAccountName: enemis

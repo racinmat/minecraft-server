@@ -1,0 +1,32 @@
+uuid: b774a8a5-2a6b-321b-9d12-2a12559ca8c4
+timestamps:
+  login: 1546006122073
+  logout: 1546011351793
+  lastteleport: 1546010997334
+ipAddress: 80.250.28.97
+lastlocation:
+  world: scitaniautismus
+  x: 3234.156929190539
+  y: 68.0
+  z: -2049.5467629856516
+  yaw: 235.18733
+  pitch: 16.350042
+logoutlocation:
+  world: scitaniautismus
+  x: 3181.3003721283776
+  y: 86.98301973126034
+  z: -2043.0914389448112
+  yaw: 90.1969
+  pitch: 50.249928
+homes:
+  home:
+    world: scitaniautismus
+    x: 2934.5980235603156
+    y: 63.0
+    z: -2092.0521133476427
+    yaw: 25.495077
+    pitch: 37.649963
+money: '541.5'
+nickname: Kuba
+lastAccountName: SpiiKeKiLLeR
+afk: false

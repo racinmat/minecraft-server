@@ -1,0 +1,18 @@
+Moonshroud:
+  ItemStack:
+    ==: org.bukkit.inventory.ItemStack
+    type: LEATHER_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: LEATHER_ARMOR
+      display-name: §9Moonshroud
+      lore:
+      - '"This cap was sewn with the strings of moonlight."'
+      enchants:
+        OXYGEN: 1
+        MENDING: 1
+      color:
+        ==: Color
+        RED: 60
+        BLUE: 170
+        GREEN: 68

@@ -1,0 +1,13 @@
+BlazingSword:
+  ItemStack:
+    ==: org.bukkit.inventory.ItemStack
+    type: GOLD_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §dBlazing Sword
+      lore:
+      - This sword will shine to the end of times.
+      enchants:
+        FIRE_ASPECT: 1
+        DURABILITY: 3

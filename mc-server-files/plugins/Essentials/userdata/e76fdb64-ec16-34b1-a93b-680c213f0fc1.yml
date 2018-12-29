@@ -1,0 +1,34 @@
+uuid: e76fdb64-ec16-34b1-a93b-680c213f0fc1
+timestamps:
+  login: 1546007018113
+  logout: 1546006850053
+  lastteleport: 1546012527081
+  kits:
+    color: 1546005746704
+ipAddress: 127.0.0.1
+lastlocation:
+  world: scitaniautismus
+  x: 3214.5197614644912
+  y: 98.48718930973584
+  z: -2073.0694964346817
+  yaw: 302.7252
+  pitch: 29.850119
+logoutlocation:
+  world: scitaniautismus
+  x: 3148.2839126223666
+  y: 73.125
+  z: -2067.300000011921
+  yaw: 208.81445
+  pitch: 76.64988
+money: '3243.0'
+nickname: §aK§bK§cKarel
+afk: false
+homes:
+  home:
+    world: scitaniautismus
+    x: 3158.5751532825047
+    y: 90.0
+    z: -2098.9605196079374
+    yaw: 91.075195
+    pitch: 9.000126
+lastAccountName: KrysiAutismus
