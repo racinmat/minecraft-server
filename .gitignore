@@ -1,2 +1,12 @@
 # Created by .ignore support plugin (hsz.mobi)
-/mc-server-files/
+/Serveru/
+/mc-server-files/scitaniautismus/
+/mc-server-files/scitaniautismus_nether/
+/mc-server-files/scitaniautismus_the_end/
+/mc-server-files/world/
+/mc-server-files/forge-1.12.2-14.23.5.2768-universal.jar
+/mc-server-files/forge-1.12.2-14.23.5.2768-installer.jar.log
+/mc-server-files/minecraft_server.1.12.2.jar
+/mc-server-files/libraries/
+/mc-server-files/logs/
+/mc-server-files/plugins/
