@@ -6,14 +6,18 @@ Minecraft;1.12.2;
 Minecraft Coder Pack;9.42;http://www.modcoderpack.com/website/
 Forge Mod Loader;8.0.99.99;https://github.com/MinecraftForge/FML/wiki
 Minecraft Forge;14.23.5.2768;http://minecraftforge.net
+Actually Additions;1.12.2-r144;http://github.com/Ellpeck/ActuallyAdditions
 Applied Energistics 2;rv6-stable-6;http://ae2.ae-mod.info
 Baubles;1.5.2;http://www.minecraftforum.net/topic/2535073-baubles
+Bed Bugs;@VERSION@;
 BiblioCraft;2.4.5;http://www.bibliocraftmod.com
 Biomes O' Plenty;7.0.1.2422;http://mods.curse.com/mc-mods/minecraft/220318-biomes-o-plenty
+Just Enough Items;4.13.1.225;https://github.com/mezz/JustEnoughItems
+Thaumcraft;6.1.BETA26;http://www.minecraftforum.net/topic/2011841-thaumcraft
+Botania;r1.10-358;http://www.botaniamod.net
 Chisel;MC1.12.2-0.2.1.35;https://minecraft.curseforge.com/projects/chisel
 Clumps;3.1.1;
 Mantle;1.12-1.3.3.39;https://github.com/SlimeKnights/Mantle
-Thaumcraft;6.1.BETA26;http://www.minecraftforum.net/topic/2011841-thaumcraft
 The Twilight Forest;3.8.689;https://minecraft.curseforge.com/projects/the-twilight-forest
 Tinkers' Construct;1.12.2-2.11.0.106;https://github.com/SlimeKnights/TinkersConstruct
 Construct's Armory;1.2.1.1;
@@ -26,4 +30,6 @@ Mekanism;1.12.2-9.4.13.349;
 MekanismGenerators;9.4.11;
 Morpheus;1.12-3.3.2;http://www.curse.com/mc-mods/Minecraft/morpheus
 Oreberries;0.5.0;https://minecraft.curseforge.com/projects/oreberries
+Pam's HarvestCraft;1.12.2zb;http://minecraft.curseforge.com/members/MatrexsVigil/projects
 Thaumcrafft Inventory Scanning;2.0.10;
+Thaumic Tinkerer;1.12.2-5.0-353c71c;http://minecraftforum.net/topic/1813058-
