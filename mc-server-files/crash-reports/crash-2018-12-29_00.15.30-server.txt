@@ -1,0 +1,95 @@
+---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+  CTMCorePlugin (CTM-MC1.12.2-0.3.3.22.jar)
+Contact their authors BEFORE contacting forge
+
+// Shall we play a game?
+
+Time: 12/29/18 12:15 AM
+Description: Exception in server tick loop
+
+java.lang.IllegalAccessError: tried to access field net.minecraft.block.Block.field_149772_a from class slimeknights.mantle.block.BlockStairsBase
+	at slimeknights.mantle.block.BlockStairsBase.<init>(BlockStairsBase.java:12)
+	at slimeknights.tconstruct.common.TinkerPulse.registerBlockStairsFrom(TinkerPulse.java:72)
+	at slimeknights.tconstruct.shared.TinkerCommons.registerBlocks(TinkerCommons.java:209)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_90_TinkerCommons_registerBlocks_Register.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:144)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.registries.GameData.fireRegistryEvents(GameData.java:775)
+	at net.minecraftforge.fml.common.Loader.preinitializeMods(Loader.java:628)
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:99)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Linux (amd64) version 4.9.125-linuxkit
+	Java Version: 1.8.0_171, Oracle Corporation
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 560986136 bytes (534 MB) / 1073741824 bytes (1024 MB) up to 8589934592 bytes (8192 MB)
+	JVM Flags: 3 total; -XX:+UseG1GC -Xms1G -Xmx8G
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP 9.42 Powered by Forge 14.23.5.2768 25 mods loaded, 25 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State | ID                 | Version           | Source                                        | Signature                                |
+	|:----- |:------------------ |:----------------- |:--------------------------------------------- |:---------------------------------------- |
+	| UCH   | minecraft          | 1.12.2            | minecraft.jar                                 | None                                     |
+	| UCH   | mcp                | 9.42              | minecraft.jar                                 | None                                     |
+	| UCH   | FML                | 8.0.99.99         | forge-1.12.2-14.23.5.2768-universal.jar       | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| UCH   | forge              | 14.23.5.2768      | forge-1.12.2-14.23.5.2768-universal.jar       | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| UCH   | baubles            | 1.5.2             | Baubles-1.12-1.5.2.jar                        | None                                     |
+	| UCH   | bibliocraft        | 2.4.5             | BiblioCraft[v2.4.5][MC1.12.2].jar             | None                                     |
+	| UCH   | biomesoplenty      | 7.0.1.2422        | BiomesOPlenty-1.12.2-7.0.1.2422-universal.jar | None                                     |
+	| UCH   | chisel             | MC1.12.2-0.2.1.35 | Chisel-MC1.12.2-0.2.1.35.jar                  | None                                     |
+	| UCH   | clumps             | 3.1.1             | Clumps-3.1.1.jar                              | None                                     |
+	| UCH   | mantle             | 1.12-1.3.3.39     | Mantle-1.12-1.3.3.39.jar                      | None                                     |
+	| UCH   | thaumcraft         | 6.1.BETA26        | Thaumcraft-1.12.2-6.1.BETA26.jar              | None                                     |
+	| UCH   | twilightforest     | 3.8.689           | twilightforest-1.12.2-3.8.689-universal.jar   | None                                     |
+	| UCH   | tconstruct         | 1.12.2-2.11.0.106 | TConstruct-1.12.2-2.11.0.106.jar              | None                                     |
+	| UCH   | conarm             | 1.2.1.1           | conarm-1.12.2-1.2.1.1.jar                     | 5d5b8aee896a4f5ea3f3114784742662a67ad32f |
+	| UCH   | worldedit          | 6.1.8             | worldedit-forge-mc1.12-6.1.8-dist.jar         | None                                     |
+	| UCH   | forgeessentials    | 12.3              | forgeessentials-1.12.2-12.3.27-server.jar     | None                                     |
+	| UCH   | gravestone         | 1.10.1            | gravestone-1.10.1.jar                         | None                                     |
+	| UCH   | ichunutil          | 7.1.4             | iChunUtil-1.12.2-7.1.4.jar                    | None                                     |
+	| UCH   | hats               | 7.0.0             | Hats-1.12.2-7.0.2.jar                         | None                                     |
+	| UCH   | ironchest          | 1.12.2-7.0.54.838 | ironchest-1.12.2-7.0.54.838.jar               | None                                     |
+	| UCH   | mekanism           | 1.12.2-9.4.13.349 | Mekanism-1.12.2-9.4.13.349.jar                | None                                     |
+	| UCH   | mekanismgenerators | 9.4.11            | MekanismGenerators-1.12.2-9.4.13.349.jar      | None                                     |
+	| UCH   | morpheus           | 1.12-3.3.2        | Morpheus-1.12-3.3.2.jar                       | None                                     |
+	| UCH   | oreberries         | 0.5.0             | oreberries-1.12.x-0.5.0.jar                   | None                                     |
+	| UCH   | tcinventoryscan    | 2.0.10            | ThaumicInventoryScanning_1.12.2-2.0.10.jar    | None                                     |
+
+	Loaded coremods (and transformers): 
+CTMCorePlugin (CTM-MC1.12.2-0.3.3.22.jar)
+  team.chisel.ctm.client.asm.CTMTransformer
+	Pulsar/tconstruct loaded Pulses: 
+		- TinkerCommons (Enabled/Forced)
+		- TinkerWorld (Enabled/Not Forced)
+		- TinkerTools (Enabled/Not Forced)
+		- TinkerHarvestTools (Enabled/Forced)
+		- TinkerMeleeWeapons (Enabled/Forced)
+		- TinkerRangedWeapons (Enabled/Forced)
+		- TinkerModifiers (Enabled/Forced)
+		- TinkerSmeltery (Enabled/Not Forced)
+		- TinkerGadgets (Enabled/Not Forced)
+		- TinkerOredict (Enabled/Forced)
+		- TinkerIntegration (Enabled/Forced)
+		- TinkerFluids (Enabled/Forced)
+		- TinkerMaterials (Enabled/Forced)
+		- TinkerModelRegister (Enabled/Forced)
+		- chiselIntegration (Enabled/Not Forced)
+
+	ForgeEssentials: Running ForgeEssentials 12.3.27 (318695e). Modules loaded: Afterlife, Backups, Chat, Commands, Economy, JScripting, Multiworld, Permissions, PlayerLogger, Protection, Remote, SignTools, Teleport, Tickets, WEIntegrationTools, WorldBorder, factions, mapper
+	Profiler Position: N/A (disabled)
+	Is Modded: Definitely; Server brand changed to 'fml,forge'
+	Type: Dedicated Server (map_server.txt)

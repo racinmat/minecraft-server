@@ -1,0 +1,77 @@
+---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+  CTMCorePlugin (CTM-MC1.12.2-0.3.3.22.jar)
+Contact their authors BEFORE contacting forge
+
+// You're mean.
+
+Time: 12/29/18 12:14 AM
+Description: Exception in server tick loop
+
+Missing Mods:
+	unknown : need [1.12-1.3.1,): have missing
+
+Missing Mods:
+	unknown : need [7.0.2,8.0.0): have missing
+
+Missing Mods:
+	unknown : need [1.12-1.3.3,): have missing
+
+net.minecraftforge.fml.common.MultipleModsErrored
+	at net.minecraftforge.fml.common.Loader.sortModList(Loader.java:298)
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:570)
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:98)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Linux (amd64) version 4.9.125-linuxkit
+	Java Version: 1.8.0_171, Oracle Corporation
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 635209728 bytes (605 MB) / 1073741824 bytes (1024 MB) up to 8589934592 bytes (8192 MB)
+	JVM Flags: 3 total; -XX:+UseG1GC -Xms1G -Xmx8G
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP 9.42 Powered by Forge 14.23.5.2768 23 mods loaded, 23 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State | ID                 | Version           | Source                                        | Signature                                |
+	|:----- |:------------------ |:----------------- |:--------------------------------------------- |:---------------------------------------- |
+	| U     | minecraft          | 1.12.2            | minecraft.jar                                 | None                                     |
+	| U     | mcp                | 9.42              | minecraft.jar                                 | None                                     |
+	| U     | FML                | 8.0.99.99         | forge-1.12.2-14.23.5.2768-universal.jar       | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| U     | forge              | 14.23.5.2768      | forge-1.12.2-14.23.5.2768-universal.jar       | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| U     | baubles            | 1.5.2             | Baubles-1.12-1.5.2.jar                        | None                                     |
+	| U     | bibliocraft        | 2.4.5             | BiblioCraft[v2.4.5][MC1.12.2].jar             | None                                     |
+	| U     | biomesoplenty      | 7.0.1.2422        | BiomesOPlenty-1.12.2-7.0.1.2422-universal.jar | None                                     |
+	| U     | chisel             | MC1.12.2-0.2.1.35 | Chisel-MC1.12.2-0.2.1.35.jar                  | None                                     |
+	| U     | clumps             | 3.1.1             | Clumps-3.1.1.jar                              | None                                     |
+	| U     | conarm             | 1.2.1.1           | conarm-1.12.2-1.2.1.1.jar                     | None                                     |
+	| U     | forgeessentials    | 12.3              | forgeessentials-1.12.2-12.3.27-server.jar     | None                                     |
+	| U     | gravestone         | 1.10.1            | gravestone-1.10.1.jar                         | None                                     |
+	| U     | hats               | 7.0.0             | Hats-1.12.2-7.0.2.jar                         | None                                     |
+	| U     | ironchest          | 1.12.2-7.0.54.838 | ironchest-1.12.2-7.0.54.838.jar               | None                                     |
+	| U     | mekanism           | 1.12.2-9.4.13.349 | Mekanism-1.12.2-9.4.13.349.jar                | None                                     |
+	| U     | mekanismgenerators | 9.4.11            | MekanismGenerators-1.12.2-9.4.13.349.jar      | None                                     |
+	| U     | morpheus           | 1.12-3.3.2        | Morpheus-1.12-3.3.2.jar                       | None                                     |
+	| U     | oreberries         | 0.5.0             | oreberries-1.12.x-0.5.0.jar                   | None                                     |
+	| U     | tconstruct         | 1.12.2-2.11.0.106 | TConstruct-1.12.2-2.11.0.106.jar              | None                                     |
+	| U     | thaumcraft         | 6.1.BETA26        | Thaumcraft-1.12.2-6.1.BETA26.jar              | None                                     |
+	| U     | tcinventoryscan    | 2.0.10            | ThaumicInventoryScanning_1.12.2-2.0.10.jar    | None                                     |
+	| U     | twilightforest     | 3.8.689           | twilightforest-1.12.2-3.8.689-universal.jar   | None                                     |
+	| U     | worldedit          | 6.1.8             | worldedit-forge-mc1.12-6.1.8-dist.jar         | None                                     |
+
+	Loaded coremods (and transformers): 
+CTMCorePlugin (CTM-MC1.12.2-0.3.3.22.jar)
+  team.chisel.ctm.client.asm.CTMTransformer
+	Profiler Position: N/A (disabled)
+	Is Modded: Definitely; Server brand changed to 'fml,forge'
+	Type: Dedicated Server (map_server.txt)
