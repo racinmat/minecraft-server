@@ -1,11 +1,12 @@
 # --- ModList ---
-# Generated: 29-11-2018 (Server time)
+# Generated: 30-11-2018 (Server time)
 # Change the location of this file in main.cfg
 
 Minecraft;1.12.2;
 Minecraft Coder Pack;9.42;http://www.modcoderpack.com/website/
 Forge Mod Loader;8.0.99.99;https://github.com/MinecraftForge/FML/wiki
 Minecraft Forge;14.23.5.2768;http://minecraftforge.net
+Applied Energistics 2;rv6-stable-6;http://ae2.ae-mod.info
 Baubles;1.5.2;http://www.minecraftforum.net/topic/2535073-baubles
 BiblioCraft;2.4.5;http://www.bibliocraftmod.com
 Biomes O' Plenty;7.0.1.2422;http://mods.curse.com/mc-mods/minecraft/220318-biomes-o-plenty
