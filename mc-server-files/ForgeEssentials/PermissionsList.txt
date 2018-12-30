@@ -1,6 +1,6 @@
 #// ------------ PERMISSIONS LIST ---------- \\#
-#// --------------- 30.12 10:17 ------------ \\#
-#// ----------- Total amount: 9825 --------- \\#
+#// --------------- 30.12 12:54 ------------ \\#
+#// ----------- Total amount: 18394 --------- \\#
 #// ---------------------------------------- \\#
 command./searchitem                                                              # (default: true) 
 command./sel                                                                     # (default: true) 
@@ -12,8 +12,11 @@ command.ban                                                                     
 command.ban-ip                                                                   # (OP only: true) 
 command.banlist                                                                  # (OP only: true) 
 command.baubles                                                                  # (OP only: true) 
+command.bedbugs                                                                  # (OP only: true) 
 command.biomesoplenty                                                            # (OP only: true) 
 command.blockdata                                                                # (OP only: true) 
+command.botania-open                                                             # (default: true) 
+command.botania-share                                                            # (default: true) 
 command.brush                                                                    # (default: true) 
 command.clear                                                                    # (OP only: true) 
 command.clone                                                                    # (OP only: true) 
@@ -21,6 +24,7 @@ command.debug                                                                   
 command.defaultgamemode                                                          # (OP only: true) 
 command.deop                                                                     # (OP only: true) 
 command.difficulty                                                               # (OP only: true) 
+command.dumpenchants                                                             # (OP only: true) 
 command.effect                                                                   # (OP only: true) 
 command.enchant                                                                  # (OP only: true) 
 command.entitydata                                                               # (OP only: true) 
@@ -44,6 +48,7 @@ command.pardon-ip                                                               
 command.particle                                                                 # (OP only: true) 
 command.playsound                                                                # (OP only: true) 
 command.recipe                                                                   # (OP only: true) 
+command.refreshmulti                                                             # (OP only: true) 
 command.reload                                                                   # (OP only: true) 
 command.replaceitem                                                              # (OP only: true) 
 command.save-all                                                                 # (OP only: true) 
@@ -181,6 +186,9 @@ fe.core.reload                                                                  
 fe.core.versioninfo                                                              # (OP only: true) Shows notification to the player if FE version is outdated
 fe.economy.bounty                                                                # Bounty for killing entities (ex.: fe.economy.bounty.Skeleton = 5)
 fe.economy.bounty.biomesoplenty:wasp                                             # (default: 0) 
+fe.economy.bounty.botania:doppleganger                                           # (default: 0) 
+fe.economy.bounty.botania:pink_wither                                            # (default: 0) 
+fe.economy.bounty.botania:pixie                                                  # (default: 0) 
 fe.economy.bounty.gravestone:player_ghost                                        # (default: 0) 
 fe.economy.bounty.mekanism:babyskeleton                                          # (default: 0) 
 fe.economy.bounty.mekanism:robit                                                 # (default: 0) 
@@ -529,6 +537,9 @@ fe.protection.gamemode                                                          
 fe.protection.mobspawn.*                                                         # (default: true) (global) Allow spawning of mobs
 fe.protection.mobspawn.forced.*                                                  # (default: true) (global) Allow forced spawning of mobs (mob-spawners)
 fe.protection.mobspawn.forced.biomesoplenty:wasp                                 # (default: true) 
+fe.protection.mobspawn.forced.botania:doppleganger                               # (default: true) 
+fe.protection.mobspawn.forced.botania:pink_wither                                # (default: true) 
+fe.protection.mobspawn.forced.botania:pixie                                      # (default: true) 
 fe.protection.mobspawn.forced.gravestone:player_ghost                            # (default: true) 
 fe.protection.mobspawn.forced.mekanism:babyskeleton                              # (default: true) 
 fe.protection.mobspawn.forced.mekanism:robit                                     # (default: true) 
@@ -682,6 +693,9 @@ fe.protection.mobspawn.forced.type.unknown                                      
 fe.protection.mobspawn.forced.type.villager                                      # (default: true) 
 fe.protection.mobspawn.natural.*                                                 # (default: true) (global) Allow natural spawning of mobs (random spawn)
 fe.protection.mobspawn.natural.biomesoplenty:wasp                                # (default: true) 
+fe.protection.mobspawn.natural.botania:doppleganger                              # (default: true) 
+fe.protection.mobspawn.natural.botania:pink_wither                               # (default: true) 
+fe.protection.mobspawn.natural.botania:pixie                                     # (default: true) 
 fe.protection.mobspawn.natural.gravestone:player_ghost                           # (default: true) 
 fe.protection.mobspawn.natural.mekanism:babyskeleton                             # (default: true) 
 fe.protection.mobspawn.natural.mekanism:robit                                    # (default: true) 
@@ -857,7 +871,7 @@ fe.remote                                                                       
 fe.remote.chat.push                                                              # (default: true) Allows requesting chat push messages
 fe.remote.chat.query                                                             # (default: true) Allows querying chat messages
 fe.remote.chat.send                                                              # (OP only: true) fe.remote.chat.send
-fe.remote.command                                                                # (default: true) Allows to run commands remotely
+fe.remote.command                                                                # (OP only: true) Allows to run commands remotely
 fe.remote.control                                                                # (OP only: true) Allows to start / stop remote server and control users (regen passkeys, kick, block)
 fe.remote.mapper.query.region                                                    # (default: true) Allows querying region tiles
 fe.remote.permission.set                                                         # (OP only: true) Allows to change permissions
