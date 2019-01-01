@@ -31,4 +31,4 @@ services:
     ports:
       - 8080:80
     volumes:
-      - "FERemotePanel:/var/www/html"
+      - "./FERemotePanel:/var/www/html"

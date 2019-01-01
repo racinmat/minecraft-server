@@ -1,6 +1,6 @@
 #// ------------ PERMISSIONS LIST ---------- \\#
-#// --------------- 01.01 11:39 ------------ \\#
-#// ----------- Total amount: 18394 --------- \\#
+#// --------------- 01.01 19:41 ------------ \\#
+#// ----------- Total amount: 18430 --------- \\#
 #// ---------------------------------------- \\#
 command./searchitem                                                              # (default: true) 
 command./sel                                                                     # (default: true) 
@@ -46,6 +46,7 @@ command.op                                                                      
 command.pardon                                                                   # (OP only: true) 
 command.pardon-ip                                                                # (OP only: true) 
 command.particle                                                                 # (OP only: true) 
+command.pewter                                                                   # (OP only: true) 
 command.playsound                                                                # (OP only: true) 
 command.recipe                                                                   # (OP only: true) 
 command.refreshmulti                                                             # (OP only: true) 
@@ -871,7 +872,7 @@ fe.remote                                                                       
 fe.remote.chat.push                                                              # (default: true) Allows requesting chat push messages
 fe.remote.chat.query                                                             # (default: true) Allows querying chat messages
 fe.remote.chat.send                                                              # (OP only: true) fe.remote.chat.send
-fe.remote.command                                                                # (default: true) Allows to run commands remotely
+fe.remote.command                                                                # (OP only: true) Allows to run commands remotely
 fe.remote.control                                                                # (OP only: true) Allows to start / stop remote server and control users (regen passkeys, kick, block)
 fe.remote.mapper.query.region                                                    # (default: true) Allows querying region tiles
 fe.remote.permission.set                                                         # (OP only: true) Allows to change permissions

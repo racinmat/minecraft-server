@@ -1,6 +1,6 @@
 #// -------- PERMISSIONS LIST BLOCKS ------- \\#
-#// --------------- 01.01 11:39 ------------ \\#
-#// ----------- Total amount: 18394 --------- \\#
+#// --------------- 01.01 19:41 ------------ \\#
+#// ----------- Total amount: 18430 --------- \\#
 #// ---------------------------------------- \\#
 fe.protection.break.*                                                            # (default: true) Allow breaking blocks
 fe.protection.break.actuallyadditions.block_atomic_reconstructor.*               # (default: true) BREAK Atomic Reconstructor
@@ -1334,6 +1334,13 @@ fe.protection.break.oreberries.essence_oreberry_bush.*                          
 fe.protection.break.oreberries.gold_oreberry_bush.*                              # (default: true) BREAK Gold Oreberry Bush
 fe.protection.break.oreberries.iron_oreberry_bush.*                              # (default: true) BREAK Iron Oreberry Bush
 fe.protection.break.oreberries.tin_oreberry_bush.*                               # (default: true) BREAK Tin Oreberry Bush
+fe.protection.break.pewter.molten_elementium.*                                   # (default: true) BREAK Molten Elementium
+fe.protection.break.pewter.molten_manasteel.*                                    # (default: true) BREAK Molten Manasteel
+fe.protection.break.pewter.molten_osmium.*                                       # (default: true) BREAK Molten Osmium
+fe.protection.break.pewter.molten_terrasteel.*                                   # (default: true) BREAK Molten Terrasteel
+fe.protection.break.pewter.molten_thaumium.*                                     # (default: true) BREAK Molten Thaumium
+fe.protection.break.pewter.molten_voidmetal.*                                    # (default: true) BREAK Molten Void Metal
+fe.protection.break.pewter.pewterfluid.*                                         # (default: true) BREAK fluid.other.name
 fe.protection.break.tconstruct.blood.*                                           # (default: true) BREAK fluid.blood.name
 fe.protection.break.tconstruct.blueslime.*                                       # (default: true) BREAK Liquid Blue Slime
 fe.protection.break.tconstruct.brownstone.*                                      # (default: true) BREAK tile.tconstruct.brownstone.name
@@ -3072,6 +3079,13 @@ fe.protection.explode.oreberries.essence_oreberry_bush.*                        
 fe.protection.explode.oreberries.gold_oreberry_bush.*                            # (default: true) EXPLODE Gold Oreberry Bush
 fe.protection.explode.oreberries.iron_oreberry_bush.*                            # (default: true) EXPLODE Iron Oreberry Bush
 fe.protection.explode.oreberries.tin_oreberry_bush.*                             # (default: true) EXPLODE Tin Oreberry Bush
+fe.protection.explode.pewter.molten_elementium.*                                 # (default: true) EXPLODE Molten Elementium
+fe.protection.explode.pewter.molten_manasteel.*                                  # (default: true) EXPLODE Molten Manasteel
+fe.protection.explode.pewter.molten_osmium.*                                     # (default: true) EXPLODE Molten Osmium
+fe.protection.explode.pewter.molten_terrasteel.*                                 # (default: true) EXPLODE Molten Terrasteel
+fe.protection.explode.pewter.molten_thaumium.*                                   # (default: true) EXPLODE Molten Thaumium
+fe.protection.explode.pewter.molten_voidmetal.*                                  # (default: true) EXPLODE Molten Void Metal
+fe.protection.explode.pewter.pewterfluid.*                                       # (default: true) EXPLODE fluid.other.name
 fe.protection.explode.tconstruct.blood.*                                         # (default: true) EXPLODE fluid.blood.name
 fe.protection.explode.tconstruct.blueslime.*                                     # (default: true) EXPLODE Liquid Blue Slime
 fe.protection.explode.tconstruct.brownstone.*                                    # (default: true) EXPLODE tile.tconstruct.brownstone.name
@@ -4811,6 +4825,13 @@ fe.protection.interact.oreberries.essence_oreberry_bush.*                       
 fe.protection.interact.oreberries.gold_oreberry_bush.*                           # (default: true) INTERACT Gold Oreberry Bush
 fe.protection.interact.oreberries.iron_oreberry_bush.*                           # (default: true) INTERACT Iron Oreberry Bush
 fe.protection.interact.oreberries.tin_oreberry_bush.*                            # (default: true) INTERACT Tin Oreberry Bush
+fe.protection.interact.pewter.molten_elementium.*                                # (default: true) INTERACT Molten Elementium
+fe.protection.interact.pewter.molten_manasteel.*                                 # (default: true) INTERACT Molten Manasteel
+fe.protection.interact.pewter.molten_osmium.*                                    # (default: true) INTERACT Molten Osmium
+fe.protection.interact.pewter.molten_terrasteel.*                                # (default: true) INTERACT Molten Terrasteel
+fe.protection.interact.pewter.molten_thaumium.*                                  # (default: true) INTERACT Molten Thaumium
+fe.protection.interact.pewter.molten_voidmetal.*                                 # (default: true) INTERACT Molten Void Metal
+fe.protection.interact.pewter.pewterfluid.*                                      # (default: true) INTERACT fluid.other.name
 fe.protection.interact.tconstruct.blood.*                                        # (default: true) INTERACT fluid.blood.name
 fe.protection.interact.tconstruct.blueslime.*                                    # (default: true) INTERACT Liquid Blue Slime
 fe.protection.interact.tconstruct.brownstone.*                                   # (default: true) INTERACT tile.tconstruct.brownstone.name
@@ -6549,6 +6570,13 @@ fe.protection.place.oreberries.essence_oreberry_bush.*                          
 fe.protection.place.oreberries.gold_oreberry_bush.*                              # (default: true) PLACE Gold Oreberry Bush
 fe.protection.place.oreberries.iron_oreberry_bush.*                              # (default: true) PLACE Iron Oreberry Bush
 fe.protection.place.oreberries.tin_oreberry_bush.*                               # (default: true) PLACE Tin Oreberry Bush
+fe.protection.place.pewter.molten_elementium.*                                   # (default: true) PLACE Molten Elementium
+fe.protection.place.pewter.molten_manasteel.*                                    # (default: true) PLACE Molten Manasteel
+fe.protection.place.pewter.molten_osmium.*                                       # (default: true) PLACE Molten Osmium
+fe.protection.place.pewter.molten_terrasteel.*                                   # (default: true) PLACE Molten Terrasteel
+fe.protection.place.pewter.molten_thaumium.*                                     # (default: true) PLACE Molten Thaumium
+fe.protection.place.pewter.molten_voidmetal.*                                    # (default: true) PLACE Molten Void Metal
+fe.protection.place.pewter.pewterfluid.*                                         # (default: true) PLACE fluid.other.name
 fe.protection.place.tconstruct.blood.*                                           # (default: true) PLACE fluid.blood.name
 fe.protection.place.tconstruct.blueslime.*                                       # (default: true) PLACE Liquid Blue Slime
 fe.protection.place.tconstruct.brownstone.*                                      # (default: true) PLACE tile.tconstruct.brownstone.name
@@ -8287,6 +8315,13 @@ fe.protection.trample.oreberries.essence_oreberry_bush.*                        
 fe.protection.trample.oreberries.gold_oreberry_bush.*                            # (default: true) PLACE Gold Oreberry Bush
 fe.protection.trample.oreberries.iron_oreberry_bush.*                            # (default: true) PLACE Iron Oreberry Bush
 fe.protection.trample.oreberries.tin_oreberry_bush.*                             # (default: true) PLACE Tin Oreberry Bush
+fe.protection.trample.pewter.molten_elementium.*                                 # (default: true) PLACE Molten Elementium
+fe.protection.trample.pewter.molten_manasteel.*                                  # (default: true) PLACE Molten Manasteel
+fe.protection.trample.pewter.molten_osmium.*                                     # (default: true) PLACE Molten Osmium
+fe.protection.trample.pewter.molten_terrasteel.*                                 # (default: true) PLACE Molten Terrasteel
+fe.protection.trample.pewter.molten_thaumium.*                                   # (default: true) PLACE Molten Thaumium
+fe.protection.trample.pewter.molten_voidmetal.*                                  # (default: true) PLACE Molten Void Metal
+fe.protection.trample.pewter.pewterfluid.*                                       # (default: true) PLACE fluid.other.name
 fe.protection.trample.tconstruct.blood.*                                         # (default: true) PLACE fluid.blood.name
 fe.protection.trample.tconstruct.blueslime.*                                     # (default: true) PLACE Liquid Blue Slime
 fe.protection.trample.tconstruct.brownstone.*                                    # (default: true) PLACE tile.tconstruct.brownstone.name

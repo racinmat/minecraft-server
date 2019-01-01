@@ -3658,6 +3658,13 @@ tile.animatedTorch
 item.chorusfruitsoupitem
 item.strawberryjellysandwichitem
 item.venisoncookeditem
+fluid.pewter.elementium
+fluid.pewter.thaumium
+fluid.other
+fluid.pewter.osmium
+fluid.pewter.voidmetal
+fluid.pewter.terrasteel
+fluid.pewter.manasteel
 tile.air
 tile.stone
 tile.grass
@@ -5395,3 +5402,10 @@ tile.pavlovacake
 tile.pineappleupsidedowncake
 tile.pumpkincheesecake
 tile.redvelvetcake
+fluid.pewter.elementium
+fluid.pewter.thaumium
+fluid.other
+fluid.pewter.osmium
+fluid.pewter.voidmetal
+fluid.pewter.terrasteel
+fluid.pewter.manasteel
