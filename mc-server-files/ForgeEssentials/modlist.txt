@@ -1,5 +1,5 @@
 # --- ModList ---
-# Generated: 1-0-2019 (Server time)
+# Generated: 2-0-2019 (Server time)
 # Change the location of this file in main.cfg
 
 Minecraft;1.12.2;
