@@ -21,6 +21,7 @@ Mantle;1.12-1.3.3.39;https://github.com/SlimeKnights/Mantle
 The Twilight Forest;3.8.689;https://minecraft.curseforge.com/projects/the-twilight-forest
 Tinkers' Construct;1.12.2-2.11.0.106;https://github.com/SlimeKnights/TinkersConstruct
 Construct's Armory;1.2.1.1;
+CustomNPCs;1.12;http://tinyurl.com/customnpcs
 WorldEdit;6.1.8;http://wiki.sk89q.com/wiki/WorldEdit
 Forge Essentials;12.3;
 Shadowfacts' Forgelin;1.8.2;https://github.com/shadowfacts/Forgelin

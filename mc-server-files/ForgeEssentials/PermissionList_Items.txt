@@ -1,6 +1,6 @@
 #// --------- PERMISSIONS LIST ITEMS ------- \\#
-#// --------------- 02.01 02:36 ------------ \\#
-#// ----------- Total amount: 18430 --------- \\#
+#// --------------- 02.01 19:39 ------------ \\#
+#// ----------- Total amount: 18620 --------- \\#
 #// ---------------------------------------- \\#
 fe.protection.craft.*                                                            # (default: true) Allow crafting of items. Not necessarily works with modded crafting tables
 fe.protection.craft.actuallyadditions.diamond_paxel.*                            # (default: true) CRAFT Diamond AIOT
@@ -487,6 +487,16 @@ fe.protection.craft.conarm.travel_sack.*                                        
 fe.protection.craft.conarm.travel_slowfall.*                                     # (default: true) CRAFT Traveller's Cloak (Slow Fall)
 fe.protection.craft.conarm.travel_sneak.*                                        # (default: true) CRAFT Traveller's Cloak (Invisibility)
 fe.protection.craft.conarm.travel_soul.*                                         # (default: true) CRAFT Traveller's Goggles (Soul Sight)
+fe.protection.craft.customnpcs.npcmobcloner.*                                    # (default: true) CRAFT Mob Cloner
+fe.protection.craft.customnpcs.npcmounter.*                                      # (default: true) CRAFT Mounter
+fe.protection.craft.customnpcs.npcmovingpath.*                                   # (default: true) CRAFT Npc Pather
+fe.protection.craft.customnpcs.npcscripteddoortool.*                             # (default: true) CRAFT Scripted Door
+fe.protection.craft.customnpcs.npcscripter.*                                     # (default: true) CRAFT Scripter
+fe.protection.craft.customnpcs.npcsoulstoneempty.*                               # (default: true) CRAFT Soulstone Empty
+fe.protection.craft.customnpcs.npcsoulstonefilled.*                              # (default: true) CRAFT Soulstone Filled
+fe.protection.craft.customnpcs.npcteleporter.*                                   # (default: true) CRAFT Teleporter
+fe.protection.craft.customnpcs.npcwand.*                                         # (default: true) CRAFT Npc Wand
+fe.protection.craft.customnpcs.scripted_item.*                                   # (default: true) CRAFT Scripted Item
 fe.protection.craft.forge.bucketfilled.*                                         # (default: true) CRAFT Bucket
 fe.protection.craft.gravestone.death_info.*                                      # (default: true) CRAFT Death Info
 fe.protection.craft.harvestcraft.agaveitem.*                                     # (default: true) CRAFT Agave
@@ -2666,6 +2676,16 @@ fe.protection.exist.conarm.travel_sack.*                                        
 fe.protection.exist.conarm.travel_slowfall.*                                     # (default: true) EXIST Traveller's Cloak (Slow Fall)
 fe.protection.exist.conarm.travel_sneak.*                                        # (default: true) EXIST Traveller's Cloak (Invisibility)
 fe.protection.exist.conarm.travel_soul.*                                         # (default: true) EXIST Traveller's Goggles (Soul Sight)
+fe.protection.exist.customnpcs.npcmobcloner.*                                    # (default: true) EXIST Mob Cloner
+fe.protection.exist.customnpcs.npcmounter.*                                      # (default: true) EXIST Mounter
+fe.protection.exist.customnpcs.npcmovingpath.*                                   # (default: true) EXIST Npc Pather
+fe.protection.exist.customnpcs.npcscripteddoortool.*                             # (default: true) EXIST Scripted Door
+fe.protection.exist.customnpcs.npcscripter.*                                     # (default: true) EXIST Scripter
+fe.protection.exist.customnpcs.npcsoulstoneempty.*                               # (default: true) EXIST Soulstone Empty
+fe.protection.exist.customnpcs.npcsoulstonefilled.*                              # (default: true) EXIST Soulstone Filled
+fe.protection.exist.customnpcs.npcteleporter.*                                   # (default: true) EXIST Teleporter
+fe.protection.exist.customnpcs.npcwand.*                                         # (default: true) EXIST Npc Wand
+fe.protection.exist.customnpcs.scripted_item.*                                   # (default: true) EXIST Scripted Item
 fe.protection.exist.forge.bucketfilled.*                                         # (default: true) EXIST Bucket
 fe.protection.exist.gravestone.death_info.*                                      # (default: true) EXIST Death Info
 fe.protection.exist.harvestcraft.agaveitem.*                                     # (default: true) EXIST Agave
@@ -4845,6 +4865,16 @@ fe.protection.inventory.conarm.travel_sack.*                                    
 fe.protection.inventory.conarm.travel_slowfall.*                                 # (default: true) INVENTORY Traveller's Cloak (Slow Fall)
 fe.protection.inventory.conarm.travel_sneak.*                                    # (default: true) INVENTORY Traveller's Cloak (Invisibility)
 fe.protection.inventory.conarm.travel_soul.*                                     # (default: true) INVENTORY Traveller's Goggles (Soul Sight)
+fe.protection.inventory.customnpcs.npcmobcloner.*                                # (default: true) INVENTORY Mob Cloner
+fe.protection.inventory.customnpcs.npcmounter.*                                  # (default: true) INVENTORY Mounter
+fe.protection.inventory.customnpcs.npcmovingpath.*                               # (default: true) INVENTORY Npc Pather
+fe.protection.inventory.customnpcs.npcscripteddoortool.*                         # (default: true) INVENTORY Scripted Door
+fe.protection.inventory.customnpcs.npcscripter.*                                 # (default: true) INVENTORY Scripter
+fe.protection.inventory.customnpcs.npcsoulstoneempty.*                           # (default: true) INVENTORY Soulstone Empty
+fe.protection.inventory.customnpcs.npcsoulstonefilled.*                          # (default: true) INVENTORY Soulstone Filled
+fe.protection.inventory.customnpcs.npcteleporter.*                               # (default: true) INVENTORY Teleporter
+fe.protection.inventory.customnpcs.npcwand.*                                     # (default: true) INVENTORY Npc Wand
+fe.protection.inventory.customnpcs.scripted_item.*                               # (default: true) INVENTORY Scripted Item
 fe.protection.inventory.forge.bucketfilled.*                                     # (default: true) INVENTORY Bucket
 fe.protection.inventory.gravestone.death_info.*                                  # (default: true) INVENTORY Death Info
 fe.protection.inventory.harvestcraft.agaveitem.*                                 # (default: true) INVENTORY Agave
@@ -7025,6 +7055,16 @@ fe.protection.use.conarm.travel_sack.*                                          
 fe.protection.use.conarm.travel_slowfall.*                                       # (default: true) USE Traveller's Cloak (Slow Fall)
 fe.protection.use.conarm.travel_sneak.*                                          # (default: true) USE Traveller's Cloak (Invisibility)
 fe.protection.use.conarm.travel_soul.*                                           # (default: true) USE Traveller's Goggles (Soul Sight)
+fe.protection.use.customnpcs.npcmobcloner.*                                      # (default: true) USE Mob Cloner
+fe.protection.use.customnpcs.npcmounter.*                                        # (default: true) USE Mounter
+fe.protection.use.customnpcs.npcmovingpath.*                                     # (default: true) USE Npc Pather
+fe.protection.use.customnpcs.npcscripteddoortool.*                               # (default: true) USE Scripted Door
+fe.protection.use.customnpcs.npcscripter.*                                       # (default: true) USE Scripter
+fe.protection.use.customnpcs.npcsoulstoneempty.*                                 # (default: true) USE Soulstone Empty
+fe.protection.use.customnpcs.npcsoulstonefilled.*                                # (default: true) USE Soulstone Filled
+fe.protection.use.customnpcs.npcteleporter.*                                     # (default: true) USE Teleporter
+fe.protection.use.customnpcs.npcwand.*                                           # (default: true) USE Npc Wand
+fe.protection.use.customnpcs.scripted_item.*                                     # (default: true) USE Scripted Item
 fe.protection.use.forge.bucketfilled.*                                           # (default: true) USE Bucket
 fe.protection.use.gravestone.death_info.*                                        # (default: true) USE Death Info
 fe.protection.use.harvestcraft.agaveitem.*                                       # (default: true) USE Agave

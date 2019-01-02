@@ -1,6 +1,6 @@
 #// ------------ PERMISSIONS LIST ---------- \\#
-#// --------------- 02.01 02:36 ------------ \\#
-#// ----------- Total amount: 18430 --------- \\#
+#// --------------- 02.01 19:39 ------------ \\#
+#// ----------- Total amount: 18620 --------- \\#
 #// ---------------------------------------- \\#
 command./searchitem                                                              # (default: true) 
 command./sel                                                                     # (default: true) 
@@ -42,6 +42,7 @@ command.me                                                                      
 command.mk                                                                       # (OP only: true) 
 command.morpheus                                                                 # (OP only: true) 
 command.none                                                                     # (default: true) 
+command.noppes                                                                   # (OP only: true) 
 command.op                                                                       # (OP only: true) 
 command.pardon                                                                   # (OP only: true) 
 command.pardon-ip                                                                # (OP only: true) 
@@ -87,6 +88,35 @@ command.weather                                                                 
 command.whitelist                                                                # (OP only: true) 
 command.worldedit                                                                # (default: true) 
 command.xp                                                                       # (OP only: true) 
+customnpcs.edit.blocks                                                           # (default: true) customnpcs.edit.blocks
+customnpcs.edit.villager                                                         # (default: true) customnpcs.edit.villager
+customnpcs.global.bank                                                           # (default: true) customnpcs.global.bank
+customnpcs.global.dialog                                                         # (default: true) customnpcs.global.dialog
+customnpcs.global.faction                                                        # (default: true) customnpcs.global.faction
+customnpcs.global.linked                                                         # (default: true) customnpcs.global.linked
+customnpcs.global.naturalspawn                                                   # (default: true) customnpcs.global.naturalspawn
+customnpcs.global.playerdata                                                     # (default: true) customnpcs.global.playerdata
+customnpcs.global.quest                                                          # (default: true) customnpcs.global.quest
+customnpcs.global.recipe                                                         # (default: true) customnpcs.global.recipe
+customnpcs.global.transport                                                      # (default: true) customnpcs.global.transport
+customnpcs.npc.advanced                                                          # (default: true) customnpcs.npc.advanced
+customnpcs.npc.ai                                                                # (default: true) customnpcs.npc.ai
+customnpcs.npc.clone                                                             # (default: true) customnpcs.npc.clone
+customnpcs.npc.create                                                            # (default: true) customnpcs.npc.create
+customnpcs.npc.delete                                                            # (default: true) customnpcs.npc.delete
+customnpcs.npc.display                                                           # (default: true) customnpcs.npc.display
+customnpcs.npc.freeze                                                            # (default: true) customnpcs.npc.freeze
+customnpcs.npc.gui                                                               # (default: true) customnpcs.npc.gui
+customnpcs.npc.inventory                                                         # (default: true) customnpcs.npc.inventory
+customnpcs.npc.reset                                                             # (default: true) customnpcs.npc.reset
+customnpcs.npc.stats                                                             # (default: true) customnpcs.npc.stats
+customnpcs.scenes                                                                # (default: true) customnpcs.scenes
+customnpcs.soulstone.all                                                         # (default: true) customnpcs.soulstone.all
+customnpcs.spawner.create                                                        # (default: true) customnpcs.spawner.create
+customnpcs.spawner.mob                                                           # (default: true) customnpcs.spawner.mob
+customnpcs.tool.mounter                                                          # (default: true) customnpcs.tool.mounter
+customnpcs.tool.pather                                                           # (default: true) customnpcs.tool.pather
+customnpcs.tool.scripter                                                         # (default: true) customnpcs.tool.scripter
 fe.afterlife                                                                     # Permissions for afterlife configuration
 fe.afterlife.deathchest                                                          # (default: true) Allow creation of deathchests
 fe.afterlife.deathchest.block                                                    # (default: ) If set, use this block ID for graves
@@ -190,6 +220,31 @@ fe.economy.bounty.biomesoplenty:wasp                                            
 fe.economy.bounty.botania:doppleganger                                           # (default: 0) 
 fe.economy.bounty.botania:pink_wither                                            # (default: 0) 
 fe.economy.bounty.botania:pixie                                                  # (default: 0) 
+fe.economy.bounty.customnpcs:customnpc                                           # (default: 0) 
+fe.economy.bounty.customnpcs:customnpc64x32                                      # (default: 0) 
+fe.economy.bounty.customnpcs:npccrystal                                          # (default: 0) 
+fe.economy.bounty.customnpcs:npcdragon                                           # (default: 0) 
+fe.economy.bounty.customnpcs:npcdwarffemale                                      # (default: 0) 
+fe.economy.bounty.customnpcs:npcdwarfmale                                        # (default: 0) 
+fe.economy.bounty.customnpcs:npcelffemale                                        # (default: 0) 
+fe.economy.bounty.customnpcs:npcelfmale                                          # (default: 0) 
+fe.economy.bounty.customnpcs:npcenderchibi                                       # (default: 0) 
+fe.economy.bounty.customnpcs:npcenderman                                         # (default: 0) 
+fe.economy.bounty.customnpcs:npcfurryfemale                                      # (default: 0) 
+fe.economy.bounty.customnpcs:npcfurrymale                                        # (default: 0) 
+fe.economy.bounty.customnpcs:npcgolem                                            # (default: 0) 
+fe.economy.bounty.customnpcs:npchumanfemale                                      # (default: 0) 
+fe.economy.bounty.customnpcs:npchumanmale                                        # (default: 0) 
+fe.economy.bounty.customnpcs:npcnagafemale                                       # (default: 0) 
+fe.economy.bounty.customnpcs:npcnagamale                                         # (default: 0) 
+fe.economy.bounty.customnpcs:npcorcfemale                                        # (default: 0) 
+fe.economy.bounty.customnpcs:npcorcfmale                                         # (default: 0) 
+fe.economy.bounty.customnpcs:npcpony                                             # (default: 0) 
+fe.economy.bounty.customnpcs:npcskeleton                                         # (default: 0) 
+fe.economy.bounty.customnpcs:npcslime                                            # (default: 0) 
+fe.economy.bounty.customnpcs:npcvillager                                         # (default: 0) 
+fe.economy.bounty.customnpcs:npczombiefemale                                     # (default: 0) 
+fe.economy.bounty.customnpcs:npczombiemale                                       # (default: 0) 
 fe.economy.bounty.gravestone:player_ghost                                        # (default: 0) 
 fe.economy.bounty.mekanism:babyskeleton                                          # (default: 0) 
 fe.economy.bounty.mekanism:robit                                                 # (default: 0) 
@@ -541,6 +596,31 @@ fe.protection.mobspawn.forced.biomesoplenty:wasp                                
 fe.protection.mobspawn.forced.botania:doppleganger                               # (default: true) 
 fe.protection.mobspawn.forced.botania:pink_wither                                # (default: true) 
 fe.protection.mobspawn.forced.botania:pixie                                      # (default: true) 
+fe.protection.mobspawn.forced.customnpcs:customnpc                               # (default: true) 
+fe.protection.mobspawn.forced.customnpcs:customnpc64x32                          # (default: true) 
+fe.protection.mobspawn.forced.customnpcs:npccrystal                              # (default: true) 
+fe.protection.mobspawn.forced.customnpcs:npcdragon                               # (default: true) 
+fe.protection.mobspawn.forced.customnpcs:npcdwarffemale                          # (default: true) 
+fe.protection.mobspawn.forced.customnpcs:npcdwarfmale                            # (default: true) 
+fe.protection.mobspawn.forced.customnpcs:npcelffemale                            # (default: true) 
+fe.protection.mobspawn.forced.customnpcs:npcelfmale                              # (default: true) 
+fe.protection.mobspawn.forced.customnpcs:npcenderchibi                           # (default: true) 
+fe.protection.mobspawn.forced.customnpcs:npcenderman                             # (default: true) 
+fe.protection.mobspawn.forced.customnpcs:npcfurryfemale                          # (default: true) 
+fe.protection.mobspawn.forced.customnpcs:npcfurrymale                            # (default: true) 
+fe.protection.mobspawn.forced.customnpcs:npcgolem                                # (default: true) 
+fe.protection.mobspawn.forced.customnpcs:npchumanfemale                          # (default: true) 
+fe.protection.mobspawn.forced.customnpcs:npchumanmale                            # (default: true) 
+fe.protection.mobspawn.forced.customnpcs:npcnagafemale                           # (default: true) 
+fe.protection.mobspawn.forced.customnpcs:npcnagamale                             # (default: true) 
+fe.protection.mobspawn.forced.customnpcs:npcorcfemale                            # (default: true) 
+fe.protection.mobspawn.forced.customnpcs:npcorcfmale                             # (default: true) 
+fe.protection.mobspawn.forced.customnpcs:npcpony                                 # (default: true) 
+fe.protection.mobspawn.forced.customnpcs:npcskeleton                             # (default: true) 
+fe.protection.mobspawn.forced.customnpcs:npcslime                                # (default: true) 
+fe.protection.mobspawn.forced.customnpcs:npcvillager                             # (default: true) 
+fe.protection.mobspawn.forced.customnpcs:npczombiefemale                         # (default: true) 
+fe.protection.mobspawn.forced.customnpcs:npczombiemale                           # (default: true) 
 fe.protection.mobspawn.forced.gravestone:player_ghost                            # (default: true) 
 fe.protection.mobspawn.forced.mekanism:babyskeleton                              # (default: true) 
 fe.protection.mobspawn.forced.mekanism:robit                                     # (default: true) 
@@ -697,6 +777,31 @@ fe.protection.mobspawn.natural.biomesoplenty:wasp                               
 fe.protection.mobspawn.natural.botania:doppleganger                              # (default: true) 
 fe.protection.mobspawn.natural.botania:pink_wither                               # (default: true) 
 fe.protection.mobspawn.natural.botania:pixie                                     # (default: true) 
+fe.protection.mobspawn.natural.customnpcs:customnpc                              # (default: true) 
+fe.protection.mobspawn.natural.customnpcs:customnpc64x32                         # (default: true) 
+fe.protection.mobspawn.natural.customnpcs:npccrystal                             # (default: true) 
+fe.protection.mobspawn.natural.customnpcs:npcdragon                              # (default: true) 
+fe.protection.mobspawn.natural.customnpcs:npcdwarffemale                         # (default: true) 
+fe.protection.mobspawn.natural.customnpcs:npcdwarfmale                           # (default: true) 
+fe.protection.mobspawn.natural.customnpcs:npcelffemale                           # (default: true) 
+fe.protection.mobspawn.natural.customnpcs:npcelfmale                             # (default: true) 
+fe.protection.mobspawn.natural.customnpcs:npcenderchibi                          # (default: true) 
+fe.protection.mobspawn.natural.customnpcs:npcenderman                            # (default: true) 
+fe.protection.mobspawn.natural.customnpcs:npcfurryfemale                         # (default: true) 
+fe.protection.mobspawn.natural.customnpcs:npcfurrymale                           # (default: true) 
+fe.protection.mobspawn.natural.customnpcs:npcgolem                               # (default: true) 
+fe.protection.mobspawn.natural.customnpcs:npchumanfemale                         # (default: true) 
+fe.protection.mobspawn.natural.customnpcs:npchumanmale                           # (default: true) 
+fe.protection.mobspawn.natural.customnpcs:npcnagafemale                          # (default: true) 
+fe.protection.mobspawn.natural.customnpcs:npcnagamale                            # (default: true) 
+fe.protection.mobspawn.natural.customnpcs:npcorcfemale                           # (default: true) 
+fe.protection.mobspawn.natural.customnpcs:npcorcfmale                            # (default: true) 
+fe.protection.mobspawn.natural.customnpcs:npcpony                                # (default: true) 
+fe.protection.mobspawn.natural.customnpcs:npcskeleton                            # (default: true) 
+fe.protection.mobspawn.natural.customnpcs:npcslime                               # (default: true) 
+fe.protection.mobspawn.natural.customnpcs:npcvillager                            # (default: true) 
+fe.protection.mobspawn.natural.customnpcs:npczombiefemale                        # (default: true) 
+fe.protection.mobspawn.natural.customnpcs:npczombiemale                          # (default: true) 
 fe.protection.mobspawn.natural.gravestone:player_ghost                           # (default: true) 
 fe.protection.mobspawn.natural.mekanism:babyskeleton                             # (default: true) 
 fe.protection.mobspawn.natural.mekanism:robit                                    # (default: true) 
@@ -872,7 +977,7 @@ fe.remote                                                                       
 fe.remote.chat.push                                                              # (default: true) Allows requesting chat push messages
 fe.remote.chat.query                                                             # (default: true) Allows querying chat messages
 fe.remote.chat.send                                                              # (OP only: true) fe.remote.chat.send
-fe.remote.command                                                                # (OP only: true) Allows to run commands remotely
+fe.remote.command                                                                # (default: true) Allows to run commands remotely
 fe.remote.control                                                                # (OP only: true) Allows to start / stop remote server and control users (regen passkeys, kick, block)
 fe.remote.mapper.query.region                                                    # (default: true) Allows querying region tiles
 fe.remote.permission.set                                                         # (OP only: true) Allows to change permissions

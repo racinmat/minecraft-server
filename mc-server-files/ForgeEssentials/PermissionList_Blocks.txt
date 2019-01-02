@@ -1,6 +1,6 @@
 #// -------- PERMISSIONS LIST BLOCKS ------- \\#
-#// --------------- 02.01 02:36 ------------ \\#
-#// ----------- Total amount: 18430 --------- \\#
+#// --------------- 02.01 19:39 ------------ \\#
+#// ----------- Total amount: 18620 --------- \\#
 #// ---------------------------------------- \\#
 fe.protection.break.*                                                            # (default: true) Allow breaking blocks
 fe.protection.break.actuallyadditions.block_atomic_reconstructor.*               # (default: true) BREAK Atomic Reconstructor
@@ -811,6 +811,15 @@ fe.protection.break.chisel.wool_yellow.*                                        
 fe.protection.break.conarm.armorforge.*                                          # (default: true) BREAK Armor Forge
 fe.protection.break.conarm.armorstation.*                                        # (default: true) BREAK Armor Station
 fe.protection.break.conarm.soft_obsidian.*                                       # (default: true) BREAK Unstable Obsidian
+fe.protection.break.customnpcs.npcborder.*                                       # (default: true) BREAK Border
+fe.protection.break.customnpcs.npcbuilderblock.*                                 # (default: true) BREAK Builder Block
+fe.protection.break.customnpcs.npccarpentybench.*                                # (default: true) BREAK Carpentry Bench
+fe.protection.break.customnpcs.npccopyblock.*                                    # (default: true) BREAK Copy Block
+fe.protection.break.customnpcs.npcmailbox.*                                      # (default: true) BREAK Mailbox
+fe.protection.break.customnpcs.npcredstoneblock.*                                # (default: true) BREAK Redstone Block
+fe.protection.break.customnpcs.npcscripted.*                                     # (default: true) BREAK Scripted Block
+fe.protection.break.customnpcs.npcscripteddoor.*                                 # (default: true) BREAK item.npcscripteddoor.name
+fe.protection.break.customnpcs.npcwaypoint.*                                     # (default: true) BREAK Location Quest Block
 fe.protection.break.gravestone.gravestone.*                                      # (default: true) BREAK Gravestone
 fe.protection.break.harvestcraft.almond_sapling.*                                # (default: true) BREAK Almond Sapling
 fe.protection.break.harvestcraft.apiary.*                                        # (default: true) BREAK Apiary
@@ -2556,6 +2565,15 @@ fe.protection.explode.chisel.wool_yellow.*                                      
 fe.protection.explode.conarm.armorforge.*                                        # (default: true) EXPLODE Armor Forge
 fe.protection.explode.conarm.armorstation.*                                      # (default: true) EXPLODE Armor Station
 fe.protection.explode.conarm.soft_obsidian.*                                     # (default: true) EXPLODE Unstable Obsidian
+fe.protection.explode.customnpcs.npcborder.*                                     # (default: true) EXPLODE Border
+fe.protection.explode.customnpcs.npcbuilderblock.*                               # (default: true) EXPLODE Builder Block
+fe.protection.explode.customnpcs.npccarpentybench.*                              # (default: true) EXPLODE Carpentry Bench
+fe.protection.explode.customnpcs.npccopyblock.*                                  # (default: true) EXPLODE Copy Block
+fe.protection.explode.customnpcs.npcmailbox.*                                    # (default: true) EXPLODE Mailbox
+fe.protection.explode.customnpcs.npcredstoneblock.*                              # (default: true) EXPLODE Redstone Block
+fe.protection.explode.customnpcs.npcscripted.*                                   # (default: true) EXPLODE Scripted Block
+fe.protection.explode.customnpcs.npcscripteddoor.*                               # (default: true) EXPLODE item.npcscripteddoor.name
+fe.protection.explode.customnpcs.npcwaypoint.*                                   # (default: true) EXPLODE Location Quest Block
 fe.protection.explode.gravestone.gravestone.*                                    # (default: true) EXPLODE Gravestone
 fe.protection.explode.harvestcraft.almond_sapling.*                              # (default: true) EXPLODE Almond Sapling
 fe.protection.explode.harvestcraft.apiary.*                                      # (default: true) EXPLODE Apiary
@@ -4301,6 +4319,15 @@ fe.protection.interact.chisel.wool_yellow.*                                     
 fe.protection.interact.conarm.armorforge.*                                       # (default: true) INTERACT Armor Forge
 fe.protection.interact.conarm.armorstation.*                                     # (default: true) INTERACT Armor Station
 fe.protection.interact.conarm.soft_obsidian.*                                    # (default: true) INTERACT Unstable Obsidian
+fe.protection.interact.customnpcs.npcborder.*                                    # (default: true) INTERACT Border
+fe.protection.interact.customnpcs.npcbuilderblock.*                              # (default: true) INTERACT Builder Block
+fe.protection.interact.customnpcs.npccarpentybench.*                             # (default: true) INTERACT Carpentry Bench
+fe.protection.interact.customnpcs.npccopyblock.*                                 # (default: true) INTERACT Copy Block
+fe.protection.interact.customnpcs.npcmailbox.*                                   # (default: true) INTERACT Mailbox
+fe.protection.interact.customnpcs.npcredstoneblock.*                             # (default: true) INTERACT Redstone Block
+fe.protection.interact.customnpcs.npcscripted.*                                  # (default: true) INTERACT Scripted Block
+fe.protection.interact.customnpcs.npcscripteddoor.*                              # (default: true) INTERACT item.npcscripteddoor.name
+fe.protection.interact.customnpcs.npcwaypoint.*                                  # (default: true) INTERACT Location Quest Block
 fe.protection.interact.entity                                                    # (default: true) Allow interacting with entities (villagers, dogs, horses)
 fe.protection.interact.gravestone.gravestone.*                                   # (default: true) INTERACT Gravestone
 fe.protection.interact.harvestcraft.almond_sapling.*                             # (default: true) INTERACT Almond Sapling
@@ -6047,6 +6074,15 @@ fe.protection.place.chisel.wool_yellow.*                                        
 fe.protection.place.conarm.armorforge.*                                          # (default: true) PLACE Armor Forge
 fe.protection.place.conarm.armorstation.*                                        # (default: true) PLACE Armor Station
 fe.protection.place.conarm.soft_obsidian.*                                       # (default: true) PLACE Unstable Obsidian
+fe.protection.place.customnpcs.npcborder.*                                       # (default: true) PLACE Border
+fe.protection.place.customnpcs.npcbuilderblock.*                                 # (default: true) PLACE Builder Block
+fe.protection.place.customnpcs.npccarpentybench.*                                # (default: true) PLACE Carpentry Bench
+fe.protection.place.customnpcs.npccopyblock.*                                    # (default: true) PLACE Copy Block
+fe.protection.place.customnpcs.npcmailbox.*                                      # (default: true) PLACE Mailbox
+fe.protection.place.customnpcs.npcredstoneblock.*                                # (default: true) PLACE Redstone Block
+fe.protection.place.customnpcs.npcscripted.*                                     # (default: true) PLACE Scripted Block
+fe.protection.place.customnpcs.npcscripteddoor.*                                 # (default: true) PLACE item.npcscripteddoor.name
+fe.protection.place.customnpcs.npcwaypoint.*                                     # (default: true) PLACE Location Quest Block
 fe.protection.place.gravestone.gravestone.*                                      # (default: true) PLACE Gravestone
 fe.protection.place.harvestcraft.almond_sapling.*                                # (default: true) PLACE Almond Sapling
 fe.protection.place.harvestcraft.apiary.*                                        # (default: true) PLACE Apiary
@@ -7792,6 +7828,15 @@ fe.protection.trample.chisel.wool_yellow.*                                      
 fe.protection.trample.conarm.armorforge.*                                        # (default: true) PLACE Armor Forge
 fe.protection.trample.conarm.armorstation.*                                      # (default: true) PLACE Armor Station
 fe.protection.trample.conarm.soft_obsidian.*                                     # (default: true) PLACE Unstable Obsidian
+fe.protection.trample.customnpcs.npcborder.*                                     # (default: true) PLACE Border
+fe.protection.trample.customnpcs.npcbuilderblock.*                               # (default: true) PLACE Builder Block
+fe.protection.trample.customnpcs.npccarpentybench.*                              # (default: true) PLACE Carpentry Bench
+fe.protection.trample.customnpcs.npccopyblock.*                                  # (default: true) PLACE Copy Block
+fe.protection.trample.customnpcs.npcmailbox.*                                    # (default: true) PLACE Mailbox
+fe.protection.trample.customnpcs.npcredstoneblock.*                              # (default: true) PLACE Redstone Block
+fe.protection.trample.customnpcs.npcscripted.*                                   # (default: true) PLACE Scripted Block
+fe.protection.trample.customnpcs.npcscripteddoor.*                               # (default: true) PLACE item.npcscripteddoor.name
+fe.protection.trample.customnpcs.npcwaypoint.*                                   # (default: true) PLACE Location Quest Block
 fe.protection.trample.gravestone.gravestone.*                                    # (default: true) PLACE Gravestone
 fe.protection.trample.harvestcraft.almond_sapling.*                              # (default: true) PLACE Almond Sapling
 fe.protection.trample.harvestcraft.apiary.*                                      # (default: true) PLACE Apiary
