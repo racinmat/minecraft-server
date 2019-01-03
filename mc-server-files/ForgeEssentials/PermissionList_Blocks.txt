@@ -1,6 +1,6 @@
 #// -------- PERMISSIONS LIST BLOCKS ------- \\#
-#// --------------- 02.01 19:39 ------------ \\#
-#// ----------- Total amount: 18620 --------- \\#
+#// --------------- 03.01 20:21 ------------ \\#
+#// ----------- Total amount: 18641 --------- \\#
 #// ---------------------------------------- \\#
 fe.protection.break.*                                                            # (default: true) Allow breaking blocks
 fe.protection.break.actuallyadditions.block_atomic_reconstructor.*               # (default: true) BREAK Atomic Reconstructor
@@ -820,7 +820,7 @@ fe.protection.break.customnpcs.npcredstoneblock.*                               
 fe.protection.break.customnpcs.npcscripted.*                                     # (default: true) BREAK Scripted Block
 fe.protection.break.customnpcs.npcscripteddoor.*                                 # (default: true) BREAK item.npcscripteddoor.name
 fe.protection.break.customnpcs.npcwaypoint.*                                     # (default: true) BREAK Location Quest Block
-fe.protection.break.gravestone.gravestone.*                                      # (default: true) BREAK Gravestone
+fe.protection.break.gravestone.gravestone.*                                      # (default: true) BREAK Air
 fe.protection.break.harvestcraft.almond_sapling.*                                # (default: true) BREAK Almond Sapling
 fe.protection.break.harvestcraft.apiary.*                                        # (default: true) BREAK Apiary
 fe.protection.break.harvestcraft.apple_sapling.*                                 # (default: true) BREAK Apple Sapling
@@ -2574,7 +2574,7 @@ fe.protection.explode.customnpcs.npcredstoneblock.*                             
 fe.protection.explode.customnpcs.npcscripted.*                                   # (default: true) EXPLODE Scripted Block
 fe.protection.explode.customnpcs.npcscripteddoor.*                               # (default: true) EXPLODE item.npcscripteddoor.name
 fe.protection.explode.customnpcs.npcwaypoint.*                                   # (default: true) EXPLODE Location Quest Block
-fe.protection.explode.gravestone.gravestone.*                                    # (default: true) EXPLODE Gravestone
+fe.protection.explode.gravestone.gravestone.*                                    # (default: true) EXPLODE Air
 fe.protection.explode.harvestcraft.almond_sapling.*                              # (default: true) EXPLODE Almond Sapling
 fe.protection.explode.harvestcraft.apiary.*                                      # (default: true) EXPLODE Apiary
 fe.protection.explode.harvestcraft.apple_sapling.*                               # (default: true) EXPLODE Apple Sapling
@@ -4329,7 +4329,7 @@ fe.protection.interact.customnpcs.npcscripted.*                                 
 fe.protection.interact.customnpcs.npcscripteddoor.*                              # (default: true) INTERACT item.npcscripteddoor.name
 fe.protection.interact.customnpcs.npcwaypoint.*                                  # (default: true) INTERACT Location Quest Block
 fe.protection.interact.entity                                                    # (default: true) Allow interacting with entities (villagers, dogs, horses)
-fe.protection.interact.gravestone.gravestone.*                                   # (default: true) INTERACT Gravestone
+fe.protection.interact.gravestone.gravestone.*                                   # (default: true) INTERACT Air
 fe.protection.interact.harvestcraft.almond_sapling.*                             # (default: true) INTERACT Almond Sapling
 fe.protection.interact.harvestcraft.apiary.*                                     # (default: true) INTERACT Apiary
 fe.protection.interact.harvestcraft.apple_sapling.*                              # (default: true) INTERACT Apple Sapling
@@ -6083,7 +6083,7 @@ fe.protection.place.customnpcs.npcredstoneblock.*                               
 fe.protection.place.customnpcs.npcscripted.*                                     # (default: true) PLACE Scripted Block
 fe.protection.place.customnpcs.npcscripteddoor.*                                 # (default: true) PLACE item.npcscripteddoor.name
 fe.protection.place.customnpcs.npcwaypoint.*                                     # (default: true) PLACE Location Quest Block
-fe.protection.place.gravestone.gravestone.*                                      # (default: true) PLACE Gravestone
+fe.protection.place.gravestone.gravestone.*                                      # (default: true) PLACE Air
 fe.protection.place.harvestcraft.almond_sapling.*                                # (default: true) PLACE Almond Sapling
 fe.protection.place.harvestcraft.apiary.*                                        # (default: true) PLACE Apiary
 fe.protection.place.harvestcraft.apple_sapling.*                                 # (default: true) PLACE Apple Sapling
@@ -7837,7 +7837,7 @@ fe.protection.trample.customnpcs.npcredstoneblock.*                             
 fe.protection.trample.customnpcs.npcscripted.*                                   # (default: true) PLACE Scripted Block
 fe.protection.trample.customnpcs.npcscripteddoor.*                               # (default: true) PLACE item.npcscripteddoor.name
 fe.protection.trample.customnpcs.npcwaypoint.*                                   # (default: true) PLACE Location Quest Block
-fe.protection.trample.gravestone.gravestone.*                                    # (default: true) PLACE Gravestone
+fe.protection.trample.gravestone.gravestone.*                                    # (default: true) PLACE Air
 fe.protection.trample.harvestcraft.almond_sapling.*                              # (default: true) PLACE Almond Sapling
 fe.protection.trample.harvestcraft.apiary.*                                      # (default: true) PLACE Apiary
 fe.protection.trample.harvestcraft.apple_sapling.*                               # (default: true) PLACE Apple Sapling

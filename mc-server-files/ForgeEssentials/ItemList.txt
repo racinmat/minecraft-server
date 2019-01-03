@@ -1,5 +1,5 @@
 # --- Block/Item List ---
-# Generated: 2-0-2019 (Server time)
+# Generated: 3-0-2019 (Server time)
 
 tile.air
 tile.stone
@@ -1542,8 +1542,8 @@ item.conarm.travel_soul
 item.conarm.polishing_kit
 tile.conarm.armorforge
 tile.conarm.armorstation
-tile.gravestone
-item.death_info
+item.theoneprobe.gold_helmet_probe
+item.theoneprobe.probe_goggles
 tile.IronChest
 tile.IronShulkerBoxwhite
 tile.IronShulkerBoxorange
@@ -3684,6 +3684,11 @@ item.npcmobcloner
 tile.npcscripted
 tile.npccopyblock
 tile.npcbuilderblock
+item.theoneprobe.probenote
+item.theoneprobe.probe
+item.theoneprobe.diamond_helmet_probe
+item.theoneprobe.iron_helmet_probe
+item.theoneprobe.creativeprobe
 tile.air
 tile.stone
 tile.grass
@@ -4729,7 +4734,7 @@ fluid.tconstruct.purpleslime
 tile.conarm.armorforge
 tile.conarm.armorstation
 tile.conarm.soft_obsidian
-tile.gravestone
+tile.air
 tile.IronChest
 tile.IronShulkerBoxwhite
 tile.IronShulkerBoxorange
