@@ -16,12 +16,14 @@ Just Enough Items;4.13.1.225;https://github.com/mezz/JustEnoughItems
 Thaumcraft;6.1.BETA26;http://www.minecraftforum.net/topic/2011841-thaumcraft
 Botania;r1.10-358;http://www.botaniamod.net
 Chisel;MC1.12.2-0.2.1.35;https://minecraft.curseforge.com/projects/chisel
+Chunk Pregenerator;1.9;
 Clumps;3.1.1;
 Mantle;1.12-1.3.3.39;https://github.com/SlimeKnights/Mantle
 The Twilight Forest;3.8.689;https://minecraft.curseforge.com/projects/the-twilight-forest
 Tinkers' Construct;1.12.2-2.11.0.106;https://github.com/SlimeKnights/TinkersConstruct
 Construct's Armory;1.2.1.1;
 CustomNPCs;1.12;http://tinyurl.com/customnpcs
+Dynmap;3.0-beta-3-160;
 WorldEdit;6.1.8;http://wiki.sk89q.com/wiki/WorldEdit
 Forge Essentials;12.3;
 Shadowfacts' Forgelin;1.8.2;https://github.com/shadowfacts/Forgelin

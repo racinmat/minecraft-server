@@ -1,6 +1,6 @@
 #// -------- PERMISSIONS LIST BLOCKS ------- \\#
-#// --------------- 05.01 14:17 ------------ \\#
-#// ----------- Total amount: 18608 --------- \\#
+#// --------------- 05.01 19:08 ------------ \\#
+#// ----------- Total amount: 18614 --------- \\#
 #// ---------------------------------------- \\#
 fe.protection.break.*                                                            # (default: true) Allow breaking blocks
 fe.protection.break.actuallyadditions.block_atomic_reconstructor.*               # (default: true) BREAK Atomic Reconstructor

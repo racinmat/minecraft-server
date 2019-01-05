@@ -1,0 +1,131 @@
+---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+  ForgelinPlugin (Forgelin-1.8.2.jar)
+  CTMCorePlugin (CTM-MC1.12.2-0.3.3.22.jar)
+Contact their authors BEFORE contacting forge
+
+// This doesn't make any sense!
+
+Time: 1/5/19 2:04 PM
+Description: Exception ticking world
+
+java.util.ConcurrentModificationException
+	at java.util.HashMap$HashIterator.remove(Unknown Source)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73156_b(ChunkProviderServer.java:262)
+	at net.minecraft.world.WorldServer.func_72835_b(WorldServer.java:207)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:756)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Unknown Source)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server thread
+Stacktrace:
+	at java.util.HashMap$HashIterator.remove(Unknown Source)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73156_b(ChunkProviderServer.java:262)
+	at net.minecraft.world.WorldServer.func_72835_b(WorldServer.java:207)
+
+-- Affected level --
+Details:
+	Level name: modWorld
+	All players: 1 total; [EntityPlayerMP['SirLovi'/73153, l='modWorld', x=730.30, y=71.00, z=1864.51]]
+	Chunk stats: ServerChunkCache: 495 Drop: 46
+	Level seed: 363680378
+	Level generator: ID 06 - BIOMESOP, ver 0. Features enabled: true
+	Level generator options: 
+	Level spawn location: World: (-76,64,256), Chunk: (at 4,4,0 in -5,16; contains blocks -80,0,256 to -65,255,271), Region: (-1,0; contains chunks -32,0 to -1,31, blocks -512,0,0 to -1,255,511)
+	Level time: 164427 game time, 1146 day time
+	Level dimension: 0
+	Level storage version: 0x04ABD - Anvil
+	Level weather: Rain time: 1 (now: false), thunder time: 1 (now: false)
+	Level game mode: Game mode: survival (ID 0). Hardcore: false. Cheats: false
+Stacktrace:
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:756)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Unknown Source)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_181, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 1573688560 bytes (1500 MB) / 2378170368 bytes (2268 MB) up to 8589934592 bytes (8192 MB)
+	JVM Flags: 3 total; -XX:+UseG1GC -Xms1G -Xmx8G
+	IntCache: cache: 1, tcache: 1, allocated: 3, tallocated: 104
+	FML: MCP 9.42 Powered by Forge 14.23.5.2768 33 mods loaded, 33 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State     | ID                  | Version            | Source                                        | Signature                                |
+	|:--------- |:------------------- |:------------------ |:--------------------------------------------- |:---------------------------------------- |
+	| UCHIJAAAA | minecraft           | 1.12.2             | minecraft.jar                                 | None                                     |
+	| UCHIJAAAA | mcp                 | 9.42               | minecraft.jar                                 | None                                     |
+	| UCHIJAAAA | FML                 | 8.0.99.99          | forge-1.12.2-14.23.5.2768-universal.jar       | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| UCHIJAAAA | forge               | 14.23.5.2768       | forge-1.12.2-14.23.5.2768-universal.jar       | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| UCHIJAAAA | actuallyadditions   | 1.12.2-r144        | ActuallyAdditions-1.12.2-r144.jar             | None                                     |
+	| UCHIJAAAA | appliedenergistics2 | rv6-stable-6       | appliedenergistics2-rv6-stable-6.jar          | dfa4d3ac143316c6f32aa1a1beda1e34d42132e5 |
+	| UCHIJAAAA | baubles             | 1.5.2              | Baubles-1.12-1.5.2.jar                        | None                                     |
+	| UCHIJAAAA | bedbugs             | @VERSION@          | BedBugs-1.12-1.0.1.jar                        | None                                     |
+	| UCHIJAAAA | bibliocraft         | 2.4.5              | BiblioCraft[v2.4.5][MC1.12.2].jar             | None                                     |
+	| UCHIJAAAA | biomesoplenty       | 7.0.1.2422         | BiomesOPlenty-1.12.2-7.0.1.2422-universal.jar | None                                     |
+	| UCHIJAAAA | jei                 | 4.13.1.225         | jei_1.12.2-4.13.1.225.jar                     | None                                     |
+	| UCHIJAAAA | thaumcraft          | 6.1.BETA26         | Thaumcraft-1.12.2-6.1.BETA26.jar              | None                                     |
+	| UCHIJAAAA | botania             | r1.10-358          | Botania+r1.10-358.jar                         | None                                     |
+	| UCHIJAAAA | chisel              | MC1.12.2-0.2.1.35  | Chisel-MC1.12.2-0.2.1.35.jar                  | None                                     |
+	| UCHIJAAAA | clumps              | 3.1.1              | Clumps-3.1.1.jar                              | None                                     |
+	| UCHIJAAAA | mantle              | 1.12-1.3.3.39      | Mantle-1.12-1.3.3.39.jar                      | None                                     |
+	| UCHIJAAAA | twilightforest      | 3.8.689            | twilightforest-1.12.2-3.8.689-universal.jar   | None                                     |
+	| UCHIJAAAA | tconstruct          | 1.12.2-2.11.0.106  | TConstruct-1.12.2-2.11.0.106.jar              | None                                     |
+	| UCHIJAAAA | conarm              | 1.2.1.1            | conarm-1.12.2-1.2.1.1.jar                     | 5d5b8aee896a4f5ea3f3114784742662a67ad32f |
+	| UCHIJAAAA | customnpcs          | 1.12               | CustomNPCs_1.12.2(26aug18).jar                | None                                     |
+	| UCHIJAAAA | worldedit           | 6.1.8              | worldedit-forge-mc1.12-6.1.8-dist.jar         | None                                     |
+	| UCHIJAAAA | forgeessentials     | 12.3               | forgeessentials-1.12.2-12.3.30-server.jar     | None                                     |
+	| UCHIJAAAA | forgelin            | 1.8.2              | Forgelin-1.8.2.jar                            | None                                     |
+	| UCHIJAAAA | ichunutil           | 7.1.4              | iChunUtil-1.12.2-7.1.4.jar                    | None                                     |
+	| UCHIJAAAA | ironchest           | 1.12.2-7.0.54.838  | ironchest-1.12.2-7.0.54.838.jar               | None                                     |
+	| UCHIJAAAA | mekanism            | 1.12.2-9.4.13.349  | Mekanism-1.12.2-9.4.13.349.jar                | None                                     |
+	| UCHIJAAAA | mekanismgenerators  | 9.4.11             | MekanismGenerators-1.12.2-9.4.13.349.jar      | None                                     |
+	| UCHIJAAAA | morpheus            | 1.12-3.3.2         | Morpheus-1.12-3.3.2.jar                       | None                                     |
+	| UCHIJAAAA | oreberries          | 0.5.0              | oreberries-1.12.x-0.5.0.jar                   | None                                     |
+	| UCHIJAAAA | harvestcraft        | 1.12.2zb           | Pam's+HarvestCraft+1.12.2zb.jar               | None                                     |
+	| UCHIJAAAA | pewter              | 1.4.3              | Pewter-1.4.3.jar                              | None                                     |
+	| UCHIJAAAA | tcinventoryscan     | 2.0.10             | ThaumicInventoryScanning_1.12.2-2.0.10.jar    | None                                     |
+	| UCHIJAAAA | thaumictinkerer     | 1.12.2-5.0-353c71c | thaumictinkerer-1.12.2-5.0-353c71c.jar        | None                                     |
+
+	Loaded coremods (and transformers): 
+ForgelinPlugin (Forgelin-1.8.2.jar)
+  
+CTMCorePlugin (CTM-MC1.12.2-0.3.3.22.jar)
+  team.chisel.ctm.client.asm.CTMTransformer
+	AE2 Version: stable rv6-stable-6 for Forge 14.23.5.2768
+	Pulsar/tconstruct loaded Pulses: 
+		- TinkerCommons (Enabled/Forced)
+		- TinkerWorld (Enabled/Not Forced)
+		- TinkerTools (Enabled/Not Forced)
+		- TinkerHarvestTools (Enabled/Forced)
+		- TinkerMeleeWeapons (Enabled/Forced)
+		- TinkerRangedWeapons (Enabled/Forced)
+		- TinkerModifiers (Enabled/Forced)
+		- TinkerSmeltery (Enabled/Not Forced)
+		- TinkerGadgets (Enabled/Not Forced)
+		- TinkerOredict (Enabled/Forced)
+		- TinkerIntegration (Enabled/Forced)
+		- TinkerFluids (Enabled/Forced)
+		- TinkerMaterials (Enabled/Forced)
+		- TinkerModelRegister (Enabled/Forced)
+		- chiselIntegration (Enabled/Not Forced)
+
+	ForgeEssentials: Running ForgeEssentials 12.3.30 (880ac3c). Modules loaded: Afterlife, Backups, Chat, Commands, Economy, JScripting, Multiworld, Permissions, PlayerLogger, Protection, Remote, SignTools, Teleport, Tickets, WEIntegrationTools, WorldBorder, factions, mapper
+	AE2 Integration: IC2:OFF, RC:OFF, MFR:OFF, Waila:OFF, Mekanism:ON, OpenComputers:OFF, THE_ONE_PROBE:OFF, TESLA:OFF, CRAFTTWEAKER:OFF
+	Profiler Position: N/A (disabled)
+	Player Count: 1 / 16; [EntityPlayerMP['SirLovi'/73153, l='modWorld', x=730.30, y=71.00, z=1864.51]]
+	Is Modded: Definitely; Server brand changed to 'fml,forge'
+	Type: Dedicated Server (map_server.txt)

@@ -1,6 +1,6 @@
 #// ------------ PERMISSIONS LIST ---------- \\#
-#// --------------- 05.01 14:17 ------------ \\#
-#// ----------- Total amount: 18608 --------- \\#
+#// --------------- 05.01 19:08 ------------ \\#
+#// ----------- Total amount: 18614 --------- \\#
 #// ---------------------------------------- \\#
 command./searchitem                                                              # (default: true) 
 command./sel                                                                     # (default: true) 
@@ -24,7 +24,11 @@ command.debug                                                                   
 command.defaultgamemode                                                          # (OP only: true) 
 command.deop                                                                     # (OP only: true) 
 command.difficulty                                                               # (OP only: true) 
+command.dmap                                                                     # (OP only: true) 
+command.dmarker                                                                  # (OP only: true) 
 command.dumpenchants                                                             # (OP only: true) 
+command.dynmap                                                                   # (OP only: true) 
+command.dynmapexp                                                                # (OP only: true) 
 command.effect                                                                   # (OP only: true) 
 command.enchant                                                                  # (OP only: true) 
 command.entitydata                                                               # (OP only: true) 
@@ -49,6 +53,7 @@ command.pardon-ip                                                               
 command.particle                                                                 # (OP only: true) 
 command.pewter                                                                   # (OP only: true) 
 command.playsound                                                                # (OP only: true) 
+command.pregen                                                                   # (OP only: true) 
 command.recipe                                                                   # (OP only: true) 
 command.refreshmulti                                                             # (OP only: true) 
 command.reload                                                                   # (OP only: true) 
@@ -974,7 +979,7 @@ fe.remote                                                                       
 fe.remote.chat.push                                                              # (default: true) Allows requesting chat push messages
 fe.remote.chat.query                                                             # (default: true) Allows querying chat messages
 fe.remote.chat.send                                                              # (OP only: true) fe.remote.chat.send
-fe.remote.command                                                                # (OP only: true) Allows to run commands remotely
+fe.remote.command                                                                # (default: true) Allows to run commands remotely
 fe.remote.control                                                                # (OP only: true) Allows to start / stop remote server and control users (regen passkeys, kick, block)
 fe.remote.mapper.query.region                                                    # (default: true) Allows querying region tiles
 fe.remote.permission.set                                                         # (OP only: true) Allows to change permissions
@@ -1035,6 +1040,7 @@ fe.worldborder                                                                  
 fe.worldborder.admin                                                             # (OP only: true) 
 fe.worldborder.bypass                                                            # (default: false) Ignore worldborders if granted
 mc.help                                                                          # (default: true) Help command
+pregen-chunkview                                                                 # (OP only: true) Allows Access to the ChunkView in the clientOnly part of Chunk Pregen
 worldedit.*                                                                      # (OP only: true) WorldEdit
 worldedit.analysis.count                                                         # (OP only: true) 
 worldedit.analysis.distr                                                         # (OP only: true) 
