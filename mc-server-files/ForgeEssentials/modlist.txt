@@ -1,5 +1,5 @@
 # --- ModList ---
-# Generated: 3-0-2019 (Server time)
+# Generated: 4-0-2019 (Server time)
 # Change the location of this file in main.cfg
 
 Minecraft;1.12.2;
@@ -10,10 +10,8 @@ Actually Additions;1.12.2-r144;http://github.com/Ellpeck/ActuallyAdditions
 Applied Energistics 2;rv6-stable-6;http://ae2.ae-mod.info
 Baubles;1.5.2;http://www.minecraftforum.net/topic/2535073-baubles
 Bed Bugs;@VERSION@;
-BiblioCraft;2.4.5;http://www.bibliocraftmod.com
 Biomes O' Plenty;7.0.1.2422;http://mods.curse.com/mc-mods/minecraft/220318-biomes-o-plenty
 Just Enough Items;4.13.1.225;https://github.com/mezz/JustEnoughItems
-Thaumcraft;6.1.BETA26;http://www.minecraftforum.net/topic/2011841-thaumcraft
 Botania;r1.10-358;http://www.botaniamod.net
 Chisel;MC1.12.2-0.2.1.35;https://minecraft.curseforge.com/projects/chisel
 Clumps;3.1.1;
@@ -33,6 +31,4 @@ Morpheus;1.12-3.3.2;http://www.curse.com/mc-mods/Minecraft/morpheus
 Oreberries;0.5.0;https://minecraft.curseforge.com/projects/oreberries
 Pam's HarvestCraft;1.12.2zb;http://minecraft.curseforge.com/members/MatrexsVigil/projects
 Pewter;1.4.3;
-Thaumcrafft Inventory Scanning;2.0.10;
-Thaumic Tinkerer;1.12.2-5.0-353c71c;http://minecraftforum.net/topic/1813058-
 The One Probe;1.4.25;

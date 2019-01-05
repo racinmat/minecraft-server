@@ -1,37 +1,43 @@
 version: '3'
 services:
-  minecraft:
-    image: itzg/minecraft-server
-    environment:
-      EULA: "TRUE"
-      CONSOLE: "false"
-      ENABLE_RCON: "true"
-      RCON_PASSWORD: "testing"
-      RCON_PORT: 28016
-      VERSION: "1.12.2"
-      TYPE: "FORGE"
-      MAX_MEMORY: 8G
-#      JVM_DD_OPTS: fml.queryResult:confirm
-      JVM_OPTS: -Dfml.queryResult=confirm
-    ports:
-      - 25565:25565
-      - 27020:27020
-      - 28016:28016
-    volumes:
-      - "./mc-server-files:/data"
-    restart: always
+    minecraft:
+        image: itzg/minecraft-server
+        environment:
+            EULA: "TRUE"
+            CONSOLE: "false"
+            ENABLE_RCON: "true"
+            RCON_PASSWORD: "testing"
+            RCON_PORT: 28016
+            VERSION: "1.12.2"
+            TYPE: "FORGE"
+            MAX_MEMORY: 8G
+#            JVM_DD_OPTS: fml.queryResult:confirm
+            JVM_OPTS: -Dfml.queryResult=confirm
+        ports:
+          - 25565:25565
+          - 27020:27020
+          - 28016:28016
+        volumes:
+          - "./mc-server-files:/data"
+        restart: always
+        command: ''
+        entrypoint: bash
+        stdin_open: true
+        tty: true
 #    command: -Dfml.queryResult=confirm
-  rcon:
-    image: itzg/rcon
-    ports:
-      - 4326:4326
-      - 4327:4327
-    volumes:
-      - "./rcon:/opt/rcon-web-admin/db"
-  webserver:
-    build:
-      context: FERemotePanel/docker
-    ports:
-      - 8080:80
-    volumes:
-      - "./FERemotePanel:/var/www/html"
+#  rcon:
+#    image: itzg/rcon
+#    ports:
+#      - 4326:4326
+#      - 4327:4327
+#    volumes:
+#      - "./rcon:/opt/rcon-web-admin/db"
+#  webserver:
+#    build:
+#      context: FERemotePanel/docker
+#    ports:
+#      - 8080:80
+#    volumes:
+#      - "./FERemotePanel:/var/www/html"
+
+# java -XX:+UseG1GC -Xms1G -Xmx8G -Dfml.queryResult=confirm -jar forge-1.12.2-14.23.5.2768-universal.jar --noconsole

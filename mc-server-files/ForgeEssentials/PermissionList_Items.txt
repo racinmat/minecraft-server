@@ -1,6 +1,6 @@
 #// --------- PERMISSIONS LIST ITEMS ------- \\#
-#// --------------- 03.01 20:21 ------------ \\#
-#// ----------- Total amount: 18641 --------- \\#
+#// --------------- 04.01 23:07 ------------ \\#
+#// ----------- Total amount: 16707 --------- \\#
 #// ---------------------------------------- \\#
 fe.protection.craft.*                                                            # (default: true) Allow crafting of items. Not necessarily works with modded crafting tables
 fe.protection.craft.actuallyadditions.diamond_paxel.*                            # (default: true) CRAFT Diamond AIOT
@@ -200,9 +200,9 @@ fe.protection.craft.appliedenergistics2.network_tool.*                          
 fe.protection.craft.appliedenergistics2.paint_ball.*                             # (default: true) CRAFT Paint Ball - White
 fe.protection.craft.appliedenergistics2.part.*                                   # (default: true) CRAFT ME Glass Cable - White
 fe.protection.craft.appliedenergistics2.portable_cell.*                          # (default: true) CRAFT Portable Cell
-fe.protection.craft.appliedenergistics2.spatial_storage_cell_128_cubed.*         # (default: true) CRAFT 128Â³ Spatial Storage Cell
-fe.protection.craft.appliedenergistics2.spatial_storage_cell_16_cubed.*          # (default: true) CRAFT 16Â³ Spatial Storage Cell
-fe.protection.craft.appliedenergistics2.spatial_storage_cell_2_cubed.*           # (default: true) CRAFT 2Â³ Spatial Storage Cell
+fe.protection.craft.appliedenergistics2.spatial_storage_cell_128_cubed.*         # (default: true) CRAFT 128³ Spatial Storage Cell
+fe.protection.craft.appliedenergistics2.spatial_storage_cell_16_cubed.*          # (default: true) CRAFT 16³ Spatial Storage Cell
+fe.protection.craft.appliedenergistics2.spatial_storage_cell_2_cubed.*           # (default: true) CRAFT 2³ Spatial Storage Cell
 fe.protection.craft.appliedenergistics2.storage_cell_16k.*                       # (default: true) CRAFT 16k ME Storage Cell
 fe.protection.craft.appliedenergistics2.storage_cell_1k.*                        # (default: true) CRAFT 1k ME Storage Cell
 fe.protection.craft.appliedenergistics2.storage_cell_4k.*                        # (default: true) CRAFT 4k ME Storage Cell
@@ -210,37 +210,6 @@ fe.protection.craft.appliedenergistics2.storage_cell_64k.*                      
 fe.protection.craft.appliedenergistics2.view_cell.*                              # (default: true) CRAFT View Cell
 fe.protection.craft.appliedenergistics2.wireless_terminal.*                      # (default: true) CRAFT Wireless Terminal
 fe.protection.craft.baubles.ring.*                                               # (default: true) CRAFT Miner's Ring
-fe.protection.craft.bibliocraft.atlasbook.*                                      # (default: true) CRAFT Atlas
-fe.protection.craft.bibliocraft.atlasplate.*                                     # (default: true) CRAFT Atlas Plate
-fe.protection.craft.bibliocraft.bibliochase.*                                    # (default: true) CRAFT Print Press Chase
-fe.protection.craft.bibliocraft.biblioclipboard.*                                # (default: true) CRAFT Clipboard
-fe.protection.craft.bibliocraft.bibliocreativelock.*                             # (default: true) CRAFT Lock and Key
-fe.protection.craft.bibliocraft.bibliodrill.*                                    # (default: true) CRAFT Screw Gun
-fe.protection.craft.bibliocraft.biblioglasses.*                                  # (default: true) CRAFT Reading Glasses
-fe.protection.craft.bibliocraft.biblioredbook.*                                  # (default: true) CRAFT Redstone: Volume I
-fe.protection.craft.bibliocraft.bigbook.*                                        # (default: true) CRAFT Big Writing Book
-fe.protection.craft.bibliocraft.compass.*                                        # (default: true) CRAFT Compass
-fe.protection.craft.bibliocraft.deathcompass.*                                   # (default: true) CRAFT Eternal Compass
-fe.protection.craft.bibliocraft.enchantedplate.*                                 # (default: true) CRAFT Enchanted Plate
-fe.protection.craft.bibliocraft.framingboard.*                                   # (default: true) CRAFT Framing Board
-fe.protection.craft.bibliocraft.framingsaw.*                                     # (default: true) CRAFT Framing Saw
-fe.protection.craft.bibliocraft.framingsheet.*                                   # (default: true) CRAFT Framing Sheet
-fe.protection.craft.bibliocraft.handdrill.*                                      # (default: true) CRAFT Hand Drill
-fe.protection.craft.bibliocraft.maptool.*                                        # (default: true) CRAFT Drafting Compass
-fe.protection.craft.bibliocraft.paintingcanvas.*                                 # (default: true) CRAFT Painting Canvas
-fe.protection.craft.bibliocraft.plumbline.*                                      # (default: true) CRAFT Plumb line
-fe.protection.craft.bibliocraft.printplate.*                                     # (default: true) CRAFT Print Press Plate
-fe.protection.craft.bibliocraft.recipebook.*                                     # (default: true) CRAFT Empty Recipe Book
-fe.protection.craft.bibliocraft.seatback1.*                                      # (default: true) CRAFT Oak Seat Back
-fe.protection.craft.bibliocraft.seatback2.*                                      # (default: true) CRAFT Oak Seat Back
-fe.protection.craft.bibliocraft.seatback3.*                                      # (default: true) CRAFT Oak Seat Back
-fe.protection.craft.bibliocraft.seatback4.*                                      # (default: true) CRAFT Oak Seat Back
-fe.protection.craft.bibliocraft.seatback5.*                                      # (default: true) CRAFT Oak Seat Back
-fe.protection.craft.bibliocraft.slottedbook.*                                    # (default: true) CRAFT Slotted Book
-fe.protection.craft.bibliocraft.stockroomcatalog.*                               # (default: true) CRAFT Stockroom Catalog
-fe.protection.craft.bibliocraft.tape.*                                           # (default: true) CRAFT Tape Measure Reel
-fe.protection.craft.bibliocraft.tapemeasure.*                                    # (default: true) CRAFT Tape Measure
-fe.protection.craft.bibliocraft.testeritem.*                                     # (default: true) CRAFT ItemStack Name Tester
 fe.protection.craft.biomesoplenty.ash.*                                          # (default: true) CRAFT Pile of Ashes
 fe.protection.craft.biomesoplenty.berries.*                                      # (default: true) CRAFT Berry
 fe.protection.craft.biomesoplenty.biome_essence.*                                # (default: true) CRAFT Biome Essence
@@ -309,8 +278,8 @@ fe.protection.craft.botania.baublebox.*                                         
 fe.protection.craft.botania.blackholetalisman.*                                  # (default: true) CRAFT Black Hole Talisman
 fe.protection.craft.botania.blacklotus.*                                         # (default: true) CRAFT Black Lotus
 fe.protection.craft.botania.bloodpendant.*                                       # (default: true) CRAFT Tainted Blood Pendant
-fe.protection.craft.botania.brewflask.*                                          # (default: true) CRAFT Flask of Fallback (Â§l6Â§r)
-fe.protection.craft.botania.brewvial.*                                           # (default: true) CRAFT Vial of Fallback (Â§l4Â§r)
+fe.protection.craft.botania.brewflask.*                                          # (default: true) CRAFT Flask of Fallback (§l6§r)
+fe.protection.craft.botania.brewvial.*                                           # (default: true) CRAFT Vial of Fallback (§l4§r)
 fe.protection.craft.botania.cacophonium.*                                        # (default: true) CRAFT Cacophonium
 fe.protection.craft.botania.clip.*                                               # (default: true) CRAFT Lens Clip
 fe.protection.craft.botania.cloudpendant.*                                       # (default: true) CRAFT Cirrus Amulet
@@ -341,9 +310,9 @@ fe.protection.craft.botania.enderhand.*                                         
 fe.protection.craft.botania.exchangerod.*                                        # (default: true) CRAFT Rod of the Shifting Crust
 fe.protection.craft.botania.fertilizer.*                                         # (default: true) CRAFT Floral Fertilizer
 fe.protection.craft.botania.firerod.*                                            # (default: true) CRAFT Rod of the Hells
-fe.protection.craft.botania.flighttiara.*                                        # (default: true) CRAFT FlÃ¼gel Tiara
+fe.protection.craft.botania.flighttiara.*                                        # (default: true) CRAFT Flügel Tiara
 fe.protection.craft.botania.flowerbag.*                                          # (default: true) CRAFT Flower Pouch
-fe.protection.craft.botania.flugeleye.*                                          # (default: true) CRAFT Eye of the FlÃ¼gel
+fe.protection.craft.botania.flugeleye.*                                          # (default: true) CRAFT Eye of the Flügel
 fe.protection.craft.botania.gaiahead.*                                           # (default: true) CRAFT Gaia Guardian's Head
 fe.protection.craft.botania.glasspick.*                                          # (default: true) CRAFT Vitreous Pickaxe
 fe.protection.craft.botania.goddesscharm.*                                       # (default: true) CRAFT Benevolent Goddess' Charm
@@ -1117,7 +1086,7 @@ fe.protection.craft.harvestcraft.mangojellysandwichitem.*                       
 fe.protection.craft.harvestcraft.mangojuiceitem.*                                # (default: true) CRAFT Mango Juice
 fe.protection.craft.harvestcraft.mangosmoothieitem.*                             # (default: true) CRAFT Mango Smoothie
 fe.protection.craft.harvestcraft.mangoyogurtitem.*                               # (default: true) CRAFT Mango Yogurt
-fe.protection.craft.harvestcraft.manjuuitem.*                                    # (default: true) CRAFT ManjÅ«
+fe.protection.craft.harvestcraft.manjuuitem.*                                    # (default: true) CRAFT Manj?
 fe.protection.craft.harvestcraft.maplecandiedbaconitem.*                         # (default: true) CRAFT Maple Candied Bacon
 fe.protection.craft.harvestcraft.mapleoatmealitem.*                              # (default: true) CRAFT Maple Oatmeal
 fe.protection.craft.harvestcraft.maplesausageitem.*                              # (default: true) CRAFT Maple Sausage
@@ -1148,7 +1117,7 @@ fe.protection.craft.harvestcraft.meringuecookieitem.*                           
 fe.protection.craft.harvestcraft.meringueitem.*                                  # (default: true) CRAFT Meringue
 fe.protection.craft.harvestcraft.meringuerouladeitem.*                           # (default: true) CRAFT Meringue Roulade
 fe.protection.craft.harvestcraft.merveilleuxitem.*                               # (default: true) CRAFT Merveilleux
-fe.protection.craft.harvestcraft.mettbrotchenitem.*                              # (default: true) CRAFT MettbrÃ¶tchen
+fe.protection.craft.harvestcraft.mettbrotchenitem.*                              # (default: true) CRAFT Mettbrötchen
 fe.protection.craft.harvestcraft.milletitem.*                                    # (default: true) CRAFT Millet
 fe.protection.craft.harvestcraft.milletseeditem.*                                # (default: true) CRAFT Millet Seed
 fe.protection.craft.harvestcraft.mincepieitem.*                                  # (default: true) CRAFT Mince Pie
@@ -1623,7 +1592,7 @@ fe.protection.craft.mekanism.anchorupgrade.*                                    
 fe.protection.craft.mekanism.armoredjetpack.*                                    # (default: true) CRAFT Armored Jetpack
 fe.protection.craft.mekanism.atomicalloy.*                                       # (default: true) CRAFT Atomic Alloy
 fe.protection.craft.mekanism.atomicdisassembler.*                                # (default: true) CRAFT Atomic Disassembler
-fe.protection.craft.mekanism.balloon.*                                           # (default: true) CRAFT Â§8Black Balloon
+fe.protection.craft.mekanism.balloon.*                                           # (default: true) CRAFT §8Black Balloon
 fe.protection.craft.mekanism.biofuel.*                                           # (default: true) CRAFT Bio Fuel
 fe.protection.craft.mekanism.clump.*                                             # (default: true) CRAFT Iron Clump
 fe.protection.craft.mekanism.compressedcarbon.*                                  # (default: true) CRAFT Compressed Carbon
@@ -1965,121 +1934,6 @@ fe.protection.craft.tconstruct.tool_rod.*                                       
 fe.protection.craft.tconstruct.tough_binding.*                                   # (default: true) CRAFT Tough Binding
 fe.protection.craft.tconstruct.tough_tool_rod.*                                  # (default: true) CRAFT Tough Tool Rod
 fe.protection.craft.tconstruct.wide_guard.*                                      # (default: true) CRAFT Wide Guard
-fe.protection.craft.thaumcraft.alumentum.*                                       # (default: true) CRAFT Alumentum
-fe.protection.craft.thaumcraft.amber.*                                           # (default: true) CRAFT Amber
-fe.protection.craft.thaumcraft.amulet_vis.*                                      # (default: true) CRAFT Vis Stone
-fe.protection.craft.thaumcraft.bath_salts.*                                      # (default: true) CRAFT Purifying Bath Salts
-fe.protection.craft.thaumcraft.baubles.*                                         # (default: true) CRAFT Mundane Amulet
-fe.protection.craft.thaumcraft.bottle_taint.*                                    # (default: true) CRAFT Bottle of Taint
-fe.protection.craft.thaumcraft.brain.*                                           # (default: true) CRAFT Zombie Brain
-fe.protection.craft.thaumcraft.caster_basic.*                                    # (default: true) CRAFT Caster's Gauntlet
-fe.protection.craft.thaumcraft.causality_collapser.*                             # (default: true) CRAFT Causality Collapser
-fe.protection.craft.thaumcraft.celestial_notes.*                                 # (default: true) CRAFT Celestial Notes
-fe.protection.craft.thaumcraft.charm_undying.*                                   # (default: true) CRAFT Charm of Undying
-fe.protection.craft.thaumcraft.chunk.*                                           # (default: true) CRAFT Beef Nugget
-fe.protection.craft.thaumcraft.cloth_boots.*                                     # (default: true) CRAFT Thaumaturge's Boots
-fe.protection.craft.thaumcraft.cloth_chest.*                                     # (default: true) CRAFT Thaumaturge's Robe
-fe.protection.craft.thaumcraft.cloth_legs.*                                      # (default: true) CRAFT Thaumaturge's Leggings
-fe.protection.craft.thaumcraft.cloud_ring.*                                      # (default: true) CRAFT Cloudstepper Ring
-fe.protection.craft.thaumcraft.cluster.*                                         # (default: true) CRAFT Native Iron Cluster
-fe.protection.craft.thaumcraft.creative_flux_sponge.*                            # (default: true) CRAFT Flux Sponge
-fe.protection.craft.thaumcraft.crimson_blade.*                                   # (default: true) CRAFT Crimson Blade
-fe.protection.craft.thaumcraft.crimson_boots.*                                   # (default: true) CRAFT Crimson Cult Boots
-fe.protection.craft.thaumcraft.crimson_plate_chest.*                             # (default: true) CRAFT Crimson Cult Chestplate
-fe.protection.craft.thaumcraft.crimson_plate_helm.*                              # (default: true) CRAFT Crimson Cult Helm
-fe.protection.craft.thaumcraft.crimson_plate_legs.*                              # (default: true) CRAFT Crimson Cult Greaves
-fe.protection.craft.thaumcraft.crimson_praetor_chest.*                           # (default: true) CRAFT Crimson Praetor Chestplate
-fe.protection.craft.thaumcraft.crimson_praetor_helm.*                            # (default: true) CRAFT Crimson Praetor Helm
-fe.protection.craft.thaumcraft.crimson_praetor_legs.*                            # (default: true) CRAFT Crimson Praetor Greaves
-fe.protection.craft.thaumcraft.crimson_robe_chest.*                              # (default: true) CRAFT Crimson Cult Robe
-fe.protection.craft.thaumcraft.crimson_robe_helm.*                               # (default: true) CRAFT Crimson Cult Hood
-fe.protection.craft.thaumcraft.crimson_robe_legs.*                               # (default: true) CRAFT Crimson Cult Leggings
-fe.protection.craft.thaumcraft.crystal_essence.*                                 # (default: true) CRAFT %s Vis Crystal
-fe.protection.craft.thaumcraft.curio.*                                           # (default: true) CRAFT Arcane Curiosity
-fe.protection.craft.thaumcraft.curiosity_band.*                                  # (default: true) CRAFT Headband of Curiosity
-fe.protection.craft.thaumcraft.elemental_axe.*                                   # (default: true) CRAFT Axe of the Stream
-fe.protection.craft.thaumcraft.elemental_hoe.*                                   # (default: true) CRAFT Hoe of Growth
-fe.protection.craft.thaumcraft.elemental_pick.*                                  # (default: true) CRAFT Pickaxe of the Core
-fe.protection.craft.thaumcraft.elemental_shovel.*                                # (default: true) CRAFT Shovel of the Earthmover
-fe.protection.craft.thaumcraft.elemental_sword.*                                 # (default: true) CRAFT Sword of the Zephyr
-fe.protection.craft.thaumcraft.enchanted_placeholder.*                           # (default: true) CRAFT Any enchanted item
-fe.protection.craft.thaumcraft.fabric.*                                          # (default: true) CRAFT Enchanted Fabric
-fe.protection.craft.thaumcraft.filter.*                                          # (default: true) CRAFT Essentia Filter
-fe.protection.craft.thaumcraft.focus_1.*                                         # (default: true) CRAFT Blank Lesser Focus
-fe.protection.craft.thaumcraft.focus_2.*                                         # (default: true) CRAFT Blank Advanced Focus
-fe.protection.craft.thaumcraft.focus_3.*                                         # (default: true) CRAFT Blank Greater Focus
-fe.protection.craft.thaumcraft.focus_pouch.*                                     # (default: true) CRAFT Focus Pouch
-fe.protection.craft.thaumcraft.fortress_chest.*                                  # (default: true) CRAFT Thaumium Fortress Cuirass
-fe.protection.craft.thaumcraft.fortress_helm.*                                   # (default: true) CRAFT Thaumium Fortress Helm
-fe.protection.craft.thaumcraft.fortress_legs.*                                   # (default: true) CRAFT Thaumium Fortress Thigh Guards
-fe.protection.craft.thaumcraft.goggles.*                                         # (default: true) CRAFT Goggles of Revealing
-fe.protection.craft.thaumcraft.golem.*                                           # (default: true) CRAFT Golem
-fe.protection.craft.thaumcraft.golem_bell.*                                      # (default: true) CRAFT Golemancer's Bell
-fe.protection.craft.thaumcraft.grapple_gun.*                                     # (default: true) CRAFT Arcane Grappler
-fe.protection.craft.thaumcraft.grapple_gun_spool.*                               # (default: true) CRAFT Grappler Spool
-fe.protection.craft.thaumcraft.grapple_gun_tip.*                                 # (default: true) CRAFT Grappler Head
-fe.protection.craft.thaumcraft.hand_mirror.*                                     # (default: true) CRAFT Magic Hand Mirror
-fe.protection.craft.thaumcraft.ingot.*                                           # (default: true) CRAFT Thaumium Ingot
-fe.protection.craft.thaumcraft.jar_brace.*                                       # (default: true) CRAFT Brass Lid Brace
-fe.protection.craft.thaumcraft.label.*                                           # (default: true) CRAFT Blank Label
-fe.protection.craft.thaumcraft.loot_bag.*                                        # (default: true) CRAFT Common Treasure
-fe.protection.craft.thaumcraft.mechanism_complex.*                               # (default: true) CRAFT Complex Arcane Mechanism
-fe.protection.craft.thaumcraft.mechanism_simple.*                                # (default: true) CRAFT Simple Arcane Mechanism
-fe.protection.craft.thaumcraft.mind.*                                            # (default: true) CRAFT Clockwork Mind
-fe.protection.craft.thaumcraft.mirrored_glass.*                                  # (default: true) CRAFT Mirrored Glass
-fe.protection.craft.thaumcraft.module.*                                          # (default: true) CRAFT Vision Module
-fe.protection.craft.thaumcraft.morphic_resonator.*                               # (default: true) CRAFT Morphic Resonator
-fe.protection.craft.thaumcraft.nugget.*                                          # (default: true) CRAFT Iron Nugget
-fe.protection.craft.thaumcraft.pech_wand.*                                       # (default: true) CRAFT Pech Wand
-fe.protection.craft.thaumcraft.phial.*                                           # (default: true) CRAFT Glass Phial
-fe.protection.craft.thaumcraft.plate.*                                           # (default: true) CRAFT Brass Plate
-fe.protection.craft.thaumcraft.primal_crusher.*                                  # (default: true) CRAFT Primal Crusher
-fe.protection.craft.thaumcraft.primordial_pearl.*                                # (default: true) CRAFT Primordial Pearl
-fe.protection.craft.thaumcraft.quicksilver.*                                     # (default: true) CRAFT Quicksilver
-fe.protection.craft.thaumcraft.resonator.*                                       # (default: true) CRAFT Essentia Resonator
-fe.protection.craft.thaumcraft.salis_mundus.*                                    # (default: true) CRAFT Salis Mundus
-fe.protection.craft.thaumcraft.sanity_checker.*                                  # (default: true) CRAFT Sanity Checker
-fe.protection.craft.thaumcraft.sanity_soap.*                                     # (default: true) CRAFT Sanitizing Soap
-fe.protection.craft.thaumcraft.scribing_tools.*                                  # (default: true) CRAFT Scribing Tools
-fe.protection.craft.thaumcraft.seal.*                                            # (default: true) CRAFT Blank Seal
-fe.protection.craft.thaumcraft.tallow.*                                          # (default: true) CRAFT Magic Tallow
-fe.protection.craft.thaumcraft.thaumium_axe.*                                    # (default: true) CRAFT Thaumium Axe
-fe.protection.craft.thaumcraft.thaumium_boots.*                                  # (default: true) CRAFT Thaumium Boots
-fe.protection.craft.thaumcraft.thaumium_chest.*                                  # (default: true) CRAFT Thaumium Chestplate
-fe.protection.craft.thaumcraft.thaumium_helm.*                                   # (default: true) CRAFT Thaumium Helm
-fe.protection.craft.thaumcraft.thaumium_hoe.*                                    # (default: true) CRAFT Thaumium Hoe
-fe.protection.craft.thaumcraft.thaumium_legs.*                                   # (default: true) CRAFT Thaumium Leggings
-fe.protection.craft.thaumcraft.thaumium_pick.*                                   # (default: true) CRAFT Thaumium Pickaxe
-fe.protection.craft.thaumcraft.thaumium_shovel.*                                 # (default: true) CRAFT Thaumium Shovel
-fe.protection.craft.thaumcraft.thaumium_sword.*                                  # (default: true) CRAFT Thaumium Sword
-fe.protection.craft.thaumcraft.thaumometer.*                                     # (default: true) CRAFT Thaumometer
-fe.protection.craft.thaumcraft.thaumonomicon.*                                   # (default: true) CRAFT Thaumonomicon
-fe.protection.craft.thaumcraft.traveller_boots.*                                 # (default: true) CRAFT Boots of the Traveller
-fe.protection.craft.thaumcraft.triple_meat_treat.*                               # (default: true) CRAFT Triple Meat Treat
-fe.protection.craft.thaumcraft.turret.*                                          # (default: true) CRAFT Automated Crossbow
-fe.protection.craft.thaumcraft.verdant_charm.*                                   # (default: true) CRAFT Verdant Heart Charm
-fe.protection.craft.thaumcraft.vis_resonator.*                                   # (default: true) CRAFT Vis Resonator
-fe.protection.craft.thaumcraft.void_axe.*                                        # (default: true) CRAFT Void Axe
-fe.protection.craft.thaumcraft.void_boots.*                                      # (default: true) CRAFT Void Boots
-fe.protection.craft.thaumcraft.void_chest.*                                      # (default: true) CRAFT Void Chestplate
-fe.protection.craft.thaumcraft.void_helm.*                                       # (default: true) CRAFT Void Helm
-fe.protection.craft.thaumcraft.void_hoe.*                                        # (default: true) CRAFT Void Hoe
-fe.protection.craft.thaumcraft.void_legs.*                                       # (default: true) CRAFT Void Leggings
-fe.protection.craft.thaumcraft.void_pick.*                                       # (default: true) CRAFT Void Pickaxe
-fe.protection.craft.thaumcraft.void_robe_chest.*                                 # (default: true) CRAFT Void Thaumaturge Robe
-fe.protection.craft.thaumcraft.void_robe_helm.*                                  # (default: true) CRAFT Void Thaumaturge Hood
-fe.protection.craft.thaumcraft.void_robe_legs.*                                  # (default: true) CRAFT Void Thaumaturge Leggings
-fe.protection.craft.thaumcraft.void_seed.*                                       # (default: true) CRAFT Void Seed
-fe.protection.craft.thaumcraft.void_shovel.*                                     # (default: true) CRAFT Void Shovel
-fe.protection.craft.thaumcraft.void_sword.*                                      # (default: true) CRAFT Void Sword
-fe.protection.craft.thaumcraft.voidseer_charm.*                                  # (default: true) CRAFT Voidseer's Pearl
-fe.protection.craft.thaumictinkerer.black_quartz.*                               # (default: true) CRAFT Smokey Quartz
-fe.protection.craft.thaumictinkerer.cleaning_talisman.*                          # (default: true) CRAFT Talisman of Remedium
-fe.protection.craft.thaumictinkerer.connector.*                                  # (default: true) CRAFT Transvector Binder
-fe.protection.craft.thaumictinkerer.energetic_nitor.*                            # (default: true) CRAFT Energetic Nitor
-fe.protection.craft.thaumictinkerer.form_revealer.*                              # (default: true) CRAFT Multiblock Visualizer
-fe.protection.craft.thaumictinkerer.share_book.*                                 # (default: true) CRAFT Tome of Knowledge Sharing
-fe.protection.craft.thaumictinkerer.soul_mould.*                                 # (default: true) CRAFT item.thaumictinkerer:soul_mould.name
 fe.protection.craft.theoneprobe.creativeprobe.*                                  # (default: true) CRAFT The Creative Probe
 fe.protection.craft.theoneprobe.diamond_helmet_probe.*                           # (default: true) CRAFT Diamond Helmet with Probe
 fe.protection.craft.theoneprobe.gold_helmet_probe.*                              # (default: true) CRAFT Gold Helmet with Probe
@@ -2395,9 +2249,9 @@ fe.protection.exist.appliedenergistics2.network_tool.*                          
 fe.protection.exist.appliedenergistics2.paint_ball.*                             # (default: true) EXIST Paint Ball - White
 fe.protection.exist.appliedenergistics2.part.*                                   # (default: true) EXIST ME Glass Cable - White
 fe.protection.exist.appliedenergistics2.portable_cell.*                          # (default: true) EXIST Portable Cell
-fe.protection.exist.appliedenergistics2.spatial_storage_cell_128_cubed.*         # (default: true) EXIST 128Â³ Spatial Storage Cell
-fe.protection.exist.appliedenergistics2.spatial_storage_cell_16_cubed.*          # (default: true) EXIST 16Â³ Spatial Storage Cell
-fe.protection.exist.appliedenergistics2.spatial_storage_cell_2_cubed.*           # (default: true) EXIST 2Â³ Spatial Storage Cell
+fe.protection.exist.appliedenergistics2.spatial_storage_cell_128_cubed.*         # (default: true) EXIST 128³ Spatial Storage Cell
+fe.protection.exist.appliedenergistics2.spatial_storage_cell_16_cubed.*          # (default: true) EXIST 16³ Spatial Storage Cell
+fe.protection.exist.appliedenergistics2.spatial_storage_cell_2_cubed.*           # (default: true) EXIST 2³ Spatial Storage Cell
 fe.protection.exist.appliedenergistics2.storage_cell_16k.*                       # (default: true) EXIST 16k ME Storage Cell
 fe.protection.exist.appliedenergistics2.storage_cell_1k.*                        # (default: true) EXIST 1k ME Storage Cell
 fe.protection.exist.appliedenergistics2.storage_cell_4k.*                        # (default: true) EXIST 4k ME Storage Cell
@@ -2405,37 +2259,6 @@ fe.protection.exist.appliedenergistics2.storage_cell_64k.*                      
 fe.protection.exist.appliedenergistics2.view_cell.*                              # (default: true) EXIST View Cell
 fe.protection.exist.appliedenergistics2.wireless_terminal.*                      # (default: true) EXIST Wireless Terminal
 fe.protection.exist.baubles.ring.*                                               # (default: true) EXIST Miner's Ring
-fe.protection.exist.bibliocraft.atlasbook.*                                      # (default: true) EXIST Atlas
-fe.protection.exist.bibliocraft.atlasplate.*                                     # (default: true) EXIST Atlas Plate
-fe.protection.exist.bibliocraft.bibliochase.*                                    # (default: true) EXIST Print Press Chase
-fe.protection.exist.bibliocraft.biblioclipboard.*                                # (default: true) EXIST Clipboard
-fe.protection.exist.bibliocraft.bibliocreativelock.*                             # (default: true) EXIST Lock and Key
-fe.protection.exist.bibliocraft.bibliodrill.*                                    # (default: true) EXIST Screw Gun
-fe.protection.exist.bibliocraft.biblioglasses.*                                  # (default: true) EXIST Reading Glasses
-fe.protection.exist.bibliocraft.biblioredbook.*                                  # (default: true) EXIST Redstone: Volume I
-fe.protection.exist.bibliocraft.bigbook.*                                        # (default: true) EXIST Big Writing Book
-fe.protection.exist.bibliocraft.compass.*                                        # (default: true) EXIST Compass
-fe.protection.exist.bibliocraft.deathcompass.*                                   # (default: true) EXIST Eternal Compass
-fe.protection.exist.bibliocraft.enchantedplate.*                                 # (default: true) EXIST Enchanted Plate
-fe.protection.exist.bibliocraft.framingboard.*                                   # (default: true) EXIST Framing Board
-fe.protection.exist.bibliocraft.framingsaw.*                                     # (default: true) EXIST Framing Saw
-fe.protection.exist.bibliocraft.framingsheet.*                                   # (default: true) EXIST Framing Sheet
-fe.protection.exist.bibliocraft.handdrill.*                                      # (default: true) EXIST Hand Drill
-fe.protection.exist.bibliocraft.maptool.*                                        # (default: true) EXIST Drafting Compass
-fe.protection.exist.bibliocraft.paintingcanvas.*                                 # (default: true) EXIST Painting Canvas
-fe.protection.exist.bibliocraft.plumbline.*                                      # (default: true) EXIST Plumb line
-fe.protection.exist.bibliocraft.printplate.*                                     # (default: true) EXIST Print Press Plate
-fe.protection.exist.bibliocraft.recipebook.*                                     # (default: true) EXIST Empty Recipe Book
-fe.protection.exist.bibliocraft.seatback1.*                                      # (default: true) EXIST Oak Seat Back
-fe.protection.exist.bibliocraft.seatback2.*                                      # (default: true) EXIST Oak Seat Back
-fe.protection.exist.bibliocraft.seatback3.*                                      # (default: true) EXIST Oak Seat Back
-fe.protection.exist.bibliocraft.seatback4.*                                      # (default: true) EXIST Oak Seat Back
-fe.protection.exist.bibliocraft.seatback5.*                                      # (default: true) EXIST Oak Seat Back
-fe.protection.exist.bibliocraft.slottedbook.*                                    # (default: true) EXIST Slotted Book
-fe.protection.exist.bibliocraft.stockroomcatalog.*                               # (default: true) EXIST Stockroom Catalog
-fe.protection.exist.bibliocraft.tape.*                                           # (default: true) EXIST Tape Measure Reel
-fe.protection.exist.bibliocraft.tapemeasure.*                                    # (default: true) EXIST Tape Measure
-fe.protection.exist.bibliocraft.testeritem.*                                     # (default: true) EXIST ItemStack Name Tester
 fe.protection.exist.biomesoplenty.ash.*                                          # (default: true) EXIST Pile of Ashes
 fe.protection.exist.biomesoplenty.berries.*                                      # (default: true) EXIST Berry
 fe.protection.exist.biomesoplenty.biome_essence.*                                # (default: true) EXIST Biome Essence
@@ -2504,8 +2327,8 @@ fe.protection.exist.botania.baublebox.*                                         
 fe.protection.exist.botania.blackholetalisman.*                                  # (default: true) EXIST Black Hole Talisman
 fe.protection.exist.botania.blacklotus.*                                         # (default: true) EXIST Black Lotus
 fe.protection.exist.botania.bloodpendant.*                                       # (default: true) EXIST Tainted Blood Pendant
-fe.protection.exist.botania.brewflask.*                                          # (default: true) EXIST Flask of Fallback (Â§l6Â§r)
-fe.protection.exist.botania.brewvial.*                                           # (default: true) EXIST Vial of Fallback (Â§l4Â§r)
+fe.protection.exist.botania.brewflask.*                                          # (default: true) EXIST Flask of Fallback (§l6§r)
+fe.protection.exist.botania.brewvial.*                                           # (default: true) EXIST Vial of Fallback (§l4§r)
 fe.protection.exist.botania.cacophonium.*                                        # (default: true) EXIST Cacophonium
 fe.protection.exist.botania.clip.*                                               # (default: true) EXIST Lens Clip
 fe.protection.exist.botania.cloudpendant.*                                       # (default: true) EXIST Cirrus Amulet
@@ -2536,9 +2359,9 @@ fe.protection.exist.botania.enderhand.*                                         
 fe.protection.exist.botania.exchangerod.*                                        # (default: true) EXIST Rod of the Shifting Crust
 fe.protection.exist.botania.fertilizer.*                                         # (default: true) EXIST Floral Fertilizer
 fe.protection.exist.botania.firerod.*                                            # (default: true) EXIST Rod of the Hells
-fe.protection.exist.botania.flighttiara.*                                        # (default: true) EXIST FlÃ¼gel Tiara
+fe.protection.exist.botania.flighttiara.*                                        # (default: true) EXIST Flügel Tiara
 fe.protection.exist.botania.flowerbag.*                                          # (default: true) EXIST Flower Pouch
-fe.protection.exist.botania.flugeleye.*                                          # (default: true) EXIST Eye of the FlÃ¼gel
+fe.protection.exist.botania.flugeleye.*                                          # (default: true) EXIST Eye of the Flügel
 fe.protection.exist.botania.gaiahead.*                                           # (default: true) EXIST Gaia Guardian's Head
 fe.protection.exist.botania.glasspick.*                                          # (default: true) EXIST Vitreous Pickaxe
 fe.protection.exist.botania.goddesscharm.*                                       # (default: true) EXIST Benevolent Goddess' Charm
@@ -3312,7 +3135,7 @@ fe.protection.exist.harvestcraft.mangojellysandwichitem.*                       
 fe.protection.exist.harvestcraft.mangojuiceitem.*                                # (default: true) EXIST Mango Juice
 fe.protection.exist.harvestcraft.mangosmoothieitem.*                             # (default: true) EXIST Mango Smoothie
 fe.protection.exist.harvestcraft.mangoyogurtitem.*                               # (default: true) EXIST Mango Yogurt
-fe.protection.exist.harvestcraft.manjuuitem.*                                    # (default: true) EXIST ManjÅ«
+fe.protection.exist.harvestcraft.manjuuitem.*                                    # (default: true) EXIST Manj?
 fe.protection.exist.harvestcraft.maplecandiedbaconitem.*                         # (default: true) EXIST Maple Candied Bacon
 fe.protection.exist.harvestcraft.mapleoatmealitem.*                              # (default: true) EXIST Maple Oatmeal
 fe.protection.exist.harvestcraft.maplesausageitem.*                              # (default: true) EXIST Maple Sausage
@@ -3343,7 +3166,7 @@ fe.protection.exist.harvestcraft.meringuecookieitem.*                           
 fe.protection.exist.harvestcraft.meringueitem.*                                  # (default: true) EXIST Meringue
 fe.protection.exist.harvestcraft.meringuerouladeitem.*                           # (default: true) EXIST Meringue Roulade
 fe.protection.exist.harvestcraft.merveilleuxitem.*                               # (default: true) EXIST Merveilleux
-fe.protection.exist.harvestcraft.mettbrotchenitem.*                              # (default: true) EXIST MettbrÃ¶tchen
+fe.protection.exist.harvestcraft.mettbrotchenitem.*                              # (default: true) EXIST Mettbrötchen
 fe.protection.exist.harvestcraft.milletitem.*                                    # (default: true) EXIST Millet
 fe.protection.exist.harvestcraft.milletseeditem.*                                # (default: true) EXIST Millet Seed
 fe.protection.exist.harvestcraft.mincepieitem.*                                  # (default: true) EXIST Mince Pie
@@ -3818,7 +3641,7 @@ fe.protection.exist.mekanism.anchorupgrade.*                                    
 fe.protection.exist.mekanism.armoredjetpack.*                                    # (default: true) EXIST Armored Jetpack
 fe.protection.exist.mekanism.atomicalloy.*                                       # (default: true) EXIST Atomic Alloy
 fe.protection.exist.mekanism.atomicdisassembler.*                                # (default: true) EXIST Atomic Disassembler
-fe.protection.exist.mekanism.balloon.*                                           # (default: true) EXIST Â§8Black Balloon
+fe.protection.exist.mekanism.balloon.*                                           # (default: true) EXIST §8Black Balloon
 fe.protection.exist.mekanism.biofuel.*                                           # (default: true) EXIST Bio Fuel
 fe.protection.exist.mekanism.clump.*                                             # (default: true) EXIST Iron Clump
 fe.protection.exist.mekanism.compressedcarbon.*                                  # (default: true) EXIST Compressed Carbon
@@ -4160,121 +3983,6 @@ fe.protection.exist.tconstruct.tool_rod.*                                       
 fe.protection.exist.tconstruct.tough_binding.*                                   # (default: true) EXIST Tough Binding
 fe.protection.exist.tconstruct.tough_tool_rod.*                                  # (default: true) EXIST Tough Tool Rod
 fe.protection.exist.tconstruct.wide_guard.*                                      # (default: true) EXIST Wide Guard
-fe.protection.exist.thaumcraft.alumentum.*                                       # (default: true) EXIST Alumentum
-fe.protection.exist.thaumcraft.amber.*                                           # (default: true) EXIST Amber
-fe.protection.exist.thaumcraft.amulet_vis.*                                      # (default: true) EXIST Vis Stone
-fe.protection.exist.thaumcraft.bath_salts.*                                      # (default: true) EXIST Purifying Bath Salts
-fe.protection.exist.thaumcraft.baubles.*                                         # (default: true) EXIST Mundane Amulet
-fe.protection.exist.thaumcraft.bottle_taint.*                                    # (default: true) EXIST Bottle of Taint
-fe.protection.exist.thaumcraft.brain.*                                           # (default: true) EXIST Zombie Brain
-fe.protection.exist.thaumcraft.caster_basic.*                                    # (default: true) EXIST Caster's Gauntlet
-fe.protection.exist.thaumcraft.causality_collapser.*                             # (default: true) EXIST Causality Collapser
-fe.protection.exist.thaumcraft.celestial_notes.*                                 # (default: true) EXIST Celestial Notes
-fe.protection.exist.thaumcraft.charm_undying.*                                   # (default: true) EXIST Charm of Undying
-fe.protection.exist.thaumcraft.chunk.*                                           # (default: true) EXIST Beef Nugget
-fe.protection.exist.thaumcraft.cloth_boots.*                                     # (default: true) EXIST Thaumaturge's Boots
-fe.protection.exist.thaumcraft.cloth_chest.*                                     # (default: true) EXIST Thaumaturge's Robe
-fe.protection.exist.thaumcraft.cloth_legs.*                                      # (default: true) EXIST Thaumaturge's Leggings
-fe.protection.exist.thaumcraft.cloud_ring.*                                      # (default: true) EXIST Cloudstepper Ring
-fe.protection.exist.thaumcraft.cluster.*                                         # (default: true) EXIST Native Iron Cluster
-fe.protection.exist.thaumcraft.creative_flux_sponge.*                            # (default: true) EXIST Flux Sponge
-fe.protection.exist.thaumcraft.crimson_blade.*                                   # (default: true) EXIST Crimson Blade
-fe.protection.exist.thaumcraft.crimson_boots.*                                   # (default: true) EXIST Crimson Cult Boots
-fe.protection.exist.thaumcraft.crimson_plate_chest.*                             # (default: true) EXIST Crimson Cult Chestplate
-fe.protection.exist.thaumcraft.crimson_plate_helm.*                              # (default: true) EXIST Crimson Cult Helm
-fe.protection.exist.thaumcraft.crimson_plate_legs.*                              # (default: true) EXIST Crimson Cult Greaves
-fe.protection.exist.thaumcraft.crimson_praetor_chest.*                           # (default: true) EXIST Crimson Praetor Chestplate
-fe.protection.exist.thaumcraft.crimson_praetor_helm.*                            # (default: true) EXIST Crimson Praetor Helm
-fe.protection.exist.thaumcraft.crimson_praetor_legs.*                            # (default: true) EXIST Crimson Praetor Greaves
-fe.protection.exist.thaumcraft.crimson_robe_chest.*                              # (default: true) EXIST Crimson Cult Robe
-fe.protection.exist.thaumcraft.crimson_robe_helm.*                               # (default: true) EXIST Crimson Cult Hood
-fe.protection.exist.thaumcraft.crimson_robe_legs.*                               # (default: true) EXIST Crimson Cult Leggings
-fe.protection.exist.thaumcraft.crystal_essence.*                                 # (default: true) EXIST %s Vis Crystal
-fe.protection.exist.thaumcraft.curio.*                                           # (default: true) EXIST Arcane Curiosity
-fe.protection.exist.thaumcraft.curiosity_band.*                                  # (default: true) EXIST Headband of Curiosity
-fe.protection.exist.thaumcraft.elemental_axe.*                                   # (default: true) EXIST Axe of the Stream
-fe.protection.exist.thaumcraft.elemental_hoe.*                                   # (default: true) EXIST Hoe of Growth
-fe.protection.exist.thaumcraft.elemental_pick.*                                  # (default: true) EXIST Pickaxe of the Core
-fe.protection.exist.thaumcraft.elemental_shovel.*                                # (default: true) EXIST Shovel of the Earthmover
-fe.protection.exist.thaumcraft.elemental_sword.*                                 # (default: true) EXIST Sword of the Zephyr
-fe.protection.exist.thaumcraft.enchanted_placeholder.*                           # (default: true) EXIST Any enchanted item
-fe.protection.exist.thaumcraft.fabric.*                                          # (default: true) EXIST Enchanted Fabric
-fe.protection.exist.thaumcraft.filter.*                                          # (default: true) EXIST Essentia Filter
-fe.protection.exist.thaumcraft.focus_1.*                                         # (default: true) EXIST Blank Lesser Focus
-fe.protection.exist.thaumcraft.focus_2.*                                         # (default: true) EXIST Blank Advanced Focus
-fe.protection.exist.thaumcraft.focus_3.*                                         # (default: true) EXIST Blank Greater Focus
-fe.protection.exist.thaumcraft.focus_pouch.*                                     # (default: true) EXIST Focus Pouch
-fe.protection.exist.thaumcraft.fortress_chest.*                                  # (default: true) EXIST Thaumium Fortress Cuirass
-fe.protection.exist.thaumcraft.fortress_helm.*                                   # (default: true) EXIST Thaumium Fortress Helm
-fe.protection.exist.thaumcraft.fortress_legs.*                                   # (default: true) EXIST Thaumium Fortress Thigh Guards
-fe.protection.exist.thaumcraft.goggles.*                                         # (default: true) EXIST Goggles of Revealing
-fe.protection.exist.thaumcraft.golem.*                                           # (default: true) EXIST Golem
-fe.protection.exist.thaumcraft.golem_bell.*                                      # (default: true) EXIST Golemancer's Bell
-fe.protection.exist.thaumcraft.grapple_gun.*                                     # (default: true) EXIST Arcane Grappler
-fe.protection.exist.thaumcraft.grapple_gun_spool.*                               # (default: true) EXIST Grappler Spool
-fe.protection.exist.thaumcraft.grapple_gun_tip.*                                 # (default: true) EXIST Grappler Head
-fe.protection.exist.thaumcraft.hand_mirror.*                                     # (default: true) EXIST Magic Hand Mirror
-fe.protection.exist.thaumcraft.ingot.*                                           # (default: true) EXIST Thaumium Ingot
-fe.protection.exist.thaumcraft.jar_brace.*                                       # (default: true) EXIST Brass Lid Brace
-fe.protection.exist.thaumcraft.label.*                                           # (default: true) EXIST Blank Label
-fe.protection.exist.thaumcraft.loot_bag.*                                        # (default: true) EXIST Common Treasure
-fe.protection.exist.thaumcraft.mechanism_complex.*                               # (default: true) EXIST Complex Arcane Mechanism
-fe.protection.exist.thaumcraft.mechanism_simple.*                                # (default: true) EXIST Simple Arcane Mechanism
-fe.protection.exist.thaumcraft.mind.*                                            # (default: true) EXIST Clockwork Mind
-fe.protection.exist.thaumcraft.mirrored_glass.*                                  # (default: true) EXIST Mirrored Glass
-fe.protection.exist.thaumcraft.module.*                                          # (default: true) EXIST Vision Module
-fe.protection.exist.thaumcraft.morphic_resonator.*                               # (default: true) EXIST Morphic Resonator
-fe.protection.exist.thaumcraft.nugget.*                                          # (default: true) EXIST Iron Nugget
-fe.protection.exist.thaumcraft.pech_wand.*                                       # (default: true) EXIST Pech Wand
-fe.protection.exist.thaumcraft.phial.*                                           # (default: true) EXIST Glass Phial
-fe.protection.exist.thaumcraft.plate.*                                           # (default: true) EXIST Brass Plate
-fe.protection.exist.thaumcraft.primal_crusher.*                                  # (default: true) EXIST Primal Crusher
-fe.protection.exist.thaumcraft.primordial_pearl.*                                # (default: true) EXIST Primordial Pearl
-fe.protection.exist.thaumcraft.quicksilver.*                                     # (default: true) EXIST Quicksilver
-fe.protection.exist.thaumcraft.resonator.*                                       # (default: true) EXIST Essentia Resonator
-fe.protection.exist.thaumcraft.salis_mundus.*                                    # (default: true) EXIST Salis Mundus
-fe.protection.exist.thaumcraft.sanity_checker.*                                  # (default: true) EXIST Sanity Checker
-fe.protection.exist.thaumcraft.sanity_soap.*                                     # (default: true) EXIST Sanitizing Soap
-fe.protection.exist.thaumcraft.scribing_tools.*                                  # (default: true) EXIST Scribing Tools
-fe.protection.exist.thaumcraft.seal.*                                            # (default: true) EXIST Blank Seal
-fe.protection.exist.thaumcraft.tallow.*                                          # (default: true) EXIST Magic Tallow
-fe.protection.exist.thaumcraft.thaumium_axe.*                                    # (default: true) EXIST Thaumium Axe
-fe.protection.exist.thaumcraft.thaumium_boots.*                                  # (default: true) EXIST Thaumium Boots
-fe.protection.exist.thaumcraft.thaumium_chest.*                                  # (default: true) EXIST Thaumium Chestplate
-fe.protection.exist.thaumcraft.thaumium_helm.*                                   # (default: true) EXIST Thaumium Helm
-fe.protection.exist.thaumcraft.thaumium_hoe.*                                    # (default: true) EXIST Thaumium Hoe
-fe.protection.exist.thaumcraft.thaumium_legs.*                                   # (default: true) EXIST Thaumium Leggings
-fe.protection.exist.thaumcraft.thaumium_pick.*                                   # (default: true) EXIST Thaumium Pickaxe
-fe.protection.exist.thaumcraft.thaumium_shovel.*                                 # (default: true) EXIST Thaumium Shovel
-fe.protection.exist.thaumcraft.thaumium_sword.*                                  # (default: true) EXIST Thaumium Sword
-fe.protection.exist.thaumcraft.thaumometer.*                                     # (default: true) EXIST Thaumometer
-fe.protection.exist.thaumcraft.thaumonomicon.*                                   # (default: true) EXIST Thaumonomicon
-fe.protection.exist.thaumcraft.traveller_boots.*                                 # (default: true) EXIST Boots of the Traveller
-fe.protection.exist.thaumcraft.triple_meat_treat.*                               # (default: true) EXIST Triple Meat Treat
-fe.protection.exist.thaumcraft.turret.*                                          # (default: true) EXIST Automated Crossbow
-fe.protection.exist.thaumcraft.verdant_charm.*                                   # (default: true) EXIST Verdant Heart Charm
-fe.protection.exist.thaumcraft.vis_resonator.*                                   # (default: true) EXIST Vis Resonator
-fe.protection.exist.thaumcraft.void_axe.*                                        # (default: true) EXIST Void Axe
-fe.protection.exist.thaumcraft.void_boots.*                                      # (default: true) EXIST Void Boots
-fe.protection.exist.thaumcraft.void_chest.*                                      # (default: true) EXIST Void Chestplate
-fe.protection.exist.thaumcraft.void_helm.*                                       # (default: true) EXIST Void Helm
-fe.protection.exist.thaumcraft.void_hoe.*                                        # (default: true) EXIST Void Hoe
-fe.protection.exist.thaumcraft.void_legs.*                                       # (default: true) EXIST Void Leggings
-fe.protection.exist.thaumcraft.void_pick.*                                       # (default: true) EXIST Void Pickaxe
-fe.protection.exist.thaumcraft.void_robe_chest.*                                 # (default: true) EXIST Void Thaumaturge Robe
-fe.protection.exist.thaumcraft.void_robe_helm.*                                  # (default: true) EXIST Void Thaumaturge Hood
-fe.protection.exist.thaumcraft.void_robe_legs.*                                  # (default: true) EXIST Void Thaumaturge Leggings
-fe.protection.exist.thaumcraft.void_seed.*                                       # (default: true) EXIST Void Seed
-fe.protection.exist.thaumcraft.void_shovel.*                                     # (default: true) EXIST Void Shovel
-fe.protection.exist.thaumcraft.void_sword.*                                      # (default: true) EXIST Void Sword
-fe.protection.exist.thaumcraft.voidseer_charm.*                                  # (default: true) EXIST Voidseer's Pearl
-fe.protection.exist.thaumictinkerer.black_quartz.*                               # (default: true) EXIST Smokey Quartz
-fe.protection.exist.thaumictinkerer.cleaning_talisman.*                          # (default: true) EXIST Talisman of Remedium
-fe.protection.exist.thaumictinkerer.connector.*                                  # (default: true) EXIST Transvector Binder
-fe.protection.exist.thaumictinkerer.energetic_nitor.*                            # (default: true) EXIST Energetic Nitor
-fe.protection.exist.thaumictinkerer.form_revealer.*                              # (default: true) EXIST Multiblock Visualizer
-fe.protection.exist.thaumictinkerer.share_book.*                                 # (default: true) EXIST Tome of Knowledge Sharing
-fe.protection.exist.thaumictinkerer.soul_mould.*                                 # (default: true) EXIST item.thaumictinkerer:soul_mould.name
 fe.protection.exist.theoneprobe.creativeprobe.*                                  # (default: true) EXIST The Creative Probe
 fe.protection.exist.theoneprobe.diamond_helmet_probe.*                           # (default: true) EXIST Diamond Helmet with Probe
 fe.protection.exist.theoneprobe.gold_helmet_probe.*                              # (default: true) EXIST Gold Helmet with Probe
@@ -4590,9 +4298,9 @@ fe.protection.inventory.appliedenergistics2.network_tool.*                      
 fe.protection.inventory.appliedenergistics2.paint_ball.*                         # (default: true) INVENTORY Paint Ball - White
 fe.protection.inventory.appliedenergistics2.part.*                               # (default: true) INVENTORY ME Glass Cable - White
 fe.protection.inventory.appliedenergistics2.portable_cell.*                      # (default: true) INVENTORY Portable Cell
-fe.protection.inventory.appliedenergistics2.spatial_storage_cell_128_cubed.*     # (default: true) INVENTORY 128Â³ Spatial Storage Cell
-fe.protection.inventory.appliedenergistics2.spatial_storage_cell_16_cubed.*      # (default: true) INVENTORY 16Â³ Spatial Storage Cell
-fe.protection.inventory.appliedenergistics2.spatial_storage_cell_2_cubed.*       # (default: true) INVENTORY 2Â³ Spatial Storage Cell
+fe.protection.inventory.appliedenergistics2.spatial_storage_cell_128_cubed.*     # (default: true) INVENTORY 128³ Spatial Storage Cell
+fe.protection.inventory.appliedenergistics2.spatial_storage_cell_16_cubed.*      # (default: true) INVENTORY 16³ Spatial Storage Cell
+fe.protection.inventory.appliedenergistics2.spatial_storage_cell_2_cubed.*       # (default: true) INVENTORY 2³ Spatial Storage Cell
 fe.protection.inventory.appliedenergistics2.storage_cell_16k.*                   # (default: true) INVENTORY 16k ME Storage Cell
 fe.protection.inventory.appliedenergistics2.storage_cell_1k.*                    # (default: true) INVENTORY 1k ME Storage Cell
 fe.protection.inventory.appliedenergistics2.storage_cell_4k.*                    # (default: true) INVENTORY 4k ME Storage Cell
@@ -4600,37 +4308,6 @@ fe.protection.inventory.appliedenergistics2.storage_cell_64k.*                  
 fe.protection.inventory.appliedenergistics2.view_cell.*                          # (default: true) INVENTORY View Cell
 fe.protection.inventory.appliedenergistics2.wireless_terminal.*                  # (default: true) INVENTORY Wireless Terminal
 fe.protection.inventory.baubles.ring.*                                           # (default: true) INVENTORY Miner's Ring
-fe.protection.inventory.bibliocraft.atlasbook.*                                  # (default: true) INVENTORY Atlas
-fe.protection.inventory.bibliocraft.atlasplate.*                                 # (default: true) INVENTORY Atlas Plate
-fe.protection.inventory.bibliocraft.bibliochase.*                                # (default: true) INVENTORY Print Press Chase
-fe.protection.inventory.bibliocraft.biblioclipboard.*                            # (default: true) INVENTORY Clipboard
-fe.protection.inventory.bibliocraft.bibliocreativelock.*                         # (default: true) INVENTORY Lock and Key
-fe.protection.inventory.bibliocraft.bibliodrill.*                                # (default: true) INVENTORY Screw Gun
-fe.protection.inventory.bibliocraft.biblioglasses.*                              # (default: true) INVENTORY Reading Glasses
-fe.protection.inventory.bibliocraft.biblioredbook.*                              # (default: true) INVENTORY Redstone: Volume I
-fe.protection.inventory.bibliocraft.bigbook.*                                    # (default: true) INVENTORY Big Writing Book
-fe.protection.inventory.bibliocraft.compass.*                                    # (default: true) INVENTORY Compass
-fe.protection.inventory.bibliocraft.deathcompass.*                               # (default: true) INVENTORY Eternal Compass
-fe.protection.inventory.bibliocraft.enchantedplate.*                             # (default: true) INVENTORY Enchanted Plate
-fe.protection.inventory.bibliocraft.framingboard.*                               # (default: true) INVENTORY Framing Board
-fe.protection.inventory.bibliocraft.framingsaw.*                                 # (default: true) INVENTORY Framing Saw
-fe.protection.inventory.bibliocraft.framingsheet.*                               # (default: true) INVENTORY Framing Sheet
-fe.protection.inventory.bibliocraft.handdrill.*                                  # (default: true) INVENTORY Hand Drill
-fe.protection.inventory.bibliocraft.maptool.*                                    # (default: true) INVENTORY Drafting Compass
-fe.protection.inventory.bibliocraft.paintingcanvas.*                             # (default: true) INVENTORY Painting Canvas
-fe.protection.inventory.bibliocraft.plumbline.*                                  # (default: true) INVENTORY Plumb line
-fe.protection.inventory.bibliocraft.printplate.*                                 # (default: true) INVENTORY Print Press Plate
-fe.protection.inventory.bibliocraft.recipebook.*                                 # (default: true) INVENTORY Empty Recipe Book
-fe.protection.inventory.bibliocraft.seatback1.*                                  # (default: true) INVENTORY Oak Seat Back
-fe.protection.inventory.bibliocraft.seatback2.*                                  # (default: true) INVENTORY Oak Seat Back
-fe.protection.inventory.bibliocraft.seatback3.*                                  # (default: true) INVENTORY Oak Seat Back
-fe.protection.inventory.bibliocraft.seatback4.*                                  # (default: true) INVENTORY Oak Seat Back
-fe.protection.inventory.bibliocraft.seatback5.*                                  # (default: true) INVENTORY Oak Seat Back
-fe.protection.inventory.bibliocraft.slottedbook.*                                # (default: true) INVENTORY Slotted Book
-fe.protection.inventory.bibliocraft.stockroomcatalog.*                           # (default: true) INVENTORY Stockroom Catalog
-fe.protection.inventory.bibliocraft.tape.*                                       # (default: true) INVENTORY Tape Measure Reel
-fe.protection.inventory.bibliocraft.tapemeasure.*                                # (default: true) INVENTORY Tape Measure
-fe.protection.inventory.bibliocraft.testeritem.*                                 # (default: true) INVENTORY ItemStack Name Tester
 fe.protection.inventory.biomesoplenty.ash.*                                      # (default: true) INVENTORY Pile of Ashes
 fe.protection.inventory.biomesoplenty.berries.*                                  # (default: true) INVENTORY Berry
 fe.protection.inventory.biomesoplenty.biome_essence.*                            # (default: true) INVENTORY Biome Essence
@@ -4699,8 +4376,8 @@ fe.protection.inventory.botania.baublebox.*                                     
 fe.protection.inventory.botania.blackholetalisman.*                              # (default: true) INVENTORY Black Hole Talisman
 fe.protection.inventory.botania.blacklotus.*                                     # (default: true) INVENTORY Black Lotus
 fe.protection.inventory.botania.bloodpendant.*                                   # (default: true) INVENTORY Tainted Blood Pendant
-fe.protection.inventory.botania.brewflask.*                                      # (default: true) INVENTORY Flask of Fallback (Â§l6Â§r)
-fe.protection.inventory.botania.brewvial.*                                       # (default: true) INVENTORY Vial of Fallback (Â§l4Â§r)
+fe.protection.inventory.botania.brewflask.*                                      # (default: true) INVENTORY Flask of Fallback (§l6§r)
+fe.protection.inventory.botania.brewvial.*                                       # (default: true) INVENTORY Vial of Fallback (§l4§r)
 fe.protection.inventory.botania.cacophonium.*                                    # (default: true) INVENTORY Cacophonium
 fe.protection.inventory.botania.clip.*                                           # (default: true) INVENTORY Lens Clip
 fe.protection.inventory.botania.cloudpendant.*                                   # (default: true) INVENTORY Cirrus Amulet
@@ -4731,9 +4408,9 @@ fe.protection.inventory.botania.enderhand.*                                     
 fe.protection.inventory.botania.exchangerod.*                                    # (default: true) INVENTORY Rod of the Shifting Crust
 fe.protection.inventory.botania.fertilizer.*                                     # (default: true) INVENTORY Floral Fertilizer
 fe.protection.inventory.botania.firerod.*                                        # (default: true) INVENTORY Rod of the Hells
-fe.protection.inventory.botania.flighttiara.*                                    # (default: true) INVENTORY FlÃ¼gel Tiara
+fe.protection.inventory.botania.flighttiara.*                                    # (default: true) INVENTORY Flügel Tiara
 fe.protection.inventory.botania.flowerbag.*                                      # (default: true) INVENTORY Flower Pouch
-fe.protection.inventory.botania.flugeleye.*                                      # (default: true) INVENTORY Eye of the FlÃ¼gel
+fe.protection.inventory.botania.flugeleye.*                                      # (default: true) INVENTORY Eye of the Flügel
 fe.protection.inventory.botania.gaiahead.*                                       # (default: true) INVENTORY Gaia Guardian's Head
 fe.protection.inventory.botania.glasspick.*                                      # (default: true) INVENTORY Vitreous Pickaxe
 fe.protection.inventory.botania.goddesscharm.*                                   # (default: true) INVENTORY Benevolent Goddess' Charm
@@ -5507,7 +5184,7 @@ fe.protection.inventory.harvestcraft.mangojellysandwichitem.*                   
 fe.protection.inventory.harvestcraft.mangojuiceitem.*                            # (default: true) INVENTORY Mango Juice
 fe.protection.inventory.harvestcraft.mangosmoothieitem.*                         # (default: true) INVENTORY Mango Smoothie
 fe.protection.inventory.harvestcraft.mangoyogurtitem.*                           # (default: true) INVENTORY Mango Yogurt
-fe.protection.inventory.harvestcraft.manjuuitem.*                                # (default: true) INVENTORY ManjÅ«
+fe.protection.inventory.harvestcraft.manjuuitem.*                                # (default: true) INVENTORY Manj?
 fe.protection.inventory.harvestcraft.maplecandiedbaconitem.*                     # (default: true) INVENTORY Maple Candied Bacon
 fe.protection.inventory.harvestcraft.mapleoatmealitem.*                          # (default: true) INVENTORY Maple Oatmeal
 fe.protection.inventory.harvestcraft.maplesausageitem.*                          # (default: true) INVENTORY Maple Sausage
@@ -5538,7 +5215,7 @@ fe.protection.inventory.harvestcraft.meringuecookieitem.*                       
 fe.protection.inventory.harvestcraft.meringueitem.*                              # (default: true) INVENTORY Meringue
 fe.protection.inventory.harvestcraft.meringuerouladeitem.*                       # (default: true) INVENTORY Meringue Roulade
 fe.protection.inventory.harvestcraft.merveilleuxitem.*                           # (default: true) INVENTORY Merveilleux
-fe.protection.inventory.harvestcraft.mettbrotchenitem.*                          # (default: true) INVENTORY MettbrÃ¶tchen
+fe.protection.inventory.harvestcraft.mettbrotchenitem.*                          # (default: true) INVENTORY Mettbrötchen
 fe.protection.inventory.harvestcraft.milletitem.*                                # (default: true) INVENTORY Millet
 fe.protection.inventory.harvestcraft.milletseeditem.*                            # (default: true) INVENTORY Millet Seed
 fe.protection.inventory.harvestcraft.mincepieitem.*                              # (default: true) INVENTORY Mince Pie
@@ -6013,7 +5690,7 @@ fe.protection.inventory.mekanism.anchorupgrade.*                                
 fe.protection.inventory.mekanism.armoredjetpack.*                                # (default: true) INVENTORY Armored Jetpack
 fe.protection.inventory.mekanism.atomicalloy.*                                   # (default: true) INVENTORY Atomic Alloy
 fe.protection.inventory.mekanism.atomicdisassembler.*                            # (default: true) INVENTORY Atomic Disassembler
-fe.protection.inventory.mekanism.balloon.*                                       # (default: true) INVENTORY Â§8Black Balloon
+fe.protection.inventory.mekanism.balloon.*                                       # (default: true) INVENTORY §8Black Balloon
 fe.protection.inventory.mekanism.biofuel.*                                       # (default: true) INVENTORY Bio Fuel
 fe.protection.inventory.mekanism.clump.*                                         # (default: true) INVENTORY Iron Clump
 fe.protection.inventory.mekanism.compressedcarbon.*                              # (default: true) INVENTORY Compressed Carbon
@@ -6355,121 +6032,6 @@ fe.protection.inventory.tconstruct.tool_rod.*                                   
 fe.protection.inventory.tconstruct.tough_binding.*                               # (default: true) INVENTORY Tough Binding
 fe.protection.inventory.tconstruct.tough_tool_rod.*                              # (default: true) INVENTORY Tough Tool Rod
 fe.protection.inventory.tconstruct.wide_guard.*                                  # (default: true) INVENTORY Wide Guard
-fe.protection.inventory.thaumcraft.alumentum.*                                   # (default: true) INVENTORY Alumentum
-fe.protection.inventory.thaumcraft.amber.*                                       # (default: true) INVENTORY Amber
-fe.protection.inventory.thaumcraft.amulet_vis.*                                  # (default: true) INVENTORY Vis Stone
-fe.protection.inventory.thaumcraft.bath_salts.*                                  # (default: true) INVENTORY Purifying Bath Salts
-fe.protection.inventory.thaumcraft.baubles.*                                     # (default: true) INVENTORY Mundane Amulet
-fe.protection.inventory.thaumcraft.bottle_taint.*                                # (default: true) INVENTORY Bottle of Taint
-fe.protection.inventory.thaumcraft.brain.*                                       # (default: true) INVENTORY Zombie Brain
-fe.protection.inventory.thaumcraft.caster_basic.*                                # (default: true) INVENTORY Caster's Gauntlet
-fe.protection.inventory.thaumcraft.causality_collapser.*                         # (default: true) INVENTORY Causality Collapser
-fe.protection.inventory.thaumcraft.celestial_notes.*                             # (default: true) INVENTORY Celestial Notes
-fe.protection.inventory.thaumcraft.charm_undying.*                               # (default: true) INVENTORY Charm of Undying
-fe.protection.inventory.thaumcraft.chunk.*                                       # (default: true) INVENTORY Beef Nugget
-fe.protection.inventory.thaumcraft.cloth_boots.*                                 # (default: true) INVENTORY Thaumaturge's Boots
-fe.protection.inventory.thaumcraft.cloth_chest.*                                 # (default: true) INVENTORY Thaumaturge's Robe
-fe.protection.inventory.thaumcraft.cloth_legs.*                                  # (default: true) INVENTORY Thaumaturge's Leggings
-fe.protection.inventory.thaumcraft.cloud_ring.*                                  # (default: true) INVENTORY Cloudstepper Ring
-fe.protection.inventory.thaumcraft.cluster.*                                     # (default: true) INVENTORY Native Iron Cluster
-fe.protection.inventory.thaumcraft.creative_flux_sponge.*                        # (default: true) INVENTORY Flux Sponge
-fe.protection.inventory.thaumcraft.crimson_blade.*                               # (default: true) INVENTORY Crimson Blade
-fe.protection.inventory.thaumcraft.crimson_boots.*                               # (default: true) INVENTORY Crimson Cult Boots
-fe.protection.inventory.thaumcraft.crimson_plate_chest.*                         # (default: true) INVENTORY Crimson Cult Chestplate
-fe.protection.inventory.thaumcraft.crimson_plate_helm.*                          # (default: true) INVENTORY Crimson Cult Helm
-fe.protection.inventory.thaumcraft.crimson_plate_legs.*                          # (default: true) INVENTORY Crimson Cult Greaves
-fe.protection.inventory.thaumcraft.crimson_praetor_chest.*                       # (default: true) INVENTORY Crimson Praetor Chestplate
-fe.protection.inventory.thaumcraft.crimson_praetor_helm.*                        # (default: true) INVENTORY Crimson Praetor Helm
-fe.protection.inventory.thaumcraft.crimson_praetor_legs.*                        # (default: true) INVENTORY Crimson Praetor Greaves
-fe.protection.inventory.thaumcraft.crimson_robe_chest.*                          # (default: true) INVENTORY Crimson Cult Robe
-fe.protection.inventory.thaumcraft.crimson_robe_helm.*                           # (default: true) INVENTORY Crimson Cult Hood
-fe.protection.inventory.thaumcraft.crimson_robe_legs.*                           # (default: true) INVENTORY Crimson Cult Leggings
-fe.protection.inventory.thaumcraft.crystal_essence.*                             # (default: true) INVENTORY %s Vis Crystal
-fe.protection.inventory.thaumcraft.curio.*                                       # (default: true) INVENTORY Arcane Curiosity
-fe.protection.inventory.thaumcraft.curiosity_band.*                              # (default: true) INVENTORY Headband of Curiosity
-fe.protection.inventory.thaumcraft.elemental_axe.*                               # (default: true) INVENTORY Axe of the Stream
-fe.protection.inventory.thaumcraft.elemental_hoe.*                               # (default: true) INVENTORY Hoe of Growth
-fe.protection.inventory.thaumcraft.elemental_pick.*                              # (default: true) INVENTORY Pickaxe of the Core
-fe.protection.inventory.thaumcraft.elemental_shovel.*                            # (default: true) INVENTORY Shovel of the Earthmover
-fe.protection.inventory.thaumcraft.elemental_sword.*                             # (default: true) INVENTORY Sword of the Zephyr
-fe.protection.inventory.thaumcraft.enchanted_placeholder.*                       # (default: true) INVENTORY Any enchanted item
-fe.protection.inventory.thaumcraft.fabric.*                                      # (default: true) INVENTORY Enchanted Fabric
-fe.protection.inventory.thaumcraft.filter.*                                      # (default: true) INVENTORY Essentia Filter
-fe.protection.inventory.thaumcraft.focus_1.*                                     # (default: true) INVENTORY Blank Lesser Focus
-fe.protection.inventory.thaumcraft.focus_2.*                                     # (default: true) INVENTORY Blank Advanced Focus
-fe.protection.inventory.thaumcraft.focus_3.*                                     # (default: true) INVENTORY Blank Greater Focus
-fe.protection.inventory.thaumcraft.focus_pouch.*                                 # (default: true) INVENTORY Focus Pouch
-fe.protection.inventory.thaumcraft.fortress_chest.*                              # (default: true) INVENTORY Thaumium Fortress Cuirass
-fe.protection.inventory.thaumcraft.fortress_helm.*                               # (default: true) INVENTORY Thaumium Fortress Helm
-fe.protection.inventory.thaumcraft.fortress_legs.*                               # (default: true) INVENTORY Thaumium Fortress Thigh Guards
-fe.protection.inventory.thaumcraft.goggles.*                                     # (default: true) INVENTORY Goggles of Revealing
-fe.protection.inventory.thaumcraft.golem.*                                       # (default: true) INVENTORY Golem
-fe.protection.inventory.thaumcraft.golem_bell.*                                  # (default: true) INVENTORY Golemancer's Bell
-fe.protection.inventory.thaumcraft.grapple_gun.*                                 # (default: true) INVENTORY Arcane Grappler
-fe.protection.inventory.thaumcraft.grapple_gun_spool.*                           # (default: true) INVENTORY Grappler Spool
-fe.protection.inventory.thaumcraft.grapple_gun_tip.*                             # (default: true) INVENTORY Grappler Head
-fe.protection.inventory.thaumcraft.hand_mirror.*                                 # (default: true) INVENTORY Magic Hand Mirror
-fe.protection.inventory.thaumcraft.ingot.*                                       # (default: true) INVENTORY Thaumium Ingot
-fe.protection.inventory.thaumcraft.jar_brace.*                                   # (default: true) INVENTORY Brass Lid Brace
-fe.protection.inventory.thaumcraft.label.*                                       # (default: true) INVENTORY Blank Label
-fe.protection.inventory.thaumcraft.loot_bag.*                                    # (default: true) INVENTORY Common Treasure
-fe.protection.inventory.thaumcraft.mechanism_complex.*                           # (default: true) INVENTORY Complex Arcane Mechanism
-fe.protection.inventory.thaumcraft.mechanism_simple.*                            # (default: true) INVENTORY Simple Arcane Mechanism
-fe.protection.inventory.thaumcraft.mind.*                                        # (default: true) INVENTORY Clockwork Mind
-fe.protection.inventory.thaumcraft.mirrored_glass.*                              # (default: true) INVENTORY Mirrored Glass
-fe.protection.inventory.thaumcraft.module.*                                      # (default: true) INVENTORY Vision Module
-fe.protection.inventory.thaumcraft.morphic_resonator.*                           # (default: true) INVENTORY Morphic Resonator
-fe.protection.inventory.thaumcraft.nugget.*                                      # (default: true) INVENTORY Iron Nugget
-fe.protection.inventory.thaumcraft.pech_wand.*                                   # (default: true) INVENTORY Pech Wand
-fe.protection.inventory.thaumcraft.phial.*                                       # (default: true) INVENTORY Glass Phial
-fe.protection.inventory.thaumcraft.plate.*                                       # (default: true) INVENTORY Brass Plate
-fe.protection.inventory.thaumcraft.primal_crusher.*                              # (default: true) INVENTORY Primal Crusher
-fe.protection.inventory.thaumcraft.primordial_pearl.*                            # (default: true) INVENTORY Primordial Pearl
-fe.protection.inventory.thaumcraft.quicksilver.*                                 # (default: true) INVENTORY Quicksilver
-fe.protection.inventory.thaumcraft.resonator.*                                   # (default: true) INVENTORY Essentia Resonator
-fe.protection.inventory.thaumcraft.salis_mundus.*                                # (default: true) INVENTORY Salis Mundus
-fe.protection.inventory.thaumcraft.sanity_checker.*                              # (default: true) INVENTORY Sanity Checker
-fe.protection.inventory.thaumcraft.sanity_soap.*                                 # (default: true) INVENTORY Sanitizing Soap
-fe.protection.inventory.thaumcraft.scribing_tools.*                              # (default: true) INVENTORY Scribing Tools
-fe.protection.inventory.thaumcraft.seal.*                                        # (default: true) INVENTORY Blank Seal
-fe.protection.inventory.thaumcraft.tallow.*                                      # (default: true) INVENTORY Magic Tallow
-fe.protection.inventory.thaumcraft.thaumium_axe.*                                # (default: true) INVENTORY Thaumium Axe
-fe.protection.inventory.thaumcraft.thaumium_boots.*                              # (default: true) INVENTORY Thaumium Boots
-fe.protection.inventory.thaumcraft.thaumium_chest.*                              # (default: true) INVENTORY Thaumium Chestplate
-fe.protection.inventory.thaumcraft.thaumium_helm.*                               # (default: true) INVENTORY Thaumium Helm
-fe.protection.inventory.thaumcraft.thaumium_hoe.*                                # (default: true) INVENTORY Thaumium Hoe
-fe.protection.inventory.thaumcraft.thaumium_legs.*                               # (default: true) INVENTORY Thaumium Leggings
-fe.protection.inventory.thaumcraft.thaumium_pick.*                               # (default: true) INVENTORY Thaumium Pickaxe
-fe.protection.inventory.thaumcraft.thaumium_shovel.*                             # (default: true) INVENTORY Thaumium Shovel
-fe.protection.inventory.thaumcraft.thaumium_sword.*                              # (default: true) INVENTORY Thaumium Sword
-fe.protection.inventory.thaumcraft.thaumometer.*                                 # (default: true) INVENTORY Thaumometer
-fe.protection.inventory.thaumcraft.thaumonomicon.*                               # (default: true) INVENTORY Thaumonomicon
-fe.protection.inventory.thaumcraft.traveller_boots.*                             # (default: true) INVENTORY Boots of the Traveller
-fe.protection.inventory.thaumcraft.triple_meat_treat.*                           # (default: true) INVENTORY Triple Meat Treat
-fe.protection.inventory.thaumcraft.turret.*                                      # (default: true) INVENTORY Automated Crossbow
-fe.protection.inventory.thaumcraft.verdant_charm.*                               # (default: true) INVENTORY Verdant Heart Charm
-fe.protection.inventory.thaumcraft.vis_resonator.*                               # (default: true) INVENTORY Vis Resonator
-fe.protection.inventory.thaumcraft.void_axe.*                                    # (default: true) INVENTORY Void Axe
-fe.protection.inventory.thaumcraft.void_boots.*                                  # (default: true) INVENTORY Void Boots
-fe.protection.inventory.thaumcraft.void_chest.*                                  # (default: true) INVENTORY Void Chestplate
-fe.protection.inventory.thaumcraft.void_helm.*                                   # (default: true) INVENTORY Void Helm
-fe.protection.inventory.thaumcraft.void_hoe.*                                    # (default: true) INVENTORY Void Hoe
-fe.protection.inventory.thaumcraft.void_legs.*                                   # (default: true) INVENTORY Void Leggings
-fe.protection.inventory.thaumcraft.void_pick.*                                   # (default: true) INVENTORY Void Pickaxe
-fe.protection.inventory.thaumcraft.void_robe_chest.*                             # (default: true) INVENTORY Void Thaumaturge Robe
-fe.protection.inventory.thaumcraft.void_robe_helm.*                              # (default: true) INVENTORY Void Thaumaturge Hood
-fe.protection.inventory.thaumcraft.void_robe_legs.*                              # (default: true) INVENTORY Void Thaumaturge Leggings
-fe.protection.inventory.thaumcraft.void_seed.*                                   # (default: true) INVENTORY Void Seed
-fe.protection.inventory.thaumcraft.void_shovel.*                                 # (default: true) INVENTORY Void Shovel
-fe.protection.inventory.thaumcraft.void_sword.*                                  # (default: true) INVENTORY Void Sword
-fe.protection.inventory.thaumcraft.voidseer_charm.*                              # (default: true) INVENTORY Voidseer's Pearl
-fe.protection.inventory.thaumictinkerer.black_quartz.*                           # (default: true) INVENTORY Smokey Quartz
-fe.protection.inventory.thaumictinkerer.cleaning_talisman.*                      # (default: true) INVENTORY Talisman of Remedium
-fe.protection.inventory.thaumictinkerer.connector.*                              # (default: true) INVENTORY Transvector Binder
-fe.protection.inventory.thaumictinkerer.energetic_nitor.*                        # (default: true) INVENTORY Energetic Nitor
-fe.protection.inventory.thaumictinkerer.form_revealer.*                          # (default: true) INVENTORY Multiblock Visualizer
-fe.protection.inventory.thaumictinkerer.share_book.*                             # (default: true) INVENTORY Tome of Knowledge Sharing
-fe.protection.inventory.thaumictinkerer.soul_mould.*                             # (default: true) INVENTORY item.thaumictinkerer:soul_mould.name
 fe.protection.inventory.theoneprobe.creativeprobe.*                              # (default: true) INVENTORY The Creative Probe
 fe.protection.inventory.theoneprobe.diamond_helmet_probe.*                       # (default: true) INVENTORY Diamond Helmet with Probe
 fe.protection.inventory.theoneprobe.gold_helmet_probe.*                          # (default: true) INVENTORY Gold Helmet with Probe
@@ -6786,9 +6348,9 @@ fe.protection.use.appliedenergistics2.network_tool.*                            
 fe.protection.use.appliedenergistics2.paint_ball.*                               # (default: true) USE Paint Ball - White
 fe.protection.use.appliedenergistics2.part.*                                     # (default: true) USE ME Glass Cable - White
 fe.protection.use.appliedenergistics2.portable_cell.*                            # (default: true) USE Portable Cell
-fe.protection.use.appliedenergistics2.spatial_storage_cell_128_cubed.*           # (default: true) USE 128Â³ Spatial Storage Cell
-fe.protection.use.appliedenergistics2.spatial_storage_cell_16_cubed.*            # (default: true) USE 16Â³ Spatial Storage Cell
-fe.protection.use.appliedenergistics2.spatial_storage_cell_2_cubed.*             # (default: true) USE 2Â³ Spatial Storage Cell
+fe.protection.use.appliedenergistics2.spatial_storage_cell_128_cubed.*           # (default: true) USE 128³ Spatial Storage Cell
+fe.protection.use.appliedenergistics2.spatial_storage_cell_16_cubed.*            # (default: true) USE 16³ Spatial Storage Cell
+fe.protection.use.appliedenergistics2.spatial_storage_cell_2_cubed.*             # (default: true) USE 2³ Spatial Storage Cell
 fe.protection.use.appliedenergistics2.storage_cell_16k.*                         # (default: true) USE 16k ME Storage Cell
 fe.protection.use.appliedenergistics2.storage_cell_1k.*                          # (default: true) USE 1k ME Storage Cell
 fe.protection.use.appliedenergistics2.storage_cell_4k.*                          # (default: true) USE 4k ME Storage Cell
@@ -6796,37 +6358,6 @@ fe.protection.use.appliedenergistics2.storage_cell_64k.*                        
 fe.protection.use.appliedenergistics2.view_cell.*                                # (default: true) USE View Cell
 fe.protection.use.appliedenergistics2.wireless_terminal.*                        # (default: true) USE Wireless Terminal
 fe.protection.use.baubles.ring.*                                                 # (default: true) USE Miner's Ring
-fe.protection.use.bibliocraft.atlasbook.*                                        # (default: true) USE Atlas
-fe.protection.use.bibliocraft.atlasplate.*                                       # (default: true) USE Atlas Plate
-fe.protection.use.bibliocraft.bibliochase.*                                      # (default: true) USE Print Press Chase
-fe.protection.use.bibliocraft.biblioclipboard.*                                  # (default: true) USE Clipboard
-fe.protection.use.bibliocraft.bibliocreativelock.*                               # (default: true) USE Lock and Key
-fe.protection.use.bibliocraft.bibliodrill.*                                      # (default: true) USE Screw Gun
-fe.protection.use.bibliocraft.biblioglasses.*                                    # (default: true) USE Reading Glasses
-fe.protection.use.bibliocraft.biblioredbook.*                                    # (default: true) USE Redstone: Volume I
-fe.protection.use.bibliocraft.bigbook.*                                          # (default: true) USE Big Writing Book
-fe.protection.use.bibliocraft.compass.*                                          # (default: true) USE Compass
-fe.protection.use.bibliocraft.deathcompass.*                                     # (default: true) USE Eternal Compass
-fe.protection.use.bibliocraft.enchantedplate.*                                   # (default: true) USE Enchanted Plate
-fe.protection.use.bibliocraft.framingboard.*                                     # (default: true) USE Framing Board
-fe.protection.use.bibliocraft.framingsaw.*                                       # (default: true) USE Framing Saw
-fe.protection.use.bibliocraft.framingsheet.*                                     # (default: true) USE Framing Sheet
-fe.protection.use.bibliocraft.handdrill.*                                        # (default: true) USE Hand Drill
-fe.protection.use.bibliocraft.maptool.*                                          # (default: true) USE Drafting Compass
-fe.protection.use.bibliocraft.paintingcanvas.*                                   # (default: true) USE Painting Canvas
-fe.protection.use.bibliocraft.plumbline.*                                        # (default: true) USE Plumb line
-fe.protection.use.bibliocraft.printplate.*                                       # (default: true) USE Print Press Plate
-fe.protection.use.bibliocraft.recipebook.*                                       # (default: true) USE Empty Recipe Book
-fe.protection.use.bibliocraft.seatback1.*                                        # (default: true) USE Oak Seat Back
-fe.protection.use.bibliocraft.seatback2.*                                        # (default: true) USE Oak Seat Back
-fe.protection.use.bibliocraft.seatback3.*                                        # (default: true) USE Oak Seat Back
-fe.protection.use.bibliocraft.seatback4.*                                        # (default: true) USE Oak Seat Back
-fe.protection.use.bibliocraft.seatback5.*                                        # (default: true) USE Oak Seat Back
-fe.protection.use.bibliocraft.slottedbook.*                                      # (default: true) USE Slotted Book
-fe.protection.use.bibliocraft.stockroomcatalog.*                                 # (default: true) USE Stockroom Catalog
-fe.protection.use.bibliocraft.tape.*                                             # (default: true) USE Tape Measure Reel
-fe.protection.use.bibliocraft.tapemeasure.*                                      # (default: true) USE Tape Measure
-fe.protection.use.bibliocraft.testeritem.*                                       # (default: true) USE ItemStack Name Tester
 fe.protection.use.biomesoplenty.ash.*                                            # (default: true) USE Pile of Ashes
 fe.protection.use.biomesoplenty.berries.*                                        # (default: true) USE Berry
 fe.protection.use.biomesoplenty.biome_essence.*                                  # (default: true) USE Biome Essence
@@ -6895,8 +6426,8 @@ fe.protection.use.botania.baublebox.*                                           
 fe.protection.use.botania.blackholetalisman.*                                    # (default: true) USE Black Hole Talisman
 fe.protection.use.botania.blacklotus.*                                           # (default: true) USE Black Lotus
 fe.protection.use.botania.bloodpendant.*                                         # (default: true) USE Tainted Blood Pendant
-fe.protection.use.botania.brewflask.*                                            # (default: true) USE Flask of Fallback (Â§l6Â§r)
-fe.protection.use.botania.brewvial.*                                             # (default: true) USE Vial of Fallback (Â§l4Â§r)
+fe.protection.use.botania.brewflask.*                                            # (default: true) USE Flask of Fallback (§l6§r)
+fe.protection.use.botania.brewvial.*                                             # (default: true) USE Vial of Fallback (§l4§r)
 fe.protection.use.botania.cacophonium.*                                          # (default: true) USE Cacophonium
 fe.protection.use.botania.clip.*                                                 # (default: true) USE Lens Clip
 fe.protection.use.botania.cloudpendant.*                                         # (default: true) USE Cirrus Amulet
@@ -6927,9 +6458,9 @@ fe.protection.use.botania.enderhand.*                                           
 fe.protection.use.botania.exchangerod.*                                          # (default: true) USE Rod of the Shifting Crust
 fe.protection.use.botania.fertilizer.*                                           # (default: true) USE Floral Fertilizer
 fe.protection.use.botania.firerod.*                                              # (default: true) USE Rod of the Hells
-fe.protection.use.botania.flighttiara.*                                          # (default: true) USE FlÃ¼gel Tiara
+fe.protection.use.botania.flighttiara.*                                          # (default: true) USE Flügel Tiara
 fe.protection.use.botania.flowerbag.*                                            # (default: true) USE Flower Pouch
-fe.protection.use.botania.flugeleye.*                                            # (default: true) USE Eye of the FlÃ¼gel
+fe.protection.use.botania.flugeleye.*                                            # (default: true) USE Eye of the Flügel
 fe.protection.use.botania.gaiahead.*                                             # (default: true) USE Gaia Guardian's Head
 fe.protection.use.botania.glasspick.*                                            # (default: true) USE Vitreous Pickaxe
 fe.protection.use.botania.goddesscharm.*                                         # (default: true) USE Benevolent Goddess' Charm
@@ -7703,7 +7234,7 @@ fe.protection.use.harvestcraft.mangojellysandwichitem.*                         
 fe.protection.use.harvestcraft.mangojuiceitem.*                                  # (default: true) USE Mango Juice
 fe.protection.use.harvestcraft.mangosmoothieitem.*                               # (default: true) USE Mango Smoothie
 fe.protection.use.harvestcraft.mangoyogurtitem.*                                 # (default: true) USE Mango Yogurt
-fe.protection.use.harvestcraft.manjuuitem.*                                      # (default: true) USE ManjÅ«
+fe.protection.use.harvestcraft.manjuuitem.*                                      # (default: true) USE Manj?
 fe.protection.use.harvestcraft.maplecandiedbaconitem.*                           # (default: true) USE Maple Candied Bacon
 fe.protection.use.harvestcraft.mapleoatmealitem.*                                # (default: true) USE Maple Oatmeal
 fe.protection.use.harvestcraft.maplesausageitem.*                                # (default: true) USE Maple Sausage
@@ -7734,7 +7265,7 @@ fe.protection.use.harvestcraft.meringuecookieitem.*                             
 fe.protection.use.harvestcraft.meringueitem.*                                    # (default: true) USE Meringue
 fe.protection.use.harvestcraft.meringuerouladeitem.*                             # (default: true) USE Meringue Roulade
 fe.protection.use.harvestcraft.merveilleuxitem.*                                 # (default: true) USE Merveilleux
-fe.protection.use.harvestcraft.mettbrotchenitem.*                                # (default: true) USE MettbrÃ¶tchen
+fe.protection.use.harvestcraft.mettbrotchenitem.*                                # (default: true) USE Mettbrötchen
 fe.protection.use.harvestcraft.milletitem.*                                      # (default: true) USE Millet
 fe.protection.use.harvestcraft.milletseeditem.*                                  # (default: true) USE Millet Seed
 fe.protection.use.harvestcraft.mincepieitem.*                                    # (default: true) USE Mince Pie
@@ -8209,7 +7740,7 @@ fe.protection.use.mekanism.anchorupgrade.*                                      
 fe.protection.use.mekanism.armoredjetpack.*                                      # (default: true) USE Armored Jetpack
 fe.protection.use.mekanism.atomicalloy.*                                         # (default: true) USE Atomic Alloy
 fe.protection.use.mekanism.atomicdisassembler.*                                  # (default: true) USE Atomic Disassembler
-fe.protection.use.mekanism.balloon.*                                             # (default: true) USE Â§8Black Balloon
+fe.protection.use.mekanism.balloon.*                                             # (default: true) USE §8Black Balloon
 fe.protection.use.mekanism.biofuel.*                                             # (default: true) USE Bio Fuel
 fe.protection.use.mekanism.clump.*                                               # (default: true) USE Iron Clump
 fe.protection.use.mekanism.compressedcarbon.*                                    # (default: true) USE Compressed Carbon
@@ -8551,121 +8082,6 @@ fe.protection.use.tconstruct.tool_rod.*                                         
 fe.protection.use.tconstruct.tough_binding.*                                     # (default: true) USE Tough Binding
 fe.protection.use.tconstruct.tough_tool_rod.*                                    # (default: true) USE Tough Tool Rod
 fe.protection.use.tconstruct.wide_guard.*                                        # (default: true) USE Wide Guard
-fe.protection.use.thaumcraft.alumentum.*                                         # (default: true) USE Alumentum
-fe.protection.use.thaumcraft.amber.*                                             # (default: true) USE Amber
-fe.protection.use.thaumcraft.amulet_vis.*                                        # (default: true) USE Vis Stone
-fe.protection.use.thaumcraft.bath_salts.*                                        # (default: true) USE Purifying Bath Salts
-fe.protection.use.thaumcraft.baubles.*                                           # (default: true) USE Mundane Amulet
-fe.protection.use.thaumcraft.bottle_taint.*                                      # (default: true) USE Bottle of Taint
-fe.protection.use.thaumcraft.brain.*                                             # (default: true) USE Zombie Brain
-fe.protection.use.thaumcraft.caster_basic.*                                      # (default: true) USE Caster's Gauntlet
-fe.protection.use.thaumcraft.causality_collapser.*                               # (default: true) USE Causality Collapser
-fe.protection.use.thaumcraft.celestial_notes.*                                   # (default: true) USE Celestial Notes
-fe.protection.use.thaumcraft.charm_undying.*                                     # (default: true) USE Charm of Undying
-fe.protection.use.thaumcraft.chunk.*                                             # (default: true) USE Beef Nugget
-fe.protection.use.thaumcraft.cloth_boots.*                                       # (default: true) USE Thaumaturge's Boots
-fe.protection.use.thaumcraft.cloth_chest.*                                       # (default: true) USE Thaumaturge's Robe
-fe.protection.use.thaumcraft.cloth_legs.*                                        # (default: true) USE Thaumaturge's Leggings
-fe.protection.use.thaumcraft.cloud_ring.*                                        # (default: true) USE Cloudstepper Ring
-fe.protection.use.thaumcraft.cluster.*                                           # (default: true) USE Native Iron Cluster
-fe.protection.use.thaumcraft.creative_flux_sponge.*                              # (default: true) USE Flux Sponge
-fe.protection.use.thaumcraft.crimson_blade.*                                     # (default: true) USE Crimson Blade
-fe.protection.use.thaumcraft.crimson_boots.*                                     # (default: true) USE Crimson Cult Boots
-fe.protection.use.thaumcraft.crimson_plate_chest.*                               # (default: true) USE Crimson Cult Chestplate
-fe.protection.use.thaumcraft.crimson_plate_helm.*                                # (default: true) USE Crimson Cult Helm
-fe.protection.use.thaumcraft.crimson_plate_legs.*                                # (default: true) USE Crimson Cult Greaves
-fe.protection.use.thaumcraft.crimson_praetor_chest.*                             # (default: true) USE Crimson Praetor Chestplate
-fe.protection.use.thaumcraft.crimson_praetor_helm.*                              # (default: true) USE Crimson Praetor Helm
-fe.protection.use.thaumcraft.crimson_praetor_legs.*                              # (default: true) USE Crimson Praetor Greaves
-fe.protection.use.thaumcraft.crimson_robe_chest.*                                # (default: true) USE Crimson Cult Robe
-fe.protection.use.thaumcraft.crimson_robe_helm.*                                 # (default: true) USE Crimson Cult Hood
-fe.protection.use.thaumcraft.crimson_robe_legs.*                                 # (default: true) USE Crimson Cult Leggings
-fe.protection.use.thaumcraft.crystal_essence.*                                   # (default: true) USE %s Vis Crystal
-fe.protection.use.thaumcraft.curio.*                                             # (default: true) USE Arcane Curiosity
-fe.protection.use.thaumcraft.curiosity_band.*                                    # (default: true) USE Headband of Curiosity
-fe.protection.use.thaumcraft.elemental_axe.*                                     # (default: true) USE Axe of the Stream
-fe.protection.use.thaumcraft.elemental_hoe.*                                     # (default: true) USE Hoe of Growth
-fe.protection.use.thaumcraft.elemental_pick.*                                    # (default: true) USE Pickaxe of the Core
-fe.protection.use.thaumcraft.elemental_shovel.*                                  # (default: true) USE Shovel of the Earthmover
-fe.protection.use.thaumcraft.elemental_sword.*                                   # (default: true) USE Sword of the Zephyr
-fe.protection.use.thaumcraft.enchanted_placeholder.*                             # (default: true) USE Any enchanted item
-fe.protection.use.thaumcraft.fabric.*                                            # (default: true) USE Enchanted Fabric
-fe.protection.use.thaumcraft.filter.*                                            # (default: true) USE Essentia Filter
-fe.protection.use.thaumcraft.focus_1.*                                           # (default: true) USE Blank Lesser Focus
-fe.protection.use.thaumcraft.focus_2.*                                           # (default: true) USE Blank Advanced Focus
-fe.protection.use.thaumcraft.focus_3.*                                           # (default: true) USE Blank Greater Focus
-fe.protection.use.thaumcraft.focus_pouch.*                                       # (default: true) USE Focus Pouch
-fe.protection.use.thaumcraft.fortress_chest.*                                    # (default: true) USE Thaumium Fortress Cuirass
-fe.protection.use.thaumcraft.fortress_helm.*                                     # (default: true) USE Thaumium Fortress Helm
-fe.protection.use.thaumcraft.fortress_legs.*                                     # (default: true) USE Thaumium Fortress Thigh Guards
-fe.protection.use.thaumcraft.goggles.*                                           # (default: true) USE Goggles of Revealing
-fe.protection.use.thaumcraft.golem.*                                             # (default: true) USE Golem
-fe.protection.use.thaumcraft.golem_bell.*                                        # (default: true) USE Golemancer's Bell
-fe.protection.use.thaumcraft.grapple_gun.*                                       # (default: true) USE Arcane Grappler
-fe.protection.use.thaumcraft.grapple_gun_spool.*                                 # (default: true) USE Grappler Spool
-fe.protection.use.thaumcraft.grapple_gun_tip.*                                   # (default: true) USE Grappler Head
-fe.protection.use.thaumcraft.hand_mirror.*                                       # (default: true) USE Magic Hand Mirror
-fe.protection.use.thaumcraft.ingot.*                                             # (default: true) USE Thaumium Ingot
-fe.protection.use.thaumcraft.jar_brace.*                                         # (default: true) USE Brass Lid Brace
-fe.protection.use.thaumcraft.label.*                                             # (default: true) USE Blank Label
-fe.protection.use.thaumcraft.loot_bag.*                                          # (default: true) USE Common Treasure
-fe.protection.use.thaumcraft.mechanism_complex.*                                 # (default: true) USE Complex Arcane Mechanism
-fe.protection.use.thaumcraft.mechanism_simple.*                                  # (default: true) USE Simple Arcane Mechanism
-fe.protection.use.thaumcraft.mind.*                                              # (default: true) USE Clockwork Mind
-fe.protection.use.thaumcraft.mirrored_glass.*                                    # (default: true) USE Mirrored Glass
-fe.protection.use.thaumcraft.module.*                                            # (default: true) USE Vision Module
-fe.protection.use.thaumcraft.morphic_resonator.*                                 # (default: true) USE Morphic Resonator
-fe.protection.use.thaumcraft.nugget.*                                            # (default: true) USE Iron Nugget
-fe.protection.use.thaumcraft.pech_wand.*                                         # (default: true) USE Pech Wand
-fe.protection.use.thaumcraft.phial.*                                             # (default: true) USE Glass Phial
-fe.protection.use.thaumcraft.plate.*                                             # (default: true) USE Brass Plate
-fe.protection.use.thaumcraft.primal_crusher.*                                    # (default: true) USE Primal Crusher
-fe.protection.use.thaumcraft.primordial_pearl.*                                  # (default: true) USE Primordial Pearl
-fe.protection.use.thaumcraft.quicksilver.*                                       # (default: true) USE Quicksilver
-fe.protection.use.thaumcraft.resonator.*                                         # (default: true) USE Essentia Resonator
-fe.protection.use.thaumcraft.salis_mundus.*                                      # (default: true) USE Salis Mundus
-fe.protection.use.thaumcraft.sanity_checker.*                                    # (default: true) USE Sanity Checker
-fe.protection.use.thaumcraft.sanity_soap.*                                       # (default: true) USE Sanitizing Soap
-fe.protection.use.thaumcraft.scribing_tools.*                                    # (default: true) USE Scribing Tools
-fe.protection.use.thaumcraft.seal.*                                              # (default: true) USE Blank Seal
-fe.protection.use.thaumcraft.tallow.*                                            # (default: true) USE Magic Tallow
-fe.protection.use.thaumcraft.thaumium_axe.*                                      # (default: true) USE Thaumium Axe
-fe.protection.use.thaumcraft.thaumium_boots.*                                    # (default: true) USE Thaumium Boots
-fe.protection.use.thaumcraft.thaumium_chest.*                                    # (default: true) USE Thaumium Chestplate
-fe.protection.use.thaumcraft.thaumium_helm.*                                     # (default: true) USE Thaumium Helm
-fe.protection.use.thaumcraft.thaumium_hoe.*                                      # (default: true) USE Thaumium Hoe
-fe.protection.use.thaumcraft.thaumium_legs.*                                     # (default: true) USE Thaumium Leggings
-fe.protection.use.thaumcraft.thaumium_pick.*                                     # (default: true) USE Thaumium Pickaxe
-fe.protection.use.thaumcraft.thaumium_shovel.*                                   # (default: true) USE Thaumium Shovel
-fe.protection.use.thaumcraft.thaumium_sword.*                                    # (default: true) USE Thaumium Sword
-fe.protection.use.thaumcraft.thaumometer.*                                       # (default: true) USE Thaumometer
-fe.protection.use.thaumcraft.thaumonomicon.*                                     # (default: true) USE Thaumonomicon
-fe.protection.use.thaumcraft.traveller_boots.*                                   # (default: true) USE Boots of the Traveller
-fe.protection.use.thaumcraft.triple_meat_treat.*                                 # (default: true) USE Triple Meat Treat
-fe.protection.use.thaumcraft.turret.*                                            # (default: true) USE Automated Crossbow
-fe.protection.use.thaumcraft.verdant_charm.*                                     # (default: true) USE Verdant Heart Charm
-fe.protection.use.thaumcraft.vis_resonator.*                                     # (default: true) USE Vis Resonator
-fe.protection.use.thaumcraft.void_axe.*                                          # (default: true) USE Void Axe
-fe.protection.use.thaumcraft.void_boots.*                                        # (default: true) USE Void Boots
-fe.protection.use.thaumcraft.void_chest.*                                        # (default: true) USE Void Chestplate
-fe.protection.use.thaumcraft.void_helm.*                                         # (default: true) USE Void Helm
-fe.protection.use.thaumcraft.void_hoe.*                                          # (default: true) USE Void Hoe
-fe.protection.use.thaumcraft.void_legs.*                                         # (default: true) USE Void Leggings
-fe.protection.use.thaumcraft.void_pick.*                                         # (default: true) USE Void Pickaxe
-fe.protection.use.thaumcraft.void_robe_chest.*                                   # (default: true) USE Void Thaumaturge Robe
-fe.protection.use.thaumcraft.void_robe_helm.*                                    # (default: true) USE Void Thaumaturge Hood
-fe.protection.use.thaumcraft.void_robe_legs.*                                    # (default: true) USE Void Thaumaturge Leggings
-fe.protection.use.thaumcraft.void_seed.*                                         # (default: true) USE Void Seed
-fe.protection.use.thaumcraft.void_shovel.*                                       # (default: true) USE Void Shovel
-fe.protection.use.thaumcraft.void_sword.*                                        # (default: true) USE Void Sword
-fe.protection.use.thaumcraft.voidseer_charm.*                                    # (default: true) USE Voidseer's Pearl
-fe.protection.use.thaumictinkerer.black_quartz.*                                 # (default: true) USE Smokey Quartz
-fe.protection.use.thaumictinkerer.cleaning_talisman.*                            # (default: true) USE Talisman of Remedium
-fe.protection.use.thaumictinkerer.connector.*                                    # (default: true) USE Transvector Binder
-fe.protection.use.thaumictinkerer.energetic_nitor.*                              # (default: true) USE Energetic Nitor
-fe.protection.use.thaumictinkerer.form_revealer.*                                # (default: true) USE Multiblock Visualizer
-fe.protection.use.thaumictinkerer.share_book.*                                   # (default: true) USE Tome of Knowledge Sharing
-fe.protection.use.thaumictinkerer.soul_mould.*                                   # (default: true) USE item.thaumictinkerer:soul_mould.name
 fe.protection.use.theoneprobe.creativeprobe.*                                    # (default: true) USE The Creative Probe
 fe.protection.use.theoneprobe.diamond_helmet_probe.*                             # (default: true) USE Diamond Helmet with Probe
 fe.protection.use.theoneprobe.gold_helmet_probe.*                                # (default: true) USE Gold Helmet with Probe

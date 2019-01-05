@@ -1,6 +1,6 @@
 #// -------- PERMISSIONS LIST BLOCKS ------- \\#
-#// --------------- 03.01 20:21 ------------ \\#
-#// ----------- Total amount: 18641 --------- \\#
+#// --------------- 04.01 23:07 ------------ \\#
+#// ----------- Total amount: 16707 --------- \\#
 #// ---------------------------------------- \\#
 fe.protection.break.*                                                            # (default: true) Allow breaking blocks
 fe.protection.break.actuallyadditions.block_atomic_reconstructor.*               # (default: true) BREAK Atomic Reconstructor
@@ -179,43 +179,6 @@ fe.protection.break.appliedenergistics2.spatial_pylon.*                         
 fe.protection.break.appliedenergistics2.tiny_tnt.*                               # (default: true) BREAK Tiny TNT
 fe.protection.break.appliedenergistics2.vibration_chamber.*                      # (default: true) BREAK Vibration Chamber
 fe.protection.break.appliedenergistics2.wireless_access_point.*                  # (default: true) BREAK ME Wireless Access Point
-fe.protection.break.bibliocraft.armorstand.*                                     # (default: true) BREAK tile.BiblioCraft:ArmorStand.name
-fe.protection.break.bibliocraft.bell.*                                           # (default: true) BREAK Desk Bell
-fe.protection.break.bibliocraft.bookcase.*                                       # (default: true) BREAK tile.BiblioCraft:Bookcase.name
-fe.protection.break.bibliocraft.bookcasecreative.*                               # (default: true) BREAK tile.BiblioCraft:BookcaseCreative.name
-fe.protection.break.bibliocraft.case.*                                           # (default: true) BREAK tile.BiblioCraft:Case.name
-fe.protection.break.bibliocraft.clipboard.*                                      # (default: true) BREAK tile.BiblioCraft:Clipboard.name
-fe.protection.break.bibliocraft.clock.*                                          # (default: true) BREAK tile.BiblioCraft:Clock.name
-fe.protection.break.bibliocraft.cookiejar.*                                      # (default: true) BREAK Cookie Jar
-fe.protection.break.bibliocraft.desk.*                                           # (default: true) BREAK tile.BiblioCraft:Desk.name
-fe.protection.break.bibliocraft.dinnerplate.*                                    # (default: true) BREAK Dinner Plate
-fe.protection.break.bibliocraft.discrack.*                                       # (default: true) BREAK Disc Rack
-fe.protection.break.bibliocraft.fancysign.*                                      # (default: true) BREAK tile.BiblioCraft:FancySign.name
-fe.protection.break.bibliocraft.fancyworkbench.*                                 # (default: true) BREAK tile.BiblioCraft:FancyWorkbench.name
-fe.protection.break.bibliocraft.framedchest.*                                    # (default: true) BREAK tile.BiblioCraft:FramedChest.name
-fe.protection.break.bibliocraft.furniturepaneler.*                               # (default: true) BREAK tile.BiblioCraft:FurniturePaneler.name
-fe.protection.break.bibliocraft.label.*                                          # (default: true) BREAK tile.BiblioCraft:Label.name
-fe.protection.break.bibliocraft.lampgold.*                                       # (default: true) BREAK tile.BiblioCraft:LampGold.name
-fe.protection.break.bibliocraft.lampiron.*                                       # (default: true) BREAK tile.BiblioCraft:LampIron.name
-fe.protection.break.bibliocraft.lanterngold.*                                    # (default: true) BREAK tile.BiblioCraft:LanternGold.name
-fe.protection.break.bibliocraft.lanterniron.*                                    # (default: true) BREAK tile.BiblioCraft:LanternIron.name
-fe.protection.break.bibliocraft.mapframe.*                                       # (default: true) BREAK tile.BiblioCraft:MapFrame.name
-fe.protection.break.bibliocraft.markerpole.*                                     # (default: true) BREAK tile.BiblioCraft:MarkerPole.name
-fe.protection.break.bibliocraft.paintingframeborderless.*                        # (default: true) BREAK tile.BiblioCraft:PaintingFrameBorderless.name
-fe.protection.break.bibliocraft.paintingframefancy.*                             # (default: true) BREAK tile.BiblioCraft:PaintingFrameFancy.name
-fe.protection.break.bibliocraft.paintingframeflat.*                              # (default: true) BREAK tile.BiblioCraft:PaintingFrameFlat.name
-fe.protection.break.bibliocraft.paintingframemiddle.*                            # (default: true) BREAK tile.BiblioCraft:PaintingFrameMiddle.name
-fe.protection.break.bibliocraft.paintingframesimple.*                            # (default: true) BREAK tile.BiblioCraft:PaintingFrameSimple.name
-fe.protection.break.bibliocraft.paintingpress.*                                  # (default: true) BREAK Painting Press
-fe.protection.break.bibliocraft.potionshelf.*                                    # (default: true) BREAK tile.BiblioCraft:PotionShelf.name
-fe.protection.break.bibliocraft.printingpress.*                                  # (default: true) BREAK Printing Press
-fe.protection.break.bibliocraft.seat.*                                           # (default: true) BREAK tile.BiblioCraft:Seat.name
-fe.protection.break.bibliocraft.shelf.*                                          # (default: true) BREAK tile.BiblioCraft:Shelf.name
-fe.protection.break.bibliocraft.swordpedestal.*                                  # (default: true) BREAK tile.BiblioCraft:SwordPedestal.name
-fe.protection.break.bibliocraft.table.*                                          # (default: true) BREAK tile.BiblioCraft:Table.name
-fe.protection.break.bibliocraft.toolrack.*                                       # (default: true) BREAK tile.BiblioCraft:ToolRack.name
-fe.protection.break.bibliocraft.typesettingtable.*                               # (default: true) BREAK Typesetting Table
-fe.protection.break.bibliocraft.typewriter.*                                     # (default: true) BREAK tile.BiblioCraft:Typewriter.name
 fe.protection.break.biomesoplenty.ash_block.*                                    # (default: true) BREAK Ash Block
 fe.protection.break.biomesoplenty.bamboo.*                                       # (default: true) BREAK Bamboo
 fe.protection.break.biomesoplenty.bamboo_thatching.*                             # (default: true) BREAK Bamboo Thatching
@@ -350,7 +313,7 @@ fe.protection.break.botania.altar.*                                             
 fe.protection.break.botania.altgrass.*                                           # (default: true) BREAK tile.altGrass.name
 fe.protection.break.botania.animatedtorch.*                                      # (default: true) BREAK tile.animatedTorch.name
 fe.protection.break.botania.avatar.*                                             # (default: true) BREAK tile.avatar.name
-fe.protection.break.botania.bellows.*                                            # (default: true) BREAK Arcane Bellows
+fe.protection.break.botania.bellows.*                                            # (default: true) BREAK tile.bellows.name
 fe.protection.break.botania.bifrost.*                                            # (default: true) BREAK tile.bifrost.name
 fe.protection.break.botania.bifrostperm.*                                        # (default: true) BREAK tile.bifrostPerm.name
 fe.protection.break.botania.bifrostpermpane.*                                    # (default: true) BREAK tile.bifrostPermPane.name
@@ -820,7 +783,6 @@ fe.protection.break.customnpcs.npcredstoneblock.*                               
 fe.protection.break.customnpcs.npcscripted.*                                     # (default: true) BREAK Scripted Block
 fe.protection.break.customnpcs.npcscripteddoor.*                                 # (default: true) BREAK item.npcscripteddoor.name
 fe.protection.break.customnpcs.npcwaypoint.*                                     # (default: true) BREAK Location Quest Block
-fe.protection.break.gravestone.gravestone.*                                      # (default: true) BREAK Air
 fe.protection.break.harvestcraft.almond_sapling.*                                # (default: true) BREAK Almond Sapling
 fe.protection.break.harvestcraft.apiary.*                                        # (default: true) BREAK Apiary
 fe.protection.break.harvestcraft.apple_sapling.*                                 # (default: true) BREAK Apple Sapling
@@ -1090,7 +1052,7 @@ fe.protection.break.minecraft.acacia_stairs.*                                   
 fe.protection.break.minecraft.activator_rail.*                                   # (default: true) BREAK Activator Rail
 fe.protection.break.minecraft.air.*                                              # (default: true) BREAK Air
 fe.protection.break.minecraft.anvil.*                                            # (default: true) BREAK Anvil
-fe.protection.break.minecraft.barrier.*                                          # (default: true) BREAK Warding Aura
+fe.protection.break.minecraft.barrier.*                                          # (default: true) BREAK Barrier
 fe.protection.break.minecraft.beacon.*                                           # (default: true) BREAK Beacon
 fe.protection.break.minecraft.bed.*                                              # (default: true) BREAK tile.bed.name
 fe.protection.break.minecraft.bedrock.*                                          # (default: true) BREAK Bedrock
@@ -1347,8 +1309,6 @@ fe.protection.break.pewter.molten_elementium.*                                  
 fe.protection.break.pewter.molten_manasteel.*                                    # (default: true) BREAK Molten Manasteel
 fe.protection.break.pewter.molten_osmium.*                                       # (default: true) BREAK Molten Osmium
 fe.protection.break.pewter.molten_terrasteel.*                                   # (default: true) BREAK Molten Terrasteel
-fe.protection.break.pewter.molten_thaumium.*                                     # (default: true) BREAK Molten Thaumium
-fe.protection.break.pewter.molten_voidmetal.*                                    # (default: true) BREAK Molten Void Metal
 fe.protection.break.pewter.pewterfluid.*                                         # (default: true) BREAK fluid.other.name
 fe.protection.break.tconstruct.blood.*                                           # (default: true) BREAK fluid.blood.name
 fe.protection.break.tconstruct.blueslime.*                                       # (default: true) BREAK Liquid Blue Slime
@@ -1458,218 +1418,6 @@ fe.protection.break.tconstruct.tooltables.*                                     
 fe.protection.break.tconstruct.wood_rail.*                                       # (default: true) BREAK Wooden Rail
 fe.protection.break.tconstruct.wood_rail_trapdoor.*                              # (default: true) BREAK Wooden Rail with a Trapdoor
 fe.protection.break.tconstruct.wooden_hopper.*                                   # (default: true) BREAK Wooden Hopper
-fe.protection.break.thaumcraft.activator_rail.*                                  # (default: true) BREAK Arcane Activator Rail
-fe.protection.break.thaumcraft.alembic.*                                         # (default: true) BREAK Arcane Alembic
-fe.protection.break.thaumcraft.amber_block.*                                     # (default: true) BREAK Amber Block
-fe.protection.break.thaumcraft.amber_brick.*                                     # (default: true) BREAK Amber Bricks
-fe.protection.break.thaumcraft.arcane_ear.*                                      # (default: true) BREAK Arcane Ear
-fe.protection.break.thaumcraft.arcane_ear_toggle.*                               # (default: true) BREAK Arcane Ear (Toggle)
-fe.protection.break.thaumcraft.arcane_workbench.*                                # (default: true) BREAK Arcane Workbench
-fe.protection.break.thaumcraft.arcane_workbench_charger.*                        # (default: true) BREAK Workbench Charger
-fe.protection.break.thaumcraft.banner_black.*                                    # (default: true) BREAK Black Banner
-fe.protection.break.thaumcraft.banner_blue.*                                     # (default: true) BREAK Blue Banner
-fe.protection.break.thaumcraft.banner_brown.*                                    # (default: true) BREAK Brown Banner
-fe.protection.break.thaumcraft.banner_crimson_cult.*                             # (default: true) BREAK Crimson Cult Banner
-fe.protection.break.thaumcraft.banner_cyan.*                                     # (default: true) BREAK Cyan Banner
-fe.protection.break.thaumcraft.banner_gray.*                                     # (default: true) BREAK Gray Banner
-fe.protection.break.thaumcraft.banner_green.*                                    # (default: true) BREAK Green Banner
-fe.protection.break.thaumcraft.banner_lightblue.*                                # (default: true) BREAK Light Blue Banner
-fe.protection.break.thaumcraft.banner_lime.*                                     # (default: true) BREAK Lime Banner
-fe.protection.break.thaumcraft.banner_magenta.*                                  # (default: true) BREAK Magenta Banner
-fe.protection.break.thaumcraft.banner_orange.*                                   # (default: true) BREAK Orange Banner
-fe.protection.break.thaumcraft.banner_pink.*                                     # (default: true) BREAK Pink Banner
-fe.protection.break.thaumcraft.banner_purple.*                                   # (default: true) BREAK Purple Banner
-fe.protection.break.thaumcraft.banner_red.*                                      # (default: true) BREAK Red Banner
-fe.protection.break.thaumcraft.banner_silver.*                                   # (default: true) BREAK Light Gray Banner
-fe.protection.break.thaumcraft.banner_white.*                                    # (default: true) BREAK White Banner
-fe.protection.break.thaumcraft.banner_yellow.*                                   # (default: true) BREAK Yellow Banner
-fe.protection.break.thaumcraft.barrier.*                                         # (default: true) BREAK Warding Aura
-fe.protection.break.thaumcraft.bellows.*                                         # (default: true) BREAK Arcane Bellows
-fe.protection.break.thaumcraft.brain_box.*                                       # (default: true) BREAK Mnemonic Matrix
-fe.protection.break.thaumcraft.candle_black.*                                    # (default: true) BREAK Black Tallow Candle
-fe.protection.break.thaumcraft.candle_blue.*                                     # (default: true) BREAK Blue Tallow Candle
-fe.protection.break.thaumcraft.candle_brown.*                                    # (default: true) BREAK Brown Tallow Candle
-fe.protection.break.thaumcraft.candle_cyan.*                                     # (default: true) BREAK Cyan Tallow Candle
-fe.protection.break.thaumcraft.candle_gray.*                                     # (default: true) BREAK Gray Tallow Candle
-fe.protection.break.thaumcraft.candle_green.*                                    # (default: true) BREAK Green Tallow Candle
-fe.protection.break.thaumcraft.candle_lightblue.*                                # (default: true) BREAK Light Blue Tallow Candle
-fe.protection.break.thaumcraft.candle_lime.*                                     # (default: true) BREAK Lime Tallow Candle
-fe.protection.break.thaumcraft.candle_magenta.*                                  # (default: true) BREAK Magenta Tallow Candle
-fe.protection.break.thaumcraft.candle_orange.*                                   # (default: true) BREAK Orange Tallow Candle
-fe.protection.break.thaumcraft.candle_pink.*                                     # (default: true) BREAK Pink Tallow Candle
-fe.protection.break.thaumcraft.candle_purple.*                                   # (default: true) BREAK Purple Tallow Candle
-fe.protection.break.thaumcraft.candle_red.*                                      # (default: true) BREAK Red Tallow Candle
-fe.protection.break.thaumcraft.candle_silver.*                                   # (default: true) BREAK Light Gray Tallow Candle
-fe.protection.break.thaumcraft.candle_white.*                                    # (default: true) BREAK White Tallow Candle
-fe.protection.break.thaumcraft.candle_yellow.*                                   # (default: true) BREAK Yellow Tallow Candle
-fe.protection.break.thaumcraft.centrifuge.*                                      # (default: true) BREAK Essentia Centrifuge
-fe.protection.break.thaumcraft.cinderpearl.*                                     # (default: true) BREAK Cinderpearl
-fe.protection.break.thaumcraft.condenser.*                                       # (default: true) BREAK Flux Condenser
-fe.protection.break.thaumcraft.condenser_lattice.*                               # (default: true) BREAK Flux Condenser Lattice
-fe.protection.break.thaumcraft.condenser_lattice_dirty.*                         # (default: true) BREAK Clogged Flux Condenser Lattice
-fe.protection.break.thaumcraft.crucible.*                                        # (default: true) BREAK Crucible
-fe.protection.break.thaumcraft.crystal_aer.*                                     # (default: true) BREAK Air Crystal
-fe.protection.break.thaumcraft.crystal_aqua.*                                    # (default: true) BREAK Water Crystal
-fe.protection.break.thaumcraft.crystal_ignis.*                                   # (default: true) BREAK Fire Crystal
-fe.protection.break.thaumcraft.crystal_ordo.*                                    # (default: true) BREAK Order Crystal
-fe.protection.break.thaumcraft.crystal_perditio.*                                # (default: true) BREAK Entropy Crystal
-fe.protection.break.thaumcraft.crystal_terra.*                                   # (default: true) BREAK Earth Crystal
-fe.protection.break.thaumcraft.crystal_vitium.*                                  # (default: true) BREAK Flux Crystal
-fe.protection.break.thaumcraft.dioptra.*                                         # (default: true) BREAK Thaumic Dioptra
-fe.protection.break.thaumcraft.effect_glimmer.*                                  # (default: true) BREAK Glimmer
-fe.protection.break.thaumcraft.effect_sap.*                                      # (default: true) BREAK Sapping Field
-fe.protection.break.thaumcraft.effect_shock.*                                    # (default: true) BREAK Static Field
-fe.protection.break.thaumcraft.empty.*                                           # (default: true) BREAK Empty Space
-fe.protection.break.thaumcraft.essentia_input.*                                  # (default: true) BREAK Filling Essentia Transfuser
-fe.protection.break.thaumcraft.essentia_output.*                                 # (default: true) BREAK Emptying Essentia Transfuser
-fe.protection.break.thaumcraft.everfull_urn.*                                    # (default: true) BREAK Everfull Urn
-fe.protection.break.thaumcraft.flesh_block.*                                     # (default: true) BREAK Block of Flesh
-fe.protection.break.thaumcraft.flux_goo.*                                        # (default: true) BREAK Flux Goo
-fe.protection.break.thaumcraft.golem_builder.*                                   # (default: true) BREAK Golem Press
-fe.protection.break.thaumcraft.grass_ambient.*                                   # (default: true) BREAK Ambient Grass Block
-fe.protection.break.thaumcraft.hole.*                                            # (default: true) BREAK Dimensional Tear
-fe.protection.break.thaumcraft.hungry_chest.*                                    # (default: true) BREAK Hungry Chest
-fe.protection.break.thaumcraft.infernal_furnace.*                                # (default: true) BREAK Infernal Furnace
-fe.protection.break.thaumcraft.infusion_matrix.*                                 # (default: true) BREAK Runic Matrix
-fe.protection.break.thaumcraft.inlay.*                                           # (default: true) BREAK Redstone Inlay
-fe.protection.break.thaumcraft.jar_brain.*                                       # (default: true) BREAK Brain in a Jar
-fe.protection.break.thaumcraft.jar_normal.*                                      # (default: true) BREAK Warded Jar
-fe.protection.break.thaumcraft.jar_void.*                                        # (default: true) BREAK Void Jar
-fe.protection.break.thaumcraft.lamp_arcane.*                                     # (default: true) BREAK Arcane Lamp
-fe.protection.break.thaumcraft.lamp_fertility.*                                  # (default: true) BREAK Lamp of Fertility
-fe.protection.break.thaumcraft.lamp_growth.*                                     # (default: true) BREAK Lamp of Growth  
-fe.protection.break.thaumcraft.leaves_greatwood.*                                # (default: true) BREAK Greatwood Leaves
-fe.protection.break.thaumcraft.leaves_silverwood.*                               # (default: true) BREAK Silverwood Leaves
-fe.protection.break.thaumcraft.levitator.*                                       # (default: true) BREAK Arcane Levitator
-fe.protection.break.thaumcraft.liquid_death.*                                    # (default: true) BREAK Liquid Death
-fe.protection.break.thaumcraft.log_greatwood.*                                   # (default: true) BREAK Greatwood Log
-fe.protection.break.thaumcraft.log_silverwood.*                                  # (default: true) BREAK Silverwood Log
-fe.protection.break.thaumcraft.loot_crate_common.*                               # (default: true) BREAK Common Crate
-fe.protection.break.thaumcraft.loot_crate_rare.*                                 # (default: true) BREAK Rare Crate
-fe.protection.break.thaumcraft.loot_crate_uncommon.*                             # (default: true) BREAK Uncommon Crate
-fe.protection.break.thaumcraft.loot_urn_common.*                                 # (default: true) BREAK Common Urn
-fe.protection.break.thaumcraft.loot_urn_rare.*                                   # (default: true) BREAK Rare Urn
-fe.protection.break.thaumcraft.loot_urn_uncommon.*                               # (default: true) BREAK Uncommon Urn
-fe.protection.break.thaumcraft.matrix_cost.*                                     # (default: true) BREAK Infusion Cost Stone
-fe.protection.break.thaumcraft.matrix_speed.*                                    # (default: true) BREAK Infusion Speed Stone
-fe.protection.break.thaumcraft.metal_alchemical.*                                # (default: true) BREAK Alchemical Construct
-fe.protection.break.thaumcraft.metal_alchemical_advanced.*                       # (default: true) BREAK Advanced Alchemical Construct
-fe.protection.break.thaumcraft.metal_brass.*                                     # (default: true) BREAK Brass Block
-fe.protection.break.thaumcraft.metal_thaumium.*                                  # (default: true) BREAK Thaumium Block
-fe.protection.break.thaumcraft.metal_void.*                                      # (default: true) BREAK Void Metal Block
-fe.protection.break.thaumcraft.mirror.*                                          # (default: true) BREAK Magic Mirror
-fe.protection.break.thaumcraft.mirror_essentia.*                                 # (default: true) BREAK Essentia Mirror
-fe.protection.break.thaumcraft.nitor_black.*                                     # (default: true) BREAK Black Nitor
-fe.protection.break.thaumcraft.nitor_blue.*                                      # (default: true) BREAK Blue Nitor
-fe.protection.break.thaumcraft.nitor_brown.*                                     # (default: true) BREAK Brown Nitor
-fe.protection.break.thaumcraft.nitor_cyan.*                                      # (default: true) BREAK Cyan Nitor
-fe.protection.break.thaumcraft.nitor_gray.*                                      # (default: true) BREAK Gray Nitor
-fe.protection.break.thaumcraft.nitor_green.*                                     # (default: true) BREAK Green Nitor
-fe.protection.break.thaumcraft.nitor_lightblue.*                                 # (default: true) BREAK Light Blue Nitor
-fe.protection.break.thaumcraft.nitor_lime.*                                      # (default: true) BREAK Lime Nitor
-fe.protection.break.thaumcraft.nitor_magenta.*                                   # (default: true) BREAK Magenta Nitor
-fe.protection.break.thaumcraft.nitor_orange.*                                    # (default: true) BREAK Orange Nitor
-fe.protection.break.thaumcraft.nitor_pink.*                                      # (default: true) BREAK Pink Nitor
-fe.protection.break.thaumcraft.nitor_purple.*                                    # (default: true) BREAK Purple Nitor
-fe.protection.break.thaumcraft.nitor_red.*                                       # (default: true) BREAK Red Nitor
-fe.protection.break.thaumcraft.nitor_silver.*                                    # (default: true) BREAK Light Gray Nitor
-fe.protection.break.thaumcraft.nitor_white.*                                     # (default: true) BREAK White Nitor
-fe.protection.break.thaumcraft.nitor_yellow.*                                    # (default: true) BREAK Yellow Nitor
-fe.protection.break.thaumcraft.ore_amber.*                                       # (default: true) BREAK Amber Bearing Stone
-fe.protection.break.thaumcraft.ore_cinnabar.*                                    # (default: true) BREAK Cinnabar Ore
-fe.protection.break.thaumcraft.ore_quartz.*                                      # (default: true) BREAK Quartz Ore
-fe.protection.break.thaumcraft.pattern_crafter.*                                 # (default: true) BREAK Arcane Pattern Crafter
-fe.protection.break.thaumcraft.paving_stone_barrier.*                            # (default: true) BREAK Barrier Stone
-fe.protection.break.thaumcraft.paving_stone_travel.*                             # (default: true) BREAK Paving Stone of Travel
-fe.protection.break.thaumcraft.pedestal_ancient.*                                # (default: true) BREAK Ancient Pedestal
-fe.protection.break.thaumcraft.pedestal_arcane.*                                 # (default: true) BREAK Arcane Pedestal
-fe.protection.break.thaumcraft.pedestal_eldritch.*                               # (default: true) BREAK Eldritch Pedestal
-fe.protection.break.thaumcraft.pillar_ancient.*                                  # (default: true) BREAK Ancient Infusion Pillar
-fe.protection.break.thaumcraft.pillar_arcane.*                                   # (default: true) BREAK Infusion Pillar
-fe.protection.break.thaumcraft.pillar_eldritch.*                                 # (default: true) BREAK Eldritch Infusion Pillar
-fe.protection.break.thaumcraft.placeholder_anvil.*                               # (default: true) BREAK Golem Press
-fe.protection.break.thaumcraft.placeholder_bars.*                                # (default: true) BREAK Golem Press
-fe.protection.break.thaumcraft.placeholder_brick.*                               # (default: true) BREAK Infernal Furnace
-fe.protection.break.thaumcraft.placeholder_cauldron.*                            # (default: true) BREAK Golem Press
-fe.protection.break.thaumcraft.placeholder_obsidian.*                            # (default: true) BREAK Infernal Furnace
-fe.protection.break.thaumcraft.placeholder_table.*                               # (default: true) BREAK Golem Press
-fe.protection.break.thaumcraft.plank_greatwood.*                                 # (default: true) BREAK Greatwood Planks
-fe.protection.break.thaumcraft.plank_silverwood.*                                # (default: true) BREAK Silverwood Planks
-fe.protection.break.thaumcraft.potion_sprayer.*                                  # (default: true) BREAK Potion Sprayer
-fe.protection.break.thaumcraft.purifying_fluid.*                                 # (default: true) BREAK Purifying Fluid
-fe.protection.break.thaumcraft.recharge_pedestal.*                               # (default: true) BREAK Recharge Pedestal
-fe.protection.break.thaumcraft.redstone_relay.*                                  # (default: true) BREAK Redstone Relay
-fe.protection.break.thaumcraft.research_table.*                                  # (default: true) BREAK Research Table
-fe.protection.break.thaumcraft.sapling_greatwood.*                               # (default: true) BREAK Greatwood Sapling
-fe.protection.break.thaumcraft.sapling_silverwood.*                              # (default: true) BREAK Silverwood Sapling
-fe.protection.break.thaumcraft.shimmerleaf.*                                     # (default: true) BREAK Shimmerleaf
-fe.protection.break.thaumcraft.slab_ancient.*                                    # (default: true) BREAK Ancient Stone Slab
-fe.protection.break.thaumcraft.slab_arcane_brick.*                               # (default: true) BREAK Arcane Brick Slab
-fe.protection.break.thaumcraft.slab_arcane_stone.*                               # (default: true) BREAK Arcane Stone Slab
-fe.protection.break.thaumcraft.slab_double_ancient.*                             # (default: true) BREAK tile.slab_double_ancient.name
-fe.protection.break.thaumcraft.slab_double_arcane_brick.*                        # (default: true) BREAK tile.slab_double_arcane_brick.name
-fe.protection.break.thaumcraft.slab_double_arcane_stone.*                        # (default: true) BREAK tile.slab_double_arcane_stone.name
-fe.protection.break.thaumcraft.slab_double_eldritch.*                            # (default: true) BREAK tile.slab_double_eldritch.name
-fe.protection.break.thaumcraft.slab_double_greatwood.*                           # (default: true) BREAK tile.slab_double_greatwood.name
-fe.protection.break.thaumcraft.slab_double_silverwood.*                          # (default: true) BREAK tile.slab_double_silverwood.name
-fe.protection.break.thaumcraft.slab_eldritch.*                                   # (default: true) BREAK Eldritch Stone Slab
-fe.protection.break.thaumcraft.slab_greatwood.*                                  # (default: true) BREAK Greatwood Slab
-fe.protection.break.thaumcraft.slab_silverwood.*                                 # (default: true) BREAK Silverwood Slab
-fe.protection.break.thaumcraft.smelter_aux.*                                     # (default: true) BREAK Auxiliary Slurry Pump
-fe.protection.break.thaumcraft.smelter_basic.*                                   # (default: true) BREAK Essentia Smeltery
-fe.protection.break.thaumcraft.smelter_thaumium.*                                # (default: true) BREAK Thaumium Essentia Smeltery
-fe.protection.break.thaumcraft.smelter_vent.*                                    # (default: true) BREAK Auxiliary Venting Port
-fe.protection.break.thaumcraft.smelter_void.*                                    # (default: true) BREAK Void Metal Essentia Smeltery
-fe.protection.break.thaumcraft.spa.*                                             # (default: true) BREAK Arcane Spa
-fe.protection.break.thaumcraft.stabilizer.*                                      # (default: true) BREAK Stabilizer
-fe.protection.break.thaumcraft.stairs_ancient.*                                  # (default: true) BREAK Ancient Stone Stairs
-fe.protection.break.thaumcraft.stairs_arcane.*                                   # (default: true) BREAK Arcane Stone Stairs
-fe.protection.break.thaumcraft.stairs_arcane_brick.*                             # (default: true) BREAK Arcane Brick Stairs
-fe.protection.break.thaumcraft.stairs_greatwood.*                                # (default: true) BREAK Greatwood Stairs
-fe.protection.break.thaumcraft.stairs_silverwood.*                               # (default: true) BREAK Silverwood Stairs
-fe.protection.break.thaumcraft.stone_ancient.*                                   # (default: true) BREAK Ancient Stone
-fe.protection.break.thaumcraft.stone_ancient_doorway.*                           # (default: true) BREAK Ancient Barrier
-fe.protection.break.thaumcraft.stone_ancient_glyphed.*                           # (default: true) BREAK Glyphed Stone
-fe.protection.break.thaumcraft.stone_ancient_rock.*                              # (default: true) BREAK Ancient Rock
-fe.protection.break.thaumcraft.stone_ancient_tile.*                              # (default: true) BREAK Ancient Stone Tile
-fe.protection.break.thaumcraft.stone_arcane.*                                    # (default: true) BREAK Arcane Stone
-fe.protection.break.thaumcraft.stone_arcane_brick.*                              # (default: true) BREAK Arcane Stone Brick
-fe.protection.break.thaumcraft.stone_eldritch_tile.*                             # (default: true) BREAK Eldritch Stone
-fe.protection.break.thaumcraft.stone_porous.*                                    # (default: true) BREAK Porous Stone
-fe.protection.break.thaumcraft.table_stone.*                                     # (default: true) BREAK Stone Table
-fe.protection.break.thaumcraft.table_wood.*                                      # (default: true) BREAK Wood Table
-fe.protection.break.thaumcraft.taint_crust.*                                     # (default: true) BREAK Crusted Taint
-fe.protection.break.thaumcraft.taint_feature.*                                   # (default: true) BREAK Swollen Taint
-fe.protection.break.thaumcraft.taint_fibre.*                                     # (default: true) BREAK Fibrous Taint
-fe.protection.break.thaumcraft.taint_geyser.*                                    # (default: true) BREAK Taint Geyser
-fe.protection.break.thaumcraft.taint_log.*                                       # (default: true) BREAK Taintwood Log
-fe.protection.break.thaumcraft.taint_rock.*                                      # (default: true) BREAK Tainted Rock
-fe.protection.break.thaumcraft.taint_soil.*                                      # (default: true) BREAK Tainted Soil
-fe.protection.break.thaumcraft.thaumatorium.*                                    # (default: true) BREAK Thaumatorium
-fe.protection.break.thaumcraft.thaumatorium_top.*                                # (default: true) BREAK Thaumatorium
-fe.protection.break.thaumcraft.tube.*                                            # (default: true) BREAK Essentia Tube
-fe.protection.break.thaumcraft.tube_buffer.*                                     # (default: true) BREAK Essentia Buffer
-fe.protection.break.thaumcraft.tube_filter.*                                     # (default: true) BREAK Filtered Essentia Tube
-fe.protection.break.thaumcraft.tube_oneway.*                                     # (default: true) BREAK Directional Essentia Tube
-fe.protection.break.thaumcraft.tube_restrict.*                                   # (default: true) BREAK Restricted Essentia Tube
-fe.protection.break.thaumcraft.tube_valve.*                                      # (default: true) BREAK Essentia Valve
-fe.protection.break.thaumcraft.vis_battery.*                                     # (default: true) BREAK Vis Battery
-fe.protection.break.thaumcraft.vis_generator.*                                   # (default: true) BREAK Vis Generator
-fe.protection.break.thaumcraft.vishroom.*                                        # (default: true) BREAK Vishroom
-fe.protection.break.thaumcraft.void_siphon.*                                     # (default: true) BREAK Void Siphon
-fe.protection.break.thaumcraft.wand_workbench.*                                  # (default: true) BREAK Focal Manipulator
-fe.protection.break.thaumictinkerer.black_quartz_block.*                         # (default: true) BREAK Black Quartz Block
-fe.protection.break.thaumictinkerer.dissimulation.*                              # (default: true) BREAK Dissimulation Block
-fe.protection.break.thaumictinkerer.enchantment_pillar.*                         # (default: true) BREAK Enchanting Pillar
-fe.protection.break.thaumictinkerer.example.*                                    # (default: true) BREAK Placeholder Block
-fe.protection.break.thaumictinkerer.funnel.*                                     # (default: true) BREAK Essentia Funnel
-fe.protection.break.thaumictinkerer.magnet.*                                     # (default: true) BREAK Kinetic Attractor
-fe.protection.break.thaumictinkerer.mob_magnet.*                                 # (default: true) BREAK Corporeal Attractor
-fe.protection.break.thaumictinkerer.nitor_vapor.*                                # (default: true) BREAK tile.thaumictinkerer:nitor_vapor.name
-fe.protection.break.thaumictinkerer.osmotic_enchanter.*                          # (default: true) BREAK Osmotic Enchanter
-fe.protection.break.thaumictinkerer.repairer.*                                   # (default: true) BREAK Thaumic Restorer
-fe.protection.break.thaumictinkerer.transvector_dislocator.*                     # (default: true) BREAK tile.thaumictinkerer:transvector_dislocator.name
-fe.protection.break.thaumictinkerer.transvector_interface.*                      # (default: true) BREAK Transvector Interface
 fe.protection.break.twilightforest.aurora_block.*                                # (default: true) BREAK Aurora Block
 fe.protection.break.twilightforest.aurora_pillar.*                               # (default: true) BREAK Aurora Pillar
 fe.protection.break.twilightforest.aurora_slab.*                                 # (default: true) BREAK Aurora Slab
@@ -1933,43 +1681,6 @@ fe.protection.explode.appliedenergistics2.spatial_pylon.*                       
 fe.protection.explode.appliedenergistics2.tiny_tnt.*                             # (default: true) EXPLODE Tiny TNT
 fe.protection.explode.appliedenergistics2.vibration_chamber.*                    # (default: true) EXPLODE Vibration Chamber
 fe.protection.explode.appliedenergistics2.wireless_access_point.*                # (default: true) EXPLODE ME Wireless Access Point
-fe.protection.explode.bibliocraft.armorstand.*                                   # (default: true) EXPLODE tile.BiblioCraft:ArmorStand.name
-fe.protection.explode.bibliocraft.bell.*                                         # (default: true) EXPLODE Desk Bell
-fe.protection.explode.bibliocraft.bookcase.*                                     # (default: true) EXPLODE tile.BiblioCraft:Bookcase.name
-fe.protection.explode.bibliocraft.bookcasecreative.*                             # (default: true) EXPLODE tile.BiblioCraft:BookcaseCreative.name
-fe.protection.explode.bibliocraft.case.*                                         # (default: true) EXPLODE tile.BiblioCraft:Case.name
-fe.protection.explode.bibliocraft.clipboard.*                                    # (default: true) EXPLODE tile.BiblioCraft:Clipboard.name
-fe.protection.explode.bibliocraft.clock.*                                        # (default: true) EXPLODE tile.BiblioCraft:Clock.name
-fe.protection.explode.bibliocraft.cookiejar.*                                    # (default: true) EXPLODE Cookie Jar
-fe.protection.explode.bibliocraft.desk.*                                         # (default: true) EXPLODE tile.BiblioCraft:Desk.name
-fe.protection.explode.bibliocraft.dinnerplate.*                                  # (default: true) EXPLODE Dinner Plate
-fe.protection.explode.bibliocraft.discrack.*                                     # (default: true) EXPLODE Disc Rack
-fe.protection.explode.bibliocraft.fancysign.*                                    # (default: true) EXPLODE tile.BiblioCraft:FancySign.name
-fe.protection.explode.bibliocraft.fancyworkbench.*                               # (default: true) EXPLODE tile.BiblioCraft:FancyWorkbench.name
-fe.protection.explode.bibliocraft.framedchest.*                                  # (default: true) EXPLODE tile.BiblioCraft:FramedChest.name
-fe.protection.explode.bibliocraft.furniturepaneler.*                             # (default: true) EXPLODE tile.BiblioCraft:FurniturePaneler.name
-fe.protection.explode.bibliocraft.label.*                                        # (default: true) EXPLODE tile.BiblioCraft:Label.name
-fe.protection.explode.bibliocraft.lampgold.*                                     # (default: true) EXPLODE tile.BiblioCraft:LampGold.name
-fe.protection.explode.bibliocraft.lampiron.*                                     # (default: true) EXPLODE tile.BiblioCraft:LampIron.name
-fe.protection.explode.bibliocraft.lanterngold.*                                  # (default: true) EXPLODE tile.BiblioCraft:LanternGold.name
-fe.protection.explode.bibliocraft.lanterniron.*                                  # (default: true) EXPLODE tile.BiblioCraft:LanternIron.name
-fe.protection.explode.bibliocraft.mapframe.*                                     # (default: true) EXPLODE tile.BiblioCraft:MapFrame.name
-fe.protection.explode.bibliocraft.markerpole.*                                   # (default: true) EXPLODE tile.BiblioCraft:MarkerPole.name
-fe.protection.explode.bibliocraft.paintingframeborderless.*                      # (default: true) EXPLODE tile.BiblioCraft:PaintingFrameBorderless.name
-fe.protection.explode.bibliocraft.paintingframefancy.*                           # (default: true) EXPLODE tile.BiblioCraft:PaintingFrameFancy.name
-fe.protection.explode.bibliocraft.paintingframeflat.*                            # (default: true) EXPLODE tile.BiblioCraft:PaintingFrameFlat.name
-fe.protection.explode.bibliocraft.paintingframemiddle.*                          # (default: true) EXPLODE tile.BiblioCraft:PaintingFrameMiddle.name
-fe.protection.explode.bibliocraft.paintingframesimple.*                          # (default: true) EXPLODE tile.BiblioCraft:PaintingFrameSimple.name
-fe.protection.explode.bibliocraft.paintingpress.*                                # (default: true) EXPLODE Painting Press
-fe.protection.explode.bibliocraft.potionshelf.*                                  # (default: true) EXPLODE tile.BiblioCraft:PotionShelf.name
-fe.protection.explode.bibliocraft.printingpress.*                                # (default: true) EXPLODE Printing Press
-fe.protection.explode.bibliocraft.seat.*                                         # (default: true) EXPLODE tile.BiblioCraft:Seat.name
-fe.protection.explode.bibliocraft.shelf.*                                        # (default: true) EXPLODE tile.BiblioCraft:Shelf.name
-fe.protection.explode.bibliocraft.swordpedestal.*                                # (default: true) EXPLODE tile.BiblioCraft:SwordPedestal.name
-fe.protection.explode.bibliocraft.table.*                                        # (default: true) EXPLODE tile.BiblioCraft:Table.name
-fe.protection.explode.bibliocraft.toolrack.*                                     # (default: true) EXPLODE tile.BiblioCraft:ToolRack.name
-fe.protection.explode.bibliocraft.typesettingtable.*                             # (default: true) EXPLODE Typesetting Table
-fe.protection.explode.bibliocraft.typewriter.*                                   # (default: true) EXPLODE tile.BiblioCraft:Typewriter.name
 fe.protection.explode.biomesoplenty.ash_block.*                                  # (default: true) EXPLODE Ash Block
 fe.protection.explode.biomesoplenty.bamboo.*                                     # (default: true) EXPLODE Bamboo
 fe.protection.explode.biomesoplenty.bamboo_thatching.*                           # (default: true) EXPLODE Bamboo Thatching
@@ -2104,7 +1815,7 @@ fe.protection.explode.botania.altar.*                                           
 fe.protection.explode.botania.altgrass.*                                         # (default: true) EXPLODE tile.altGrass.name
 fe.protection.explode.botania.animatedtorch.*                                    # (default: true) EXPLODE tile.animatedTorch.name
 fe.protection.explode.botania.avatar.*                                           # (default: true) EXPLODE tile.avatar.name
-fe.protection.explode.botania.bellows.*                                          # (default: true) EXPLODE Arcane Bellows
+fe.protection.explode.botania.bellows.*                                          # (default: true) EXPLODE tile.bellows.name
 fe.protection.explode.botania.bifrost.*                                          # (default: true) EXPLODE tile.bifrost.name
 fe.protection.explode.botania.bifrostperm.*                                      # (default: true) EXPLODE tile.bifrostPerm.name
 fe.protection.explode.botania.bifrostpermpane.*                                  # (default: true) EXPLODE tile.bifrostPermPane.name
@@ -2574,7 +2285,6 @@ fe.protection.explode.customnpcs.npcredstoneblock.*                             
 fe.protection.explode.customnpcs.npcscripted.*                                   # (default: true) EXPLODE Scripted Block
 fe.protection.explode.customnpcs.npcscripteddoor.*                               # (default: true) EXPLODE item.npcscripteddoor.name
 fe.protection.explode.customnpcs.npcwaypoint.*                                   # (default: true) EXPLODE Location Quest Block
-fe.protection.explode.gravestone.gravestone.*                                    # (default: true) EXPLODE Air
 fe.protection.explode.harvestcraft.almond_sapling.*                              # (default: true) EXPLODE Almond Sapling
 fe.protection.explode.harvestcraft.apiary.*                                      # (default: true) EXPLODE Apiary
 fe.protection.explode.harvestcraft.apple_sapling.*                               # (default: true) EXPLODE Apple Sapling
@@ -2844,7 +2554,7 @@ fe.protection.explode.minecraft.acacia_stairs.*                                 
 fe.protection.explode.minecraft.activator_rail.*                                 # (default: true) EXPLODE Activator Rail
 fe.protection.explode.minecraft.air.*                                            # (default: true) EXPLODE Air
 fe.protection.explode.minecraft.anvil.*                                          # (default: true) EXPLODE Anvil
-fe.protection.explode.minecraft.barrier.*                                        # (default: true) EXPLODE Warding Aura
+fe.protection.explode.minecraft.barrier.*                                        # (default: true) EXPLODE Barrier
 fe.protection.explode.minecraft.beacon.*                                         # (default: true) EXPLODE Beacon
 fe.protection.explode.minecraft.bed.*                                            # (default: true) EXPLODE tile.bed.name
 fe.protection.explode.minecraft.bedrock.*                                        # (default: true) EXPLODE Bedrock
@@ -3101,8 +2811,6 @@ fe.protection.explode.pewter.molten_elementium.*                                
 fe.protection.explode.pewter.molten_manasteel.*                                  # (default: true) EXPLODE Molten Manasteel
 fe.protection.explode.pewter.molten_osmium.*                                     # (default: true) EXPLODE Molten Osmium
 fe.protection.explode.pewter.molten_terrasteel.*                                 # (default: true) EXPLODE Molten Terrasteel
-fe.protection.explode.pewter.molten_thaumium.*                                   # (default: true) EXPLODE Molten Thaumium
-fe.protection.explode.pewter.molten_voidmetal.*                                  # (default: true) EXPLODE Molten Void Metal
 fe.protection.explode.pewter.pewterfluid.*                                       # (default: true) EXPLODE fluid.other.name
 fe.protection.explode.tconstruct.blood.*                                         # (default: true) EXPLODE fluid.blood.name
 fe.protection.explode.tconstruct.blueslime.*                                     # (default: true) EXPLODE Liquid Blue Slime
@@ -3212,218 +2920,6 @@ fe.protection.explode.tconstruct.tooltables.*                                   
 fe.protection.explode.tconstruct.wood_rail.*                                     # (default: true) EXPLODE Wooden Rail
 fe.protection.explode.tconstruct.wood_rail_trapdoor.*                            # (default: true) EXPLODE Wooden Rail with a Trapdoor
 fe.protection.explode.tconstruct.wooden_hopper.*                                 # (default: true) EXPLODE Wooden Hopper
-fe.protection.explode.thaumcraft.activator_rail.*                                # (default: true) EXPLODE Arcane Activator Rail
-fe.protection.explode.thaumcraft.alembic.*                                       # (default: true) EXPLODE Arcane Alembic
-fe.protection.explode.thaumcraft.amber_block.*                                   # (default: true) EXPLODE Amber Block
-fe.protection.explode.thaumcraft.amber_brick.*                                   # (default: true) EXPLODE Amber Bricks
-fe.protection.explode.thaumcraft.arcane_ear.*                                    # (default: true) EXPLODE Arcane Ear
-fe.protection.explode.thaumcraft.arcane_ear_toggle.*                             # (default: true) EXPLODE Arcane Ear (Toggle)
-fe.protection.explode.thaumcraft.arcane_workbench.*                              # (default: true) EXPLODE Arcane Workbench
-fe.protection.explode.thaumcraft.arcane_workbench_charger.*                      # (default: true) EXPLODE Workbench Charger
-fe.protection.explode.thaumcraft.banner_black.*                                  # (default: true) EXPLODE Black Banner
-fe.protection.explode.thaumcraft.banner_blue.*                                   # (default: true) EXPLODE Blue Banner
-fe.protection.explode.thaumcraft.banner_brown.*                                  # (default: true) EXPLODE Brown Banner
-fe.protection.explode.thaumcraft.banner_crimson_cult.*                           # (default: true) EXPLODE Crimson Cult Banner
-fe.protection.explode.thaumcraft.banner_cyan.*                                   # (default: true) EXPLODE Cyan Banner
-fe.protection.explode.thaumcraft.banner_gray.*                                   # (default: true) EXPLODE Gray Banner
-fe.protection.explode.thaumcraft.banner_green.*                                  # (default: true) EXPLODE Green Banner
-fe.protection.explode.thaumcraft.banner_lightblue.*                              # (default: true) EXPLODE Light Blue Banner
-fe.protection.explode.thaumcraft.banner_lime.*                                   # (default: true) EXPLODE Lime Banner
-fe.protection.explode.thaumcraft.banner_magenta.*                                # (default: true) EXPLODE Magenta Banner
-fe.protection.explode.thaumcraft.banner_orange.*                                 # (default: true) EXPLODE Orange Banner
-fe.protection.explode.thaumcraft.banner_pink.*                                   # (default: true) EXPLODE Pink Banner
-fe.protection.explode.thaumcraft.banner_purple.*                                 # (default: true) EXPLODE Purple Banner
-fe.protection.explode.thaumcraft.banner_red.*                                    # (default: true) EXPLODE Red Banner
-fe.protection.explode.thaumcraft.banner_silver.*                                 # (default: true) EXPLODE Light Gray Banner
-fe.protection.explode.thaumcraft.banner_white.*                                  # (default: true) EXPLODE White Banner
-fe.protection.explode.thaumcraft.banner_yellow.*                                 # (default: true) EXPLODE Yellow Banner
-fe.protection.explode.thaumcraft.barrier.*                                       # (default: true) EXPLODE Warding Aura
-fe.protection.explode.thaumcraft.bellows.*                                       # (default: true) EXPLODE Arcane Bellows
-fe.protection.explode.thaumcraft.brain_box.*                                     # (default: true) EXPLODE Mnemonic Matrix
-fe.protection.explode.thaumcraft.candle_black.*                                  # (default: true) EXPLODE Black Tallow Candle
-fe.protection.explode.thaumcraft.candle_blue.*                                   # (default: true) EXPLODE Blue Tallow Candle
-fe.protection.explode.thaumcraft.candle_brown.*                                  # (default: true) EXPLODE Brown Tallow Candle
-fe.protection.explode.thaumcraft.candle_cyan.*                                   # (default: true) EXPLODE Cyan Tallow Candle
-fe.protection.explode.thaumcraft.candle_gray.*                                   # (default: true) EXPLODE Gray Tallow Candle
-fe.protection.explode.thaumcraft.candle_green.*                                  # (default: true) EXPLODE Green Tallow Candle
-fe.protection.explode.thaumcraft.candle_lightblue.*                              # (default: true) EXPLODE Light Blue Tallow Candle
-fe.protection.explode.thaumcraft.candle_lime.*                                   # (default: true) EXPLODE Lime Tallow Candle
-fe.protection.explode.thaumcraft.candle_magenta.*                                # (default: true) EXPLODE Magenta Tallow Candle
-fe.protection.explode.thaumcraft.candle_orange.*                                 # (default: true) EXPLODE Orange Tallow Candle
-fe.protection.explode.thaumcraft.candle_pink.*                                   # (default: true) EXPLODE Pink Tallow Candle
-fe.protection.explode.thaumcraft.candle_purple.*                                 # (default: true) EXPLODE Purple Tallow Candle
-fe.protection.explode.thaumcraft.candle_red.*                                    # (default: true) EXPLODE Red Tallow Candle
-fe.protection.explode.thaumcraft.candle_silver.*                                 # (default: true) EXPLODE Light Gray Tallow Candle
-fe.protection.explode.thaumcraft.candle_white.*                                  # (default: true) EXPLODE White Tallow Candle
-fe.protection.explode.thaumcraft.candle_yellow.*                                 # (default: true) EXPLODE Yellow Tallow Candle
-fe.protection.explode.thaumcraft.centrifuge.*                                    # (default: true) EXPLODE Essentia Centrifuge
-fe.protection.explode.thaumcraft.cinderpearl.*                                   # (default: true) EXPLODE Cinderpearl
-fe.protection.explode.thaumcraft.condenser.*                                     # (default: true) EXPLODE Flux Condenser
-fe.protection.explode.thaumcraft.condenser_lattice.*                             # (default: true) EXPLODE Flux Condenser Lattice
-fe.protection.explode.thaumcraft.condenser_lattice_dirty.*                       # (default: true) EXPLODE Clogged Flux Condenser Lattice
-fe.protection.explode.thaumcraft.crucible.*                                      # (default: true) EXPLODE Crucible
-fe.protection.explode.thaumcraft.crystal_aer.*                                   # (default: true) EXPLODE Air Crystal
-fe.protection.explode.thaumcraft.crystal_aqua.*                                  # (default: true) EXPLODE Water Crystal
-fe.protection.explode.thaumcraft.crystal_ignis.*                                 # (default: true) EXPLODE Fire Crystal
-fe.protection.explode.thaumcraft.crystal_ordo.*                                  # (default: true) EXPLODE Order Crystal
-fe.protection.explode.thaumcraft.crystal_perditio.*                              # (default: true) EXPLODE Entropy Crystal
-fe.protection.explode.thaumcraft.crystal_terra.*                                 # (default: true) EXPLODE Earth Crystal
-fe.protection.explode.thaumcraft.crystal_vitium.*                                # (default: true) EXPLODE Flux Crystal
-fe.protection.explode.thaumcraft.dioptra.*                                       # (default: true) EXPLODE Thaumic Dioptra
-fe.protection.explode.thaumcraft.effect_glimmer.*                                # (default: true) EXPLODE Glimmer
-fe.protection.explode.thaumcraft.effect_sap.*                                    # (default: true) EXPLODE Sapping Field
-fe.protection.explode.thaumcraft.effect_shock.*                                  # (default: true) EXPLODE Static Field
-fe.protection.explode.thaumcraft.empty.*                                         # (default: true) EXPLODE Empty Space
-fe.protection.explode.thaumcraft.essentia_input.*                                # (default: true) EXPLODE Filling Essentia Transfuser
-fe.protection.explode.thaumcraft.essentia_output.*                               # (default: true) EXPLODE Emptying Essentia Transfuser
-fe.protection.explode.thaumcraft.everfull_urn.*                                  # (default: true) EXPLODE Everfull Urn
-fe.protection.explode.thaumcraft.flesh_block.*                                   # (default: true) EXPLODE Block of Flesh
-fe.protection.explode.thaumcraft.flux_goo.*                                      # (default: true) EXPLODE Flux Goo
-fe.protection.explode.thaumcraft.golem_builder.*                                 # (default: true) EXPLODE Golem Press
-fe.protection.explode.thaumcraft.grass_ambient.*                                 # (default: true) EXPLODE Ambient Grass Block
-fe.protection.explode.thaumcraft.hole.*                                          # (default: true) EXPLODE Dimensional Tear
-fe.protection.explode.thaumcraft.hungry_chest.*                                  # (default: true) EXPLODE Hungry Chest
-fe.protection.explode.thaumcraft.infernal_furnace.*                              # (default: true) EXPLODE Infernal Furnace
-fe.protection.explode.thaumcraft.infusion_matrix.*                               # (default: true) EXPLODE Runic Matrix
-fe.protection.explode.thaumcraft.inlay.*                                         # (default: true) EXPLODE Redstone Inlay
-fe.protection.explode.thaumcraft.jar_brain.*                                     # (default: true) EXPLODE Brain in a Jar
-fe.protection.explode.thaumcraft.jar_normal.*                                    # (default: true) EXPLODE Warded Jar
-fe.protection.explode.thaumcraft.jar_void.*                                      # (default: true) EXPLODE Void Jar
-fe.protection.explode.thaumcraft.lamp_arcane.*                                   # (default: true) EXPLODE Arcane Lamp
-fe.protection.explode.thaumcraft.lamp_fertility.*                                # (default: true) EXPLODE Lamp of Fertility
-fe.protection.explode.thaumcraft.lamp_growth.*                                   # (default: true) EXPLODE Lamp of Growth  
-fe.protection.explode.thaumcraft.leaves_greatwood.*                              # (default: true) EXPLODE Greatwood Leaves
-fe.protection.explode.thaumcraft.leaves_silverwood.*                             # (default: true) EXPLODE Silverwood Leaves
-fe.protection.explode.thaumcraft.levitator.*                                     # (default: true) EXPLODE Arcane Levitator
-fe.protection.explode.thaumcraft.liquid_death.*                                  # (default: true) EXPLODE Liquid Death
-fe.protection.explode.thaumcraft.log_greatwood.*                                 # (default: true) EXPLODE Greatwood Log
-fe.protection.explode.thaumcraft.log_silverwood.*                                # (default: true) EXPLODE Silverwood Log
-fe.protection.explode.thaumcraft.loot_crate_common.*                             # (default: true) EXPLODE Common Crate
-fe.protection.explode.thaumcraft.loot_crate_rare.*                               # (default: true) EXPLODE Rare Crate
-fe.protection.explode.thaumcraft.loot_crate_uncommon.*                           # (default: true) EXPLODE Uncommon Crate
-fe.protection.explode.thaumcraft.loot_urn_common.*                               # (default: true) EXPLODE Common Urn
-fe.protection.explode.thaumcraft.loot_urn_rare.*                                 # (default: true) EXPLODE Rare Urn
-fe.protection.explode.thaumcraft.loot_urn_uncommon.*                             # (default: true) EXPLODE Uncommon Urn
-fe.protection.explode.thaumcraft.matrix_cost.*                                   # (default: true) EXPLODE Infusion Cost Stone
-fe.protection.explode.thaumcraft.matrix_speed.*                                  # (default: true) EXPLODE Infusion Speed Stone
-fe.protection.explode.thaumcraft.metal_alchemical.*                              # (default: true) EXPLODE Alchemical Construct
-fe.protection.explode.thaumcraft.metal_alchemical_advanced.*                     # (default: true) EXPLODE Advanced Alchemical Construct
-fe.protection.explode.thaumcraft.metal_brass.*                                   # (default: true) EXPLODE Brass Block
-fe.protection.explode.thaumcraft.metal_thaumium.*                                # (default: true) EXPLODE Thaumium Block
-fe.protection.explode.thaumcraft.metal_void.*                                    # (default: true) EXPLODE Void Metal Block
-fe.protection.explode.thaumcraft.mirror.*                                        # (default: true) EXPLODE Magic Mirror
-fe.protection.explode.thaumcraft.mirror_essentia.*                               # (default: true) EXPLODE Essentia Mirror
-fe.protection.explode.thaumcraft.nitor_black.*                                   # (default: true) EXPLODE Black Nitor
-fe.protection.explode.thaumcraft.nitor_blue.*                                    # (default: true) EXPLODE Blue Nitor
-fe.protection.explode.thaumcraft.nitor_brown.*                                   # (default: true) EXPLODE Brown Nitor
-fe.protection.explode.thaumcraft.nitor_cyan.*                                    # (default: true) EXPLODE Cyan Nitor
-fe.protection.explode.thaumcraft.nitor_gray.*                                    # (default: true) EXPLODE Gray Nitor
-fe.protection.explode.thaumcraft.nitor_green.*                                   # (default: true) EXPLODE Green Nitor
-fe.protection.explode.thaumcraft.nitor_lightblue.*                               # (default: true) EXPLODE Light Blue Nitor
-fe.protection.explode.thaumcraft.nitor_lime.*                                    # (default: true) EXPLODE Lime Nitor
-fe.protection.explode.thaumcraft.nitor_magenta.*                                 # (default: true) EXPLODE Magenta Nitor
-fe.protection.explode.thaumcraft.nitor_orange.*                                  # (default: true) EXPLODE Orange Nitor
-fe.protection.explode.thaumcraft.nitor_pink.*                                    # (default: true) EXPLODE Pink Nitor
-fe.protection.explode.thaumcraft.nitor_purple.*                                  # (default: true) EXPLODE Purple Nitor
-fe.protection.explode.thaumcraft.nitor_red.*                                     # (default: true) EXPLODE Red Nitor
-fe.protection.explode.thaumcraft.nitor_silver.*                                  # (default: true) EXPLODE Light Gray Nitor
-fe.protection.explode.thaumcraft.nitor_white.*                                   # (default: true) EXPLODE White Nitor
-fe.protection.explode.thaumcraft.nitor_yellow.*                                  # (default: true) EXPLODE Yellow Nitor
-fe.protection.explode.thaumcraft.ore_amber.*                                     # (default: true) EXPLODE Amber Bearing Stone
-fe.protection.explode.thaumcraft.ore_cinnabar.*                                  # (default: true) EXPLODE Cinnabar Ore
-fe.protection.explode.thaumcraft.ore_quartz.*                                    # (default: true) EXPLODE Quartz Ore
-fe.protection.explode.thaumcraft.pattern_crafter.*                               # (default: true) EXPLODE Arcane Pattern Crafter
-fe.protection.explode.thaumcraft.paving_stone_barrier.*                          # (default: true) EXPLODE Barrier Stone
-fe.protection.explode.thaumcraft.paving_stone_travel.*                           # (default: true) EXPLODE Paving Stone of Travel
-fe.protection.explode.thaumcraft.pedestal_ancient.*                              # (default: true) EXPLODE Ancient Pedestal
-fe.protection.explode.thaumcraft.pedestal_arcane.*                               # (default: true) EXPLODE Arcane Pedestal
-fe.protection.explode.thaumcraft.pedestal_eldritch.*                             # (default: true) EXPLODE Eldritch Pedestal
-fe.protection.explode.thaumcraft.pillar_ancient.*                                # (default: true) EXPLODE Ancient Infusion Pillar
-fe.protection.explode.thaumcraft.pillar_arcane.*                                 # (default: true) EXPLODE Infusion Pillar
-fe.protection.explode.thaumcraft.pillar_eldritch.*                               # (default: true) EXPLODE Eldritch Infusion Pillar
-fe.protection.explode.thaumcraft.placeholder_anvil.*                             # (default: true) EXPLODE Golem Press
-fe.protection.explode.thaumcraft.placeholder_bars.*                              # (default: true) EXPLODE Golem Press
-fe.protection.explode.thaumcraft.placeholder_brick.*                             # (default: true) EXPLODE Infernal Furnace
-fe.protection.explode.thaumcraft.placeholder_cauldron.*                          # (default: true) EXPLODE Golem Press
-fe.protection.explode.thaumcraft.placeholder_obsidian.*                          # (default: true) EXPLODE Infernal Furnace
-fe.protection.explode.thaumcraft.placeholder_table.*                             # (default: true) EXPLODE Golem Press
-fe.protection.explode.thaumcraft.plank_greatwood.*                               # (default: true) EXPLODE Greatwood Planks
-fe.protection.explode.thaumcraft.plank_silverwood.*                              # (default: true) EXPLODE Silverwood Planks
-fe.protection.explode.thaumcraft.potion_sprayer.*                                # (default: true) EXPLODE Potion Sprayer
-fe.protection.explode.thaumcraft.purifying_fluid.*                               # (default: true) EXPLODE Purifying Fluid
-fe.protection.explode.thaumcraft.recharge_pedestal.*                             # (default: true) EXPLODE Recharge Pedestal
-fe.protection.explode.thaumcraft.redstone_relay.*                                # (default: true) EXPLODE Redstone Relay
-fe.protection.explode.thaumcraft.research_table.*                                # (default: true) EXPLODE Research Table
-fe.protection.explode.thaumcraft.sapling_greatwood.*                             # (default: true) EXPLODE Greatwood Sapling
-fe.protection.explode.thaumcraft.sapling_silverwood.*                            # (default: true) EXPLODE Silverwood Sapling
-fe.protection.explode.thaumcraft.shimmerleaf.*                                   # (default: true) EXPLODE Shimmerleaf
-fe.protection.explode.thaumcraft.slab_ancient.*                                  # (default: true) EXPLODE Ancient Stone Slab
-fe.protection.explode.thaumcraft.slab_arcane_brick.*                             # (default: true) EXPLODE Arcane Brick Slab
-fe.protection.explode.thaumcraft.slab_arcane_stone.*                             # (default: true) EXPLODE Arcane Stone Slab
-fe.protection.explode.thaumcraft.slab_double_ancient.*                           # (default: true) EXPLODE tile.slab_double_ancient.name
-fe.protection.explode.thaumcraft.slab_double_arcane_brick.*                      # (default: true) EXPLODE tile.slab_double_arcane_brick.name
-fe.protection.explode.thaumcraft.slab_double_arcane_stone.*                      # (default: true) EXPLODE tile.slab_double_arcane_stone.name
-fe.protection.explode.thaumcraft.slab_double_eldritch.*                          # (default: true) EXPLODE tile.slab_double_eldritch.name
-fe.protection.explode.thaumcraft.slab_double_greatwood.*                         # (default: true) EXPLODE tile.slab_double_greatwood.name
-fe.protection.explode.thaumcraft.slab_double_silverwood.*                        # (default: true) EXPLODE tile.slab_double_silverwood.name
-fe.protection.explode.thaumcraft.slab_eldritch.*                                 # (default: true) EXPLODE Eldritch Stone Slab
-fe.protection.explode.thaumcraft.slab_greatwood.*                                # (default: true) EXPLODE Greatwood Slab
-fe.protection.explode.thaumcraft.slab_silverwood.*                               # (default: true) EXPLODE Silverwood Slab
-fe.protection.explode.thaumcraft.smelter_aux.*                                   # (default: true) EXPLODE Auxiliary Slurry Pump
-fe.protection.explode.thaumcraft.smelter_basic.*                                 # (default: true) EXPLODE Essentia Smeltery
-fe.protection.explode.thaumcraft.smelter_thaumium.*                              # (default: true) EXPLODE Thaumium Essentia Smeltery
-fe.protection.explode.thaumcraft.smelter_vent.*                                  # (default: true) EXPLODE Auxiliary Venting Port
-fe.protection.explode.thaumcraft.smelter_void.*                                  # (default: true) EXPLODE Void Metal Essentia Smeltery
-fe.protection.explode.thaumcraft.spa.*                                           # (default: true) EXPLODE Arcane Spa
-fe.protection.explode.thaumcraft.stabilizer.*                                    # (default: true) EXPLODE Stabilizer
-fe.protection.explode.thaumcraft.stairs_ancient.*                                # (default: true) EXPLODE Ancient Stone Stairs
-fe.protection.explode.thaumcraft.stairs_arcane.*                                 # (default: true) EXPLODE Arcane Stone Stairs
-fe.protection.explode.thaumcraft.stairs_arcane_brick.*                           # (default: true) EXPLODE Arcane Brick Stairs
-fe.protection.explode.thaumcraft.stairs_greatwood.*                              # (default: true) EXPLODE Greatwood Stairs
-fe.protection.explode.thaumcraft.stairs_silverwood.*                             # (default: true) EXPLODE Silverwood Stairs
-fe.protection.explode.thaumcraft.stone_ancient.*                                 # (default: true) EXPLODE Ancient Stone
-fe.protection.explode.thaumcraft.stone_ancient_doorway.*                         # (default: true) EXPLODE Ancient Barrier
-fe.protection.explode.thaumcraft.stone_ancient_glyphed.*                         # (default: true) EXPLODE Glyphed Stone
-fe.protection.explode.thaumcraft.stone_ancient_rock.*                            # (default: true) EXPLODE Ancient Rock
-fe.protection.explode.thaumcraft.stone_ancient_tile.*                            # (default: true) EXPLODE Ancient Stone Tile
-fe.protection.explode.thaumcraft.stone_arcane.*                                  # (default: true) EXPLODE Arcane Stone
-fe.protection.explode.thaumcraft.stone_arcane_brick.*                            # (default: true) EXPLODE Arcane Stone Brick
-fe.protection.explode.thaumcraft.stone_eldritch_tile.*                           # (default: true) EXPLODE Eldritch Stone
-fe.protection.explode.thaumcraft.stone_porous.*                                  # (default: true) EXPLODE Porous Stone
-fe.protection.explode.thaumcraft.table_stone.*                                   # (default: true) EXPLODE Stone Table
-fe.protection.explode.thaumcraft.table_wood.*                                    # (default: true) EXPLODE Wood Table
-fe.protection.explode.thaumcraft.taint_crust.*                                   # (default: true) EXPLODE Crusted Taint
-fe.protection.explode.thaumcraft.taint_feature.*                                 # (default: true) EXPLODE Swollen Taint
-fe.protection.explode.thaumcraft.taint_fibre.*                                   # (default: true) EXPLODE Fibrous Taint
-fe.protection.explode.thaumcraft.taint_geyser.*                                  # (default: true) EXPLODE Taint Geyser
-fe.protection.explode.thaumcraft.taint_log.*                                     # (default: true) EXPLODE Taintwood Log
-fe.protection.explode.thaumcraft.taint_rock.*                                    # (default: true) EXPLODE Tainted Rock
-fe.protection.explode.thaumcraft.taint_soil.*                                    # (default: true) EXPLODE Tainted Soil
-fe.protection.explode.thaumcraft.thaumatorium.*                                  # (default: true) EXPLODE Thaumatorium
-fe.protection.explode.thaumcraft.thaumatorium_top.*                              # (default: true) EXPLODE Thaumatorium
-fe.protection.explode.thaumcraft.tube.*                                          # (default: true) EXPLODE Essentia Tube
-fe.protection.explode.thaumcraft.tube_buffer.*                                   # (default: true) EXPLODE Essentia Buffer
-fe.protection.explode.thaumcraft.tube_filter.*                                   # (default: true) EXPLODE Filtered Essentia Tube
-fe.protection.explode.thaumcraft.tube_oneway.*                                   # (default: true) EXPLODE Directional Essentia Tube
-fe.protection.explode.thaumcraft.tube_restrict.*                                 # (default: true) EXPLODE Restricted Essentia Tube
-fe.protection.explode.thaumcraft.tube_valve.*                                    # (default: true) EXPLODE Essentia Valve
-fe.protection.explode.thaumcraft.vis_battery.*                                   # (default: true) EXPLODE Vis Battery
-fe.protection.explode.thaumcraft.vis_generator.*                                 # (default: true) EXPLODE Vis Generator
-fe.protection.explode.thaumcraft.vishroom.*                                      # (default: true) EXPLODE Vishroom
-fe.protection.explode.thaumcraft.void_siphon.*                                   # (default: true) EXPLODE Void Siphon
-fe.protection.explode.thaumcraft.wand_workbench.*                                # (default: true) EXPLODE Focal Manipulator
-fe.protection.explode.thaumictinkerer.black_quartz_block.*                       # (default: true) EXPLODE Black Quartz Block
-fe.protection.explode.thaumictinkerer.dissimulation.*                            # (default: true) EXPLODE Dissimulation Block
-fe.protection.explode.thaumictinkerer.enchantment_pillar.*                       # (default: true) EXPLODE Enchanting Pillar
-fe.protection.explode.thaumictinkerer.example.*                                  # (default: true) EXPLODE Placeholder Block
-fe.protection.explode.thaumictinkerer.funnel.*                                   # (default: true) EXPLODE Essentia Funnel
-fe.protection.explode.thaumictinkerer.magnet.*                                   # (default: true) EXPLODE Kinetic Attractor
-fe.protection.explode.thaumictinkerer.mob_magnet.*                               # (default: true) EXPLODE Corporeal Attractor
-fe.protection.explode.thaumictinkerer.nitor_vapor.*                              # (default: true) EXPLODE tile.thaumictinkerer:nitor_vapor.name
-fe.protection.explode.thaumictinkerer.osmotic_enchanter.*                        # (default: true) EXPLODE Osmotic Enchanter
-fe.protection.explode.thaumictinkerer.repairer.*                                 # (default: true) EXPLODE Thaumic Restorer
-fe.protection.explode.thaumictinkerer.transvector_dislocator.*                   # (default: true) EXPLODE tile.thaumictinkerer:transvector_dislocator.name
-fe.protection.explode.thaumictinkerer.transvector_interface.*                    # (default: true) EXPLODE Transvector Interface
 fe.protection.explode.twilightforest.aurora_block.*                              # (default: true) EXPLODE Aurora Block
 fe.protection.explode.twilightforest.aurora_pillar.*                             # (default: true) EXPLODE Aurora Pillar
 fe.protection.explode.twilightforest.aurora_slab.*                               # (default: true) EXPLODE Aurora Slab
@@ -3687,43 +3183,6 @@ fe.protection.interact.appliedenergistics2.spatial_pylon.*                      
 fe.protection.interact.appliedenergistics2.tiny_tnt.*                            # (default: true) INTERACT Tiny TNT
 fe.protection.interact.appliedenergistics2.vibration_chamber.*                   # (default: true) INTERACT Vibration Chamber
 fe.protection.interact.appliedenergistics2.wireless_access_point.*               # (default: true) INTERACT ME Wireless Access Point
-fe.protection.interact.bibliocraft.armorstand.*                                  # (default: true) INTERACT tile.BiblioCraft:ArmorStand.name
-fe.protection.interact.bibliocraft.bell.*                                        # (default: true) INTERACT Desk Bell
-fe.protection.interact.bibliocraft.bookcase.*                                    # (default: true) INTERACT tile.BiblioCraft:Bookcase.name
-fe.protection.interact.bibliocraft.bookcasecreative.*                            # (default: true) INTERACT tile.BiblioCraft:BookcaseCreative.name
-fe.protection.interact.bibliocraft.case.*                                        # (default: true) INTERACT tile.BiblioCraft:Case.name
-fe.protection.interact.bibliocraft.clipboard.*                                   # (default: true) INTERACT tile.BiblioCraft:Clipboard.name
-fe.protection.interact.bibliocraft.clock.*                                       # (default: true) INTERACT tile.BiblioCraft:Clock.name
-fe.protection.interact.bibliocraft.cookiejar.*                                   # (default: true) INTERACT Cookie Jar
-fe.protection.interact.bibliocraft.desk.*                                        # (default: true) INTERACT tile.BiblioCraft:Desk.name
-fe.protection.interact.bibliocraft.dinnerplate.*                                 # (default: true) INTERACT Dinner Plate
-fe.protection.interact.bibliocraft.discrack.*                                    # (default: true) INTERACT Disc Rack
-fe.protection.interact.bibliocraft.fancysign.*                                   # (default: true) INTERACT tile.BiblioCraft:FancySign.name
-fe.protection.interact.bibliocraft.fancyworkbench.*                              # (default: true) INTERACT tile.BiblioCraft:FancyWorkbench.name
-fe.protection.interact.bibliocraft.framedchest.*                                 # (default: true) INTERACT tile.BiblioCraft:FramedChest.name
-fe.protection.interact.bibliocraft.furniturepaneler.*                            # (default: true) INTERACT tile.BiblioCraft:FurniturePaneler.name
-fe.protection.interact.bibliocraft.label.*                                       # (default: true) INTERACT tile.BiblioCraft:Label.name
-fe.protection.interact.bibliocraft.lampgold.*                                    # (default: true) INTERACT tile.BiblioCraft:LampGold.name
-fe.protection.interact.bibliocraft.lampiron.*                                    # (default: true) INTERACT tile.BiblioCraft:LampIron.name
-fe.protection.interact.bibliocraft.lanterngold.*                                 # (default: true) INTERACT tile.BiblioCraft:LanternGold.name
-fe.protection.interact.bibliocraft.lanterniron.*                                 # (default: true) INTERACT tile.BiblioCraft:LanternIron.name
-fe.protection.interact.bibliocraft.mapframe.*                                    # (default: true) INTERACT tile.BiblioCraft:MapFrame.name
-fe.protection.interact.bibliocraft.markerpole.*                                  # (default: true) INTERACT tile.BiblioCraft:MarkerPole.name
-fe.protection.interact.bibliocraft.paintingframeborderless.*                     # (default: true) INTERACT tile.BiblioCraft:PaintingFrameBorderless.name
-fe.protection.interact.bibliocraft.paintingframefancy.*                          # (default: true) INTERACT tile.BiblioCraft:PaintingFrameFancy.name
-fe.protection.interact.bibliocraft.paintingframeflat.*                           # (default: true) INTERACT tile.BiblioCraft:PaintingFrameFlat.name
-fe.protection.interact.bibliocraft.paintingframemiddle.*                         # (default: true) INTERACT tile.BiblioCraft:PaintingFrameMiddle.name
-fe.protection.interact.bibliocraft.paintingframesimple.*                         # (default: true) INTERACT tile.BiblioCraft:PaintingFrameSimple.name
-fe.protection.interact.bibliocraft.paintingpress.*                               # (default: true) INTERACT Painting Press
-fe.protection.interact.bibliocraft.potionshelf.*                                 # (default: true) INTERACT tile.BiblioCraft:PotionShelf.name
-fe.protection.interact.bibliocraft.printingpress.*                               # (default: true) INTERACT Printing Press
-fe.protection.interact.bibliocraft.seat.*                                        # (default: true) INTERACT tile.BiblioCraft:Seat.name
-fe.protection.interact.bibliocraft.shelf.*                                       # (default: true) INTERACT tile.BiblioCraft:Shelf.name
-fe.protection.interact.bibliocraft.swordpedestal.*                               # (default: true) INTERACT tile.BiblioCraft:SwordPedestal.name
-fe.protection.interact.bibliocraft.table.*                                       # (default: true) INTERACT tile.BiblioCraft:Table.name
-fe.protection.interact.bibliocraft.toolrack.*                                    # (default: true) INTERACT tile.BiblioCraft:ToolRack.name
-fe.protection.interact.bibliocraft.typesettingtable.*                            # (default: true) INTERACT Typesetting Table
-fe.protection.interact.bibliocraft.typewriter.*                                  # (default: true) INTERACT tile.BiblioCraft:Typewriter.name
 fe.protection.interact.biomesoplenty.ash_block.*                                 # (default: true) INTERACT Ash Block
 fe.protection.interact.biomesoplenty.bamboo.*                                    # (default: true) INTERACT Bamboo
 fe.protection.interact.biomesoplenty.bamboo_thatching.*                          # (default: true) INTERACT Bamboo Thatching
@@ -3858,7 +3317,7 @@ fe.protection.interact.botania.altar.*                                          
 fe.protection.interact.botania.altgrass.*                                        # (default: true) INTERACT tile.altGrass.name
 fe.protection.interact.botania.animatedtorch.*                                   # (default: true) INTERACT tile.animatedTorch.name
 fe.protection.interact.botania.avatar.*                                          # (default: true) INTERACT tile.avatar.name
-fe.protection.interact.botania.bellows.*                                         # (default: true) INTERACT Arcane Bellows
+fe.protection.interact.botania.bellows.*                                         # (default: true) INTERACT tile.bellows.name
 fe.protection.interact.botania.bifrost.*                                         # (default: true) INTERACT tile.bifrost.name
 fe.protection.interact.botania.bifrostperm.*                                     # (default: true) INTERACT tile.bifrostPerm.name
 fe.protection.interact.botania.bifrostpermpane.*                                 # (default: true) INTERACT tile.bifrostPermPane.name
@@ -4329,7 +3788,6 @@ fe.protection.interact.customnpcs.npcscripted.*                                 
 fe.protection.interact.customnpcs.npcscripteddoor.*                              # (default: true) INTERACT item.npcscripteddoor.name
 fe.protection.interact.customnpcs.npcwaypoint.*                                  # (default: true) INTERACT Location Quest Block
 fe.protection.interact.entity                                                    # (default: true) Allow interacting with entities (villagers, dogs, horses)
-fe.protection.interact.gravestone.gravestone.*                                   # (default: true) INTERACT Air
 fe.protection.interact.harvestcraft.almond_sapling.*                             # (default: true) INTERACT Almond Sapling
 fe.protection.interact.harvestcraft.apiary.*                                     # (default: true) INTERACT Apiary
 fe.protection.interact.harvestcraft.apple_sapling.*                              # (default: true) INTERACT Apple Sapling
@@ -4599,7 +4057,7 @@ fe.protection.interact.minecraft.acacia_stairs.*                                
 fe.protection.interact.minecraft.activator_rail.*                                # (default: true) INTERACT Activator Rail
 fe.protection.interact.minecraft.air.*                                           # (default: true) INTERACT Air
 fe.protection.interact.minecraft.anvil.*                                         # (default: true) INTERACT Anvil
-fe.protection.interact.minecraft.barrier.*                                       # (default: true) INTERACT Warding Aura
+fe.protection.interact.minecraft.barrier.*                                       # (default: true) INTERACT Barrier
 fe.protection.interact.minecraft.beacon.*                                        # (default: true) INTERACT Beacon
 fe.protection.interact.minecraft.bed.*                                           # (default: true) INTERACT tile.bed.name
 fe.protection.interact.minecraft.bedrock.*                                       # (default: true) INTERACT Bedrock
@@ -4856,8 +4314,6 @@ fe.protection.interact.pewter.molten_elementium.*                               
 fe.protection.interact.pewter.molten_manasteel.*                                 # (default: true) INTERACT Molten Manasteel
 fe.protection.interact.pewter.molten_osmium.*                                    # (default: true) INTERACT Molten Osmium
 fe.protection.interact.pewter.molten_terrasteel.*                                # (default: true) INTERACT Molten Terrasteel
-fe.protection.interact.pewter.molten_thaumium.*                                  # (default: true) INTERACT Molten Thaumium
-fe.protection.interact.pewter.molten_voidmetal.*                                 # (default: true) INTERACT Molten Void Metal
 fe.protection.interact.pewter.pewterfluid.*                                      # (default: true) INTERACT fluid.other.name
 fe.protection.interact.tconstruct.blood.*                                        # (default: true) INTERACT fluid.blood.name
 fe.protection.interact.tconstruct.blueslime.*                                    # (default: true) INTERACT Liquid Blue Slime
@@ -4967,218 +4423,6 @@ fe.protection.interact.tconstruct.tooltables.*                                  
 fe.protection.interact.tconstruct.wood_rail.*                                    # (default: true) INTERACT Wooden Rail
 fe.protection.interact.tconstruct.wood_rail_trapdoor.*                           # (default: true) INTERACT Wooden Rail with a Trapdoor
 fe.protection.interact.tconstruct.wooden_hopper.*                                # (default: true) INTERACT Wooden Hopper
-fe.protection.interact.thaumcraft.activator_rail.*                               # (default: true) INTERACT Arcane Activator Rail
-fe.protection.interact.thaumcraft.alembic.*                                      # (default: true) INTERACT Arcane Alembic
-fe.protection.interact.thaumcraft.amber_block.*                                  # (default: true) INTERACT Amber Block
-fe.protection.interact.thaumcraft.amber_brick.*                                  # (default: true) INTERACT Amber Bricks
-fe.protection.interact.thaumcraft.arcane_ear.*                                   # (default: true) INTERACT Arcane Ear
-fe.protection.interact.thaumcraft.arcane_ear_toggle.*                            # (default: true) INTERACT Arcane Ear (Toggle)
-fe.protection.interact.thaumcraft.arcane_workbench.*                             # (default: true) INTERACT Arcane Workbench
-fe.protection.interact.thaumcraft.arcane_workbench_charger.*                     # (default: true) INTERACT Workbench Charger
-fe.protection.interact.thaumcraft.banner_black.*                                 # (default: true) INTERACT Black Banner
-fe.protection.interact.thaumcraft.banner_blue.*                                  # (default: true) INTERACT Blue Banner
-fe.protection.interact.thaumcraft.banner_brown.*                                 # (default: true) INTERACT Brown Banner
-fe.protection.interact.thaumcraft.banner_crimson_cult.*                          # (default: true) INTERACT Crimson Cult Banner
-fe.protection.interact.thaumcraft.banner_cyan.*                                  # (default: true) INTERACT Cyan Banner
-fe.protection.interact.thaumcraft.banner_gray.*                                  # (default: true) INTERACT Gray Banner
-fe.protection.interact.thaumcraft.banner_green.*                                 # (default: true) INTERACT Green Banner
-fe.protection.interact.thaumcraft.banner_lightblue.*                             # (default: true) INTERACT Light Blue Banner
-fe.protection.interact.thaumcraft.banner_lime.*                                  # (default: true) INTERACT Lime Banner
-fe.protection.interact.thaumcraft.banner_magenta.*                               # (default: true) INTERACT Magenta Banner
-fe.protection.interact.thaumcraft.banner_orange.*                                # (default: true) INTERACT Orange Banner
-fe.protection.interact.thaumcraft.banner_pink.*                                  # (default: true) INTERACT Pink Banner
-fe.protection.interact.thaumcraft.banner_purple.*                                # (default: true) INTERACT Purple Banner
-fe.protection.interact.thaumcraft.banner_red.*                                   # (default: true) INTERACT Red Banner
-fe.protection.interact.thaumcraft.banner_silver.*                                # (default: true) INTERACT Light Gray Banner
-fe.protection.interact.thaumcraft.banner_white.*                                 # (default: true) INTERACT White Banner
-fe.protection.interact.thaumcraft.banner_yellow.*                                # (default: true) INTERACT Yellow Banner
-fe.protection.interact.thaumcraft.barrier.*                                      # (default: true) INTERACT Warding Aura
-fe.protection.interact.thaumcraft.bellows.*                                      # (default: true) INTERACT Arcane Bellows
-fe.protection.interact.thaumcraft.brain_box.*                                    # (default: true) INTERACT Mnemonic Matrix
-fe.protection.interact.thaumcraft.candle_black.*                                 # (default: true) INTERACT Black Tallow Candle
-fe.protection.interact.thaumcraft.candle_blue.*                                  # (default: true) INTERACT Blue Tallow Candle
-fe.protection.interact.thaumcraft.candle_brown.*                                 # (default: true) INTERACT Brown Tallow Candle
-fe.protection.interact.thaumcraft.candle_cyan.*                                  # (default: true) INTERACT Cyan Tallow Candle
-fe.protection.interact.thaumcraft.candle_gray.*                                  # (default: true) INTERACT Gray Tallow Candle
-fe.protection.interact.thaumcraft.candle_green.*                                 # (default: true) INTERACT Green Tallow Candle
-fe.protection.interact.thaumcraft.candle_lightblue.*                             # (default: true) INTERACT Light Blue Tallow Candle
-fe.protection.interact.thaumcraft.candle_lime.*                                  # (default: true) INTERACT Lime Tallow Candle
-fe.protection.interact.thaumcraft.candle_magenta.*                               # (default: true) INTERACT Magenta Tallow Candle
-fe.protection.interact.thaumcraft.candle_orange.*                                # (default: true) INTERACT Orange Tallow Candle
-fe.protection.interact.thaumcraft.candle_pink.*                                  # (default: true) INTERACT Pink Tallow Candle
-fe.protection.interact.thaumcraft.candle_purple.*                                # (default: true) INTERACT Purple Tallow Candle
-fe.protection.interact.thaumcraft.candle_red.*                                   # (default: true) INTERACT Red Tallow Candle
-fe.protection.interact.thaumcraft.candle_silver.*                                # (default: true) INTERACT Light Gray Tallow Candle
-fe.protection.interact.thaumcraft.candle_white.*                                 # (default: true) INTERACT White Tallow Candle
-fe.protection.interact.thaumcraft.candle_yellow.*                                # (default: true) INTERACT Yellow Tallow Candle
-fe.protection.interact.thaumcraft.centrifuge.*                                   # (default: true) INTERACT Essentia Centrifuge
-fe.protection.interact.thaumcraft.cinderpearl.*                                  # (default: true) INTERACT Cinderpearl
-fe.protection.interact.thaumcraft.condenser.*                                    # (default: true) INTERACT Flux Condenser
-fe.protection.interact.thaumcraft.condenser_lattice.*                            # (default: true) INTERACT Flux Condenser Lattice
-fe.protection.interact.thaumcraft.condenser_lattice_dirty.*                      # (default: true) INTERACT Clogged Flux Condenser Lattice
-fe.protection.interact.thaumcraft.crucible.*                                     # (default: true) INTERACT Crucible
-fe.protection.interact.thaumcraft.crystal_aer.*                                  # (default: true) INTERACT Air Crystal
-fe.protection.interact.thaumcraft.crystal_aqua.*                                 # (default: true) INTERACT Water Crystal
-fe.protection.interact.thaumcraft.crystal_ignis.*                                # (default: true) INTERACT Fire Crystal
-fe.protection.interact.thaumcraft.crystal_ordo.*                                 # (default: true) INTERACT Order Crystal
-fe.protection.interact.thaumcraft.crystal_perditio.*                             # (default: true) INTERACT Entropy Crystal
-fe.protection.interact.thaumcraft.crystal_terra.*                                # (default: true) INTERACT Earth Crystal
-fe.protection.interact.thaumcraft.crystal_vitium.*                               # (default: true) INTERACT Flux Crystal
-fe.protection.interact.thaumcraft.dioptra.*                                      # (default: true) INTERACT Thaumic Dioptra
-fe.protection.interact.thaumcraft.effect_glimmer.*                               # (default: true) INTERACT Glimmer
-fe.protection.interact.thaumcraft.effect_sap.*                                   # (default: true) INTERACT Sapping Field
-fe.protection.interact.thaumcraft.effect_shock.*                                 # (default: true) INTERACT Static Field
-fe.protection.interact.thaumcraft.empty.*                                        # (default: true) INTERACT Empty Space
-fe.protection.interact.thaumcraft.essentia_input.*                               # (default: true) INTERACT Filling Essentia Transfuser
-fe.protection.interact.thaumcraft.essentia_output.*                              # (default: true) INTERACT Emptying Essentia Transfuser
-fe.protection.interact.thaumcraft.everfull_urn.*                                 # (default: true) INTERACT Everfull Urn
-fe.protection.interact.thaumcraft.flesh_block.*                                  # (default: true) INTERACT Block of Flesh
-fe.protection.interact.thaumcraft.flux_goo.*                                     # (default: true) INTERACT Flux Goo
-fe.protection.interact.thaumcraft.golem_builder.*                                # (default: true) INTERACT Golem Press
-fe.protection.interact.thaumcraft.grass_ambient.*                                # (default: true) INTERACT Ambient Grass Block
-fe.protection.interact.thaumcraft.hole.*                                         # (default: true) INTERACT Dimensional Tear
-fe.protection.interact.thaumcraft.hungry_chest.*                                 # (default: true) INTERACT Hungry Chest
-fe.protection.interact.thaumcraft.infernal_furnace.*                             # (default: true) INTERACT Infernal Furnace
-fe.protection.interact.thaumcraft.infusion_matrix.*                              # (default: true) INTERACT Runic Matrix
-fe.protection.interact.thaumcraft.inlay.*                                        # (default: true) INTERACT Redstone Inlay
-fe.protection.interact.thaumcraft.jar_brain.*                                    # (default: true) INTERACT Brain in a Jar
-fe.protection.interact.thaumcraft.jar_normal.*                                   # (default: true) INTERACT Warded Jar
-fe.protection.interact.thaumcraft.jar_void.*                                     # (default: true) INTERACT Void Jar
-fe.protection.interact.thaumcraft.lamp_arcane.*                                  # (default: true) INTERACT Arcane Lamp
-fe.protection.interact.thaumcraft.lamp_fertility.*                               # (default: true) INTERACT Lamp of Fertility
-fe.protection.interact.thaumcraft.lamp_growth.*                                  # (default: true) INTERACT Lamp of Growth  
-fe.protection.interact.thaumcraft.leaves_greatwood.*                             # (default: true) INTERACT Greatwood Leaves
-fe.protection.interact.thaumcraft.leaves_silverwood.*                            # (default: true) INTERACT Silverwood Leaves
-fe.protection.interact.thaumcraft.levitator.*                                    # (default: true) INTERACT Arcane Levitator
-fe.protection.interact.thaumcraft.liquid_death.*                                 # (default: true) INTERACT Liquid Death
-fe.protection.interact.thaumcraft.log_greatwood.*                                # (default: true) INTERACT Greatwood Log
-fe.protection.interact.thaumcraft.log_silverwood.*                               # (default: true) INTERACT Silverwood Log
-fe.protection.interact.thaumcraft.loot_crate_common.*                            # (default: true) INTERACT Common Crate
-fe.protection.interact.thaumcraft.loot_crate_rare.*                              # (default: true) INTERACT Rare Crate
-fe.protection.interact.thaumcraft.loot_crate_uncommon.*                          # (default: true) INTERACT Uncommon Crate
-fe.protection.interact.thaumcraft.loot_urn_common.*                              # (default: true) INTERACT Common Urn
-fe.protection.interact.thaumcraft.loot_urn_rare.*                                # (default: true) INTERACT Rare Urn
-fe.protection.interact.thaumcraft.loot_urn_uncommon.*                            # (default: true) INTERACT Uncommon Urn
-fe.protection.interact.thaumcraft.matrix_cost.*                                  # (default: true) INTERACT Infusion Cost Stone
-fe.protection.interact.thaumcraft.matrix_speed.*                                 # (default: true) INTERACT Infusion Speed Stone
-fe.protection.interact.thaumcraft.metal_alchemical.*                             # (default: true) INTERACT Alchemical Construct
-fe.protection.interact.thaumcraft.metal_alchemical_advanced.*                    # (default: true) INTERACT Advanced Alchemical Construct
-fe.protection.interact.thaumcraft.metal_brass.*                                  # (default: true) INTERACT Brass Block
-fe.protection.interact.thaumcraft.metal_thaumium.*                               # (default: true) INTERACT Thaumium Block
-fe.protection.interact.thaumcraft.metal_void.*                                   # (default: true) INTERACT Void Metal Block
-fe.protection.interact.thaumcraft.mirror.*                                       # (default: true) INTERACT Magic Mirror
-fe.protection.interact.thaumcraft.mirror_essentia.*                              # (default: true) INTERACT Essentia Mirror
-fe.protection.interact.thaumcraft.nitor_black.*                                  # (default: true) INTERACT Black Nitor
-fe.protection.interact.thaumcraft.nitor_blue.*                                   # (default: true) INTERACT Blue Nitor
-fe.protection.interact.thaumcraft.nitor_brown.*                                  # (default: true) INTERACT Brown Nitor
-fe.protection.interact.thaumcraft.nitor_cyan.*                                   # (default: true) INTERACT Cyan Nitor
-fe.protection.interact.thaumcraft.nitor_gray.*                                   # (default: true) INTERACT Gray Nitor
-fe.protection.interact.thaumcraft.nitor_green.*                                  # (default: true) INTERACT Green Nitor
-fe.protection.interact.thaumcraft.nitor_lightblue.*                              # (default: true) INTERACT Light Blue Nitor
-fe.protection.interact.thaumcraft.nitor_lime.*                                   # (default: true) INTERACT Lime Nitor
-fe.protection.interact.thaumcraft.nitor_magenta.*                                # (default: true) INTERACT Magenta Nitor
-fe.protection.interact.thaumcraft.nitor_orange.*                                 # (default: true) INTERACT Orange Nitor
-fe.protection.interact.thaumcraft.nitor_pink.*                                   # (default: true) INTERACT Pink Nitor
-fe.protection.interact.thaumcraft.nitor_purple.*                                 # (default: true) INTERACT Purple Nitor
-fe.protection.interact.thaumcraft.nitor_red.*                                    # (default: true) INTERACT Red Nitor
-fe.protection.interact.thaumcraft.nitor_silver.*                                 # (default: true) INTERACT Light Gray Nitor
-fe.protection.interact.thaumcraft.nitor_white.*                                  # (default: true) INTERACT White Nitor
-fe.protection.interact.thaumcraft.nitor_yellow.*                                 # (default: true) INTERACT Yellow Nitor
-fe.protection.interact.thaumcraft.ore_amber.*                                    # (default: true) INTERACT Amber Bearing Stone
-fe.protection.interact.thaumcraft.ore_cinnabar.*                                 # (default: true) INTERACT Cinnabar Ore
-fe.protection.interact.thaumcraft.ore_quartz.*                                   # (default: true) INTERACT Quartz Ore
-fe.protection.interact.thaumcraft.pattern_crafter.*                              # (default: true) INTERACT Arcane Pattern Crafter
-fe.protection.interact.thaumcraft.paving_stone_barrier.*                         # (default: true) INTERACT Barrier Stone
-fe.protection.interact.thaumcraft.paving_stone_travel.*                          # (default: true) INTERACT Paving Stone of Travel
-fe.protection.interact.thaumcraft.pedestal_ancient.*                             # (default: true) INTERACT Ancient Pedestal
-fe.protection.interact.thaumcraft.pedestal_arcane.*                              # (default: true) INTERACT Arcane Pedestal
-fe.protection.interact.thaumcraft.pedestal_eldritch.*                            # (default: true) INTERACT Eldritch Pedestal
-fe.protection.interact.thaumcraft.pillar_ancient.*                               # (default: true) INTERACT Ancient Infusion Pillar
-fe.protection.interact.thaumcraft.pillar_arcane.*                                # (default: true) INTERACT Infusion Pillar
-fe.protection.interact.thaumcraft.pillar_eldritch.*                              # (default: true) INTERACT Eldritch Infusion Pillar
-fe.protection.interact.thaumcraft.placeholder_anvil.*                            # (default: true) INTERACT Golem Press
-fe.protection.interact.thaumcraft.placeholder_bars.*                             # (default: true) INTERACT Golem Press
-fe.protection.interact.thaumcraft.placeholder_brick.*                            # (default: true) INTERACT Infernal Furnace
-fe.protection.interact.thaumcraft.placeholder_cauldron.*                         # (default: true) INTERACT Golem Press
-fe.protection.interact.thaumcraft.placeholder_obsidian.*                         # (default: true) INTERACT Infernal Furnace
-fe.protection.interact.thaumcraft.placeholder_table.*                            # (default: true) INTERACT Golem Press
-fe.protection.interact.thaumcraft.plank_greatwood.*                              # (default: true) INTERACT Greatwood Planks
-fe.protection.interact.thaumcraft.plank_silverwood.*                             # (default: true) INTERACT Silverwood Planks
-fe.protection.interact.thaumcraft.potion_sprayer.*                               # (default: true) INTERACT Potion Sprayer
-fe.protection.interact.thaumcraft.purifying_fluid.*                              # (default: true) INTERACT Purifying Fluid
-fe.protection.interact.thaumcraft.recharge_pedestal.*                            # (default: true) INTERACT Recharge Pedestal
-fe.protection.interact.thaumcraft.redstone_relay.*                               # (default: true) INTERACT Redstone Relay
-fe.protection.interact.thaumcraft.research_table.*                               # (default: true) INTERACT Research Table
-fe.protection.interact.thaumcraft.sapling_greatwood.*                            # (default: true) INTERACT Greatwood Sapling
-fe.protection.interact.thaumcraft.sapling_silverwood.*                           # (default: true) INTERACT Silverwood Sapling
-fe.protection.interact.thaumcraft.shimmerleaf.*                                  # (default: true) INTERACT Shimmerleaf
-fe.protection.interact.thaumcraft.slab_ancient.*                                 # (default: true) INTERACT Ancient Stone Slab
-fe.protection.interact.thaumcraft.slab_arcane_brick.*                            # (default: true) INTERACT Arcane Brick Slab
-fe.protection.interact.thaumcraft.slab_arcane_stone.*                            # (default: true) INTERACT Arcane Stone Slab
-fe.protection.interact.thaumcraft.slab_double_ancient.*                          # (default: true) INTERACT tile.slab_double_ancient.name
-fe.protection.interact.thaumcraft.slab_double_arcane_brick.*                     # (default: true) INTERACT tile.slab_double_arcane_brick.name
-fe.protection.interact.thaumcraft.slab_double_arcane_stone.*                     # (default: true) INTERACT tile.slab_double_arcane_stone.name
-fe.protection.interact.thaumcraft.slab_double_eldritch.*                         # (default: true) INTERACT tile.slab_double_eldritch.name
-fe.protection.interact.thaumcraft.slab_double_greatwood.*                        # (default: true) INTERACT tile.slab_double_greatwood.name
-fe.protection.interact.thaumcraft.slab_double_silverwood.*                       # (default: true) INTERACT tile.slab_double_silverwood.name
-fe.protection.interact.thaumcraft.slab_eldritch.*                                # (default: true) INTERACT Eldritch Stone Slab
-fe.protection.interact.thaumcraft.slab_greatwood.*                               # (default: true) INTERACT Greatwood Slab
-fe.protection.interact.thaumcraft.slab_silverwood.*                              # (default: true) INTERACT Silverwood Slab
-fe.protection.interact.thaumcraft.smelter_aux.*                                  # (default: true) INTERACT Auxiliary Slurry Pump
-fe.protection.interact.thaumcraft.smelter_basic.*                                # (default: true) INTERACT Essentia Smeltery
-fe.protection.interact.thaumcraft.smelter_thaumium.*                             # (default: true) INTERACT Thaumium Essentia Smeltery
-fe.protection.interact.thaumcraft.smelter_vent.*                                 # (default: true) INTERACT Auxiliary Venting Port
-fe.protection.interact.thaumcraft.smelter_void.*                                 # (default: true) INTERACT Void Metal Essentia Smeltery
-fe.protection.interact.thaumcraft.spa.*                                          # (default: true) INTERACT Arcane Spa
-fe.protection.interact.thaumcraft.stabilizer.*                                   # (default: true) INTERACT Stabilizer
-fe.protection.interact.thaumcraft.stairs_ancient.*                               # (default: true) INTERACT Ancient Stone Stairs
-fe.protection.interact.thaumcraft.stairs_arcane.*                                # (default: true) INTERACT Arcane Stone Stairs
-fe.protection.interact.thaumcraft.stairs_arcane_brick.*                          # (default: true) INTERACT Arcane Brick Stairs
-fe.protection.interact.thaumcraft.stairs_greatwood.*                             # (default: true) INTERACT Greatwood Stairs
-fe.protection.interact.thaumcraft.stairs_silverwood.*                            # (default: true) INTERACT Silverwood Stairs
-fe.protection.interact.thaumcraft.stone_ancient.*                                # (default: true) INTERACT Ancient Stone
-fe.protection.interact.thaumcraft.stone_ancient_doorway.*                        # (default: true) INTERACT Ancient Barrier
-fe.protection.interact.thaumcraft.stone_ancient_glyphed.*                        # (default: true) INTERACT Glyphed Stone
-fe.protection.interact.thaumcraft.stone_ancient_rock.*                           # (default: true) INTERACT Ancient Rock
-fe.protection.interact.thaumcraft.stone_ancient_tile.*                           # (default: true) INTERACT Ancient Stone Tile
-fe.protection.interact.thaumcraft.stone_arcane.*                                 # (default: true) INTERACT Arcane Stone
-fe.protection.interact.thaumcraft.stone_arcane_brick.*                           # (default: true) INTERACT Arcane Stone Brick
-fe.protection.interact.thaumcraft.stone_eldritch_tile.*                          # (default: true) INTERACT Eldritch Stone
-fe.protection.interact.thaumcraft.stone_porous.*                                 # (default: true) INTERACT Porous Stone
-fe.protection.interact.thaumcraft.table_stone.*                                  # (default: true) INTERACT Stone Table
-fe.protection.interact.thaumcraft.table_wood.*                                   # (default: true) INTERACT Wood Table
-fe.protection.interact.thaumcraft.taint_crust.*                                  # (default: true) INTERACT Crusted Taint
-fe.protection.interact.thaumcraft.taint_feature.*                                # (default: true) INTERACT Swollen Taint
-fe.protection.interact.thaumcraft.taint_fibre.*                                  # (default: true) INTERACT Fibrous Taint
-fe.protection.interact.thaumcraft.taint_geyser.*                                 # (default: true) INTERACT Taint Geyser
-fe.protection.interact.thaumcraft.taint_log.*                                    # (default: true) INTERACT Taintwood Log
-fe.protection.interact.thaumcraft.taint_rock.*                                   # (default: true) INTERACT Tainted Rock
-fe.protection.interact.thaumcraft.taint_soil.*                                   # (default: true) INTERACT Tainted Soil
-fe.protection.interact.thaumcraft.thaumatorium.*                                 # (default: true) INTERACT Thaumatorium
-fe.protection.interact.thaumcraft.thaumatorium_top.*                             # (default: true) INTERACT Thaumatorium
-fe.protection.interact.thaumcraft.tube.*                                         # (default: true) INTERACT Essentia Tube
-fe.protection.interact.thaumcraft.tube_buffer.*                                  # (default: true) INTERACT Essentia Buffer
-fe.protection.interact.thaumcraft.tube_filter.*                                  # (default: true) INTERACT Filtered Essentia Tube
-fe.protection.interact.thaumcraft.tube_oneway.*                                  # (default: true) INTERACT Directional Essentia Tube
-fe.protection.interact.thaumcraft.tube_restrict.*                                # (default: true) INTERACT Restricted Essentia Tube
-fe.protection.interact.thaumcraft.tube_valve.*                                   # (default: true) INTERACT Essentia Valve
-fe.protection.interact.thaumcraft.vis_battery.*                                  # (default: true) INTERACT Vis Battery
-fe.protection.interact.thaumcraft.vis_generator.*                                # (default: true) INTERACT Vis Generator
-fe.protection.interact.thaumcraft.vishroom.*                                     # (default: true) INTERACT Vishroom
-fe.protection.interact.thaumcraft.void_siphon.*                                  # (default: true) INTERACT Void Siphon
-fe.protection.interact.thaumcraft.wand_workbench.*                               # (default: true) INTERACT Focal Manipulator
-fe.protection.interact.thaumictinkerer.black_quartz_block.*                      # (default: true) INTERACT Black Quartz Block
-fe.protection.interact.thaumictinkerer.dissimulation.*                           # (default: true) INTERACT Dissimulation Block
-fe.protection.interact.thaumictinkerer.enchantment_pillar.*                      # (default: true) INTERACT Enchanting Pillar
-fe.protection.interact.thaumictinkerer.example.*                                 # (default: true) INTERACT Placeholder Block
-fe.protection.interact.thaumictinkerer.funnel.*                                  # (default: true) INTERACT Essentia Funnel
-fe.protection.interact.thaumictinkerer.magnet.*                                  # (default: true) INTERACT Kinetic Attractor
-fe.protection.interact.thaumictinkerer.mob_magnet.*                              # (default: true) INTERACT Corporeal Attractor
-fe.protection.interact.thaumictinkerer.nitor_vapor.*                             # (default: true) INTERACT tile.thaumictinkerer:nitor_vapor.name
-fe.protection.interact.thaumictinkerer.osmotic_enchanter.*                       # (default: true) INTERACT Osmotic Enchanter
-fe.protection.interact.thaumictinkerer.repairer.*                                # (default: true) INTERACT Thaumic Restorer
-fe.protection.interact.thaumictinkerer.transvector_dislocator.*                  # (default: true) INTERACT tile.thaumictinkerer:transvector_dislocator.name
-fe.protection.interact.thaumictinkerer.transvector_interface.*                   # (default: true) INTERACT Transvector Interface
 fe.protection.interact.twilightforest.aurora_block.*                             # (default: true) INTERACT Aurora Block
 fe.protection.interact.twilightforest.aurora_pillar.*                            # (default: true) INTERACT Aurora Pillar
 fe.protection.interact.twilightforest.aurora_slab.*                              # (default: true) INTERACT Aurora Slab
@@ -5442,43 +4686,6 @@ fe.protection.place.appliedenergistics2.spatial_pylon.*                         
 fe.protection.place.appliedenergistics2.tiny_tnt.*                               # (default: true) PLACE Tiny TNT
 fe.protection.place.appliedenergistics2.vibration_chamber.*                      # (default: true) PLACE Vibration Chamber
 fe.protection.place.appliedenergistics2.wireless_access_point.*                  # (default: true) PLACE ME Wireless Access Point
-fe.protection.place.bibliocraft.armorstand.*                                     # (default: true) PLACE tile.BiblioCraft:ArmorStand.name
-fe.protection.place.bibliocraft.bell.*                                           # (default: true) PLACE Desk Bell
-fe.protection.place.bibliocraft.bookcase.*                                       # (default: true) PLACE tile.BiblioCraft:Bookcase.name
-fe.protection.place.bibliocraft.bookcasecreative.*                               # (default: true) PLACE tile.BiblioCraft:BookcaseCreative.name
-fe.protection.place.bibliocraft.case.*                                           # (default: true) PLACE tile.BiblioCraft:Case.name
-fe.protection.place.bibliocraft.clipboard.*                                      # (default: true) PLACE tile.BiblioCraft:Clipboard.name
-fe.protection.place.bibliocraft.clock.*                                          # (default: true) PLACE tile.BiblioCraft:Clock.name
-fe.protection.place.bibliocraft.cookiejar.*                                      # (default: true) PLACE Cookie Jar
-fe.protection.place.bibliocraft.desk.*                                           # (default: true) PLACE tile.BiblioCraft:Desk.name
-fe.protection.place.bibliocraft.dinnerplate.*                                    # (default: true) PLACE Dinner Plate
-fe.protection.place.bibliocraft.discrack.*                                       # (default: true) PLACE Disc Rack
-fe.protection.place.bibliocraft.fancysign.*                                      # (default: true) PLACE tile.BiblioCraft:FancySign.name
-fe.protection.place.bibliocraft.fancyworkbench.*                                 # (default: true) PLACE tile.BiblioCraft:FancyWorkbench.name
-fe.protection.place.bibliocraft.framedchest.*                                    # (default: true) PLACE tile.BiblioCraft:FramedChest.name
-fe.protection.place.bibliocraft.furniturepaneler.*                               # (default: true) PLACE tile.BiblioCraft:FurniturePaneler.name
-fe.protection.place.bibliocraft.label.*                                          # (default: true) PLACE tile.BiblioCraft:Label.name
-fe.protection.place.bibliocraft.lampgold.*                                       # (default: true) PLACE tile.BiblioCraft:LampGold.name
-fe.protection.place.bibliocraft.lampiron.*                                       # (default: true) PLACE tile.BiblioCraft:LampIron.name
-fe.protection.place.bibliocraft.lanterngold.*                                    # (default: true) PLACE tile.BiblioCraft:LanternGold.name
-fe.protection.place.bibliocraft.lanterniron.*                                    # (default: true) PLACE tile.BiblioCraft:LanternIron.name
-fe.protection.place.bibliocraft.mapframe.*                                       # (default: true) PLACE tile.BiblioCraft:MapFrame.name
-fe.protection.place.bibliocraft.markerpole.*                                     # (default: true) PLACE tile.BiblioCraft:MarkerPole.name
-fe.protection.place.bibliocraft.paintingframeborderless.*                        # (default: true) PLACE tile.BiblioCraft:PaintingFrameBorderless.name
-fe.protection.place.bibliocraft.paintingframefancy.*                             # (default: true) PLACE tile.BiblioCraft:PaintingFrameFancy.name
-fe.protection.place.bibliocraft.paintingframeflat.*                              # (default: true) PLACE tile.BiblioCraft:PaintingFrameFlat.name
-fe.protection.place.bibliocraft.paintingframemiddle.*                            # (default: true) PLACE tile.BiblioCraft:PaintingFrameMiddle.name
-fe.protection.place.bibliocraft.paintingframesimple.*                            # (default: true) PLACE tile.BiblioCraft:PaintingFrameSimple.name
-fe.protection.place.bibliocraft.paintingpress.*                                  # (default: true) PLACE Painting Press
-fe.protection.place.bibliocraft.potionshelf.*                                    # (default: true) PLACE tile.BiblioCraft:PotionShelf.name
-fe.protection.place.bibliocraft.printingpress.*                                  # (default: true) PLACE Printing Press
-fe.protection.place.bibliocraft.seat.*                                           # (default: true) PLACE tile.BiblioCraft:Seat.name
-fe.protection.place.bibliocraft.shelf.*                                          # (default: true) PLACE tile.BiblioCraft:Shelf.name
-fe.protection.place.bibliocraft.swordpedestal.*                                  # (default: true) PLACE tile.BiblioCraft:SwordPedestal.name
-fe.protection.place.bibliocraft.table.*                                          # (default: true) PLACE tile.BiblioCraft:Table.name
-fe.protection.place.bibliocraft.toolrack.*                                       # (default: true) PLACE tile.BiblioCraft:ToolRack.name
-fe.protection.place.bibliocraft.typesettingtable.*                               # (default: true) PLACE Typesetting Table
-fe.protection.place.bibliocraft.typewriter.*                                     # (default: true) PLACE tile.BiblioCraft:Typewriter.name
 fe.protection.place.biomesoplenty.ash_block.*                                    # (default: true) PLACE Ash Block
 fe.protection.place.biomesoplenty.bamboo.*                                       # (default: true) PLACE Bamboo
 fe.protection.place.biomesoplenty.bamboo_thatching.*                             # (default: true) PLACE Bamboo Thatching
@@ -5613,7 +4820,7 @@ fe.protection.place.botania.altar.*                                             
 fe.protection.place.botania.altgrass.*                                           # (default: true) PLACE tile.altGrass.name
 fe.protection.place.botania.animatedtorch.*                                      # (default: true) PLACE tile.animatedTorch.name
 fe.protection.place.botania.avatar.*                                             # (default: true) PLACE tile.avatar.name
-fe.protection.place.botania.bellows.*                                            # (default: true) PLACE Arcane Bellows
+fe.protection.place.botania.bellows.*                                            # (default: true) PLACE tile.bellows.name
 fe.protection.place.botania.bifrost.*                                            # (default: true) PLACE tile.bifrost.name
 fe.protection.place.botania.bifrostperm.*                                        # (default: true) PLACE tile.bifrostPerm.name
 fe.protection.place.botania.bifrostpermpane.*                                    # (default: true) PLACE tile.bifrostPermPane.name
@@ -6083,7 +5290,6 @@ fe.protection.place.customnpcs.npcredstoneblock.*                               
 fe.protection.place.customnpcs.npcscripted.*                                     # (default: true) PLACE Scripted Block
 fe.protection.place.customnpcs.npcscripteddoor.*                                 # (default: true) PLACE item.npcscripteddoor.name
 fe.protection.place.customnpcs.npcwaypoint.*                                     # (default: true) PLACE Location Quest Block
-fe.protection.place.gravestone.gravestone.*                                      # (default: true) PLACE Air
 fe.protection.place.harvestcraft.almond_sapling.*                                # (default: true) PLACE Almond Sapling
 fe.protection.place.harvestcraft.apiary.*                                        # (default: true) PLACE Apiary
 fe.protection.place.harvestcraft.apple_sapling.*                                 # (default: true) PLACE Apple Sapling
@@ -6353,7 +5559,7 @@ fe.protection.place.minecraft.acacia_stairs.*                                   
 fe.protection.place.minecraft.activator_rail.*                                   # (default: true) PLACE Activator Rail
 fe.protection.place.minecraft.air.*                                              # (default: true) PLACE Air
 fe.protection.place.minecraft.anvil.*                                            # (default: true) PLACE Anvil
-fe.protection.place.minecraft.barrier.*                                          # (default: true) PLACE Warding Aura
+fe.protection.place.minecraft.barrier.*                                          # (default: true) PLACE Barrier
 fe.protection.place.minecraft.beacon.*                                           # (default: true) PLACE Beacon
 fe.protection.place.minecraft.bed.*                                              # (default: true) PLACE tile.bed.name
 fe.protection.place.minecraft.bedrock.*                                          # (default: true) PLACE Bedrock
@@ -6610,8 +5816,6 @@ fe.protection.place.pewter.molten_elementium.*                                  
 fe.protection.place.pewter.molten_manasteel.*                                    # (default: true) PLACE Molten Manasteel
 fe.protection.place.pewter.molten_osmium.*                                       # (default: true) PLACE Molten Osmium
 fe.protection.place.pewter.molten_terrasteel.*                                   # (default: true) PLACE Molten Terrasteel
-fe.protection.place.pewter.molten_thaumium.*                                     # (default: true) PLACE Molten Thaumium
-fe.protection.place.pewter.molten_voidmetal.*                                    # (default: true) PLACE Molten Void Metal
 fe.protection.place.pewter.pewterfluid.*                                         # (default: true) PLACE fluid.other.name
 fe.protection.place.tconstruct.blood.*                                           # (default: true) PLACE fluid.blood.name
 fe.protection.place.tconstruct.blueslime.*                                       # (default: true) PLACE Liquid Blue Slime
@@ -6721,218 +5925,6 @@ fe.protection.place.tconstruct.tooltables.*                                     
 fe.protection.place.tconstruct.wood_rail.*                                       # (default: true) PLACE Wooden Rail
 fe.protection.place.tconstruct.wood_rail_trapdoor.*                              # (default: true) PLACE Wooden Rail with a Trapdoor
 fe.protection.place.tconstruct.wooden_hopper.*                                   # (default: true) PLACE Wooden Hopper
-fe.protection.place.thaumcraft.activator_rail.*                                  # (default: true) PLACE Arcane Activator Rail
-fe.protection.place.thaumcraft.alembic.*                                         # (default: true) PLACE Arcane Alembic
-fe.protection.place.thaumcraft.amber_block.*                                     # (default: true) PLACE Amber Block
-fe.protection.place.thaumcraft.amber_brick.*                                     # (default: true) PLACE Amber Bricks
-fe.protection.place.thaumcraft.arcane_ear.*                                      # (default: true) PLACE Arcane Ear
-fe.protection.place.thaumcraft.arcane_ear_toggle.*                               # (default: true) PLACE Arcane Ear (Toggle)
-fe.protection.place.thaumcraft.arcane_workbench.*                                # (default: true) PLACE Arcane Workbench
-fe.protection.place.thaumcraft.arcane_workbench_charger.*                        # (default: true) PLACE Workbench Charger
-fe.protection.place.thaumcraft.banner_black.*                                    # (default: true) PLACE Black Banner
-fe.protection.place.thaumcraft.banner_blue.*                                     # (default: true) PLACE Blue Banner
-fe.protection.place.thaumcraft.banner_brown.*                                    # (default: true) PLACE Brown Banner
-fe.protection.place.thaumcraft.banner_crimson_cult.*                             # (default: true) PLACE Crimson Cult Banner
-fe.protection.place.thaumcraft.banner_cyan.*                                     # (default: true) PLACE Cyan Banner
-fe.protection.place.thaumcraft.banner_gray.*                                     # (default: true) PLACE Gray Banner
-fe.protection.place.thaumcraft.banner_green.*                                    # (default: true) PLACE Green Banner
-fe.protection.place.thaumcraft.banner_lightblue.*                                # (default: true) PLACE Light Blue Banner
-fe.protection.place.thaumcraft.banner_lime.*                                     # (default: true) PLACE Lime Banner
-fe.protection.place.thaumcraft.banner_magenta.*                                  # (default: true) PLACE Magenta Banner
-fe.protection.place.thaumcraft.banner_orange.*                                   # (default: true) PLACE Orange Banner
-fe.protection.place.thaumcraft.banner_pink.*                                     # (default: true) PLACE Pink Banner
-fe.protection.place.thaumcraft.banner_purple.*                                   # (default: true) PLACE Purple Banner
-fe.protection.place.thaumcraft.banner_red.*                                      # (default: true) PLACE Red Banner
-fe.protection.place.thaumcraft.banner_silver.*                                   # (default: true) PLACE Light Gray Banner
-fe.protection.place.thaumcraft.banner_white.*                                    # (default: true) PLACE White Banner
-fe.protection.place.thaumcraft.banner_yellow.*                                   # (default: true) PLACE Yellow Banner
-fe.protection.place.thaumcraft.barrier.*                                         # (default: true) PLACE Warding Aura
-fe.protection.place.thaumcraft.bellows.*                                         # (default: true) PLACE Arcane Bellows
-fe.protection.place.thaumcraft.brain_box.*                                       # (default: true) PLACE Mnemonic Matrix
-fe.protection.place.thaumcraft.candle_black.*                                    # (default: true) PLACE Black Tallow Candle
-fe.protection.place.thaumcraft.candle_blue.*                                     # (default: true) PLACE Blue Tallow Candle
-fe.protection.place.thaumcraft.candle_brown.*                                    # (default: true) PLACE Brown Tallow Candle
-fe.protection.place.thaumcraft.candle_cyan.*                                     # (default: true) PLACE Cyan Tallow Candle
-fe.protection.place.thaumcraft.candle_gray.*                                     # (default: true) PLACE Gray Tallow Candle
-fe.protection.place.thaumcraft.candle_green.*                                    # (default: true) PLACE Green Tallow Candle
-fe.protection.place.thaumcraft.candle_lightblue.*                                # (default: true) PLACE Light Blue Tallow Candle
-fe.protection.place.thaumcraft.candle_lime.*                                     # (default: true) PLACE Lime Tallow Candle
-fe.protection.place.thaumcraft.candle_magenta.*                                  # (default: true) PLACE Magenta Tallow Candle
-fe.protection.place.thaumcraft.candle_orange.*                                   # (default: true) PLACE Orange Tallow Candle
-fe.protection.place.thaumcraft.candle_pink.*                                     # (default: true) PLACE Pink Tallow Candle
-fe.protection.place.thaumcraft.candle_purple.*                                   # (default: true) PLACE Purple Tallow Candle
-fe.protection.place.thaumcraft.candle_red.*                                      # (default: true) PLACE Red Tallow Candle
-fe.protection.place.thaumcraft.candle_silver.*                                   # (default: true) PLACE Light Gray Tallow Candle
-fe.protection.place.thaumcraft.candle_white.*                                    # (default: true) PLACE White Tallow Candle
-fe.protection.place.thaumcraft.candle_yellow.*                                   # (default: true) PLACE Yellow Tallow Candle
-fe.protection.place.thaumcraft.centrifuge.*                                      # (default: true) PLACE Essentia Centrifuge
-fe.protection.place.thaumcraft.cinderpearl.*                                     # (default: true) PLACE Cinderpearl
-fe.protection.place.thaumcraft.condenser.*                                       # (default: true) PLACE Flux Condenser
-fe.protection.place.thaumcraft.condenser_lattice.*                               # (default: true) PLACE Flux Condenser Lattice
-fe.protection.place.thaumcraft.condenser_lattice_dirty.*                         # (default: true) PLACE Clogged Flux Condenser Lattice
-fe.protection.place.thaumcraft.crucible.*                                        # (default: true) PLACE Crucible
-fe.protection.place.thaumcraft.crystal_aer.*                                     # (default: true) PLACE Air Crystal
-fe.protection.place.thaumcraft.crystal_aqua.*                                    # (default: true) PLACE Water Crystal
-fe.protection.place.thaumcraft.crystal_ignis.*                                   # (default: true) PLACE Fire Crystal
-fe.protection.place.thaumcraft.crystal_ordo.*                                    # (default: true) PLACE Order Crystal
-fe.protection.place.thaumcraft.crystal_perditio.*                                # (default: true) PLACE Entropy Crystal
-fe.protection.place.thaumcraft.crystal_terra.*                                   # (default: true) PLACE Earth Crystal
-fe.protection.place.thaumcraft.crystal_vitium.*                                  # (default: true) PLACE Flux Crystal
-fe.protection.place.thaumcraft.dioptra.*                                         # (default: true) PLACE Thaumic Dioptra
-fe.protection.place.thaumcraft.effect_glimmer.*                                  # (default: true) PLACE Glimmer
-fe.protection.place.thaumcraft.effect_sap.*                                      # (default: true) PLACE Sapping Field
-fe.protection.place.thaumcraft.effect_shock.*                                    # (default: true) PLACE Static Field
-fe.protection.place.thaumcraft.empty.*                                           # (default: true) PLACE Empty Space
-fe.protection.place.thaumcraft.essentia_input.*                                  # (default: true) PLACE Filling Essentia Transfuser
-fe.protection.place.thaumcraft.essentia_output.*                                 # (default: true) PLACE Emptying Essentia Transfuser
-fe.protection.place.thaumcraft.everfull_urn.*                                    # (default: true) PLACE Everfull Urn
-fe.protection.place.thaumcraft.flesh_block.*                                     # (default: true) PLACE Block of Flesh
-fe.protection.place.thaumcraft.flux_goo.*                                        # (default: true) PLACE Flux Goo
-fe.protection.place.thaumcraft.golem_builder.*                                   # (default: true) PLACE Golem Press
-fe.protection.place.thaumcraft.grass_ambient.*                                   # (default: true) PLACE Ambient Grass Block
-fe.protection.place.thaumcraft.hole.*                                            # (default: true) PLACE Dimensional Tear
-fe.protection.place.thaumcraft.hungry_chest.*                                    # (default: true) PLACE Hungry Chest
-fe.protection.place.thaumcraft.infernal_furnace.*                                # (default: true) PLACE Infernal Furnace
-fe.protection.place.thaumcraft.infusion_matrix.*                                 # (default: true) PLACE Runic Matrix
-fe.protection.place.thaumcraft.inlay.*                                           # (default: true) PLACE Redstone Inlay
-fe.protection.place.thaumcraft.jar_brain.*                                       # (default: true) PLACE Brain in a Jar
-fe.protection.place.thaumcraft.jar_normal.*                                      # (default: true) PLACE Warded Jar
-fe.protection.place.thaumcraft.jar_void.*                                        # (default: true) PLACE Void Jar
-fe.protection.place.thaumcraft.lamp_arcane.*                                     # (default: true) PLACE Arcane Lamp
-fe.protection.place.thaumcraft.lamp_fertility.*                                  # (default: true) PLACE Lamp of Fertility
-fe.protection.place.thaumcraft.lamp_growth.*                                     # (default: true) PLACE Lamp of Growth  
-fe.protection.place.thaumcraft.leaves_greatwood.*                                # (default: true) PLACE Greatwood Leaves
-fe.protection.place.thaumcraft.leaves_silverwood.*                               # (default: true) PLACE Silverwood Leaves
-fe.protection.place.thaumcraft.levitator.*                                       # (default: true) PLACE Arcane Levitator
-fe.protection.place.thaumcraft.liquid_death.*                                    # (default: true) PLACE Liquid Death
-fe.protection.place.thaumcraft.log_greatwood.*                                   # (default: true) PLACE Greatwood Log
-fe.protection.place.thaumcraft.log_silverwood.*                                  # (default: true) PLACE Silverwood Log
-fe.protection.place.thaumcraft.loot_crate_common.*                               # (default: true) PLACE Common Crate
-fe.protection.place.thaumcraft.loot_crate_rare.*                                 # (default: true) PLACE Rare Crate
-fe.protection.place.thaumcraft.loot_crate_uncommon.*                             # (default: true) PLACE Uncommon Crate
-fe.protection.place.thaumcraft.loot_urn_common.*                                 # (default: true) PLACE Common Urn
-fe.protection.place.thaumcraft.loot_urn_rare.*                                   # (default: true) PLACE Rare Urn
-fe.protection.place.thaumcraft.loot_urn_uncommon.*                               # (default: true) PLACE Uncommon Urn
-fe.protection.place.thaumcraft.matrix_cost.*                                     # (default: true) PLACE Infusion Cost Stone
-fe.protection.place.thaumcraft.matrix_speed.*                                    # (default: true) PLACE Infusion Speed Stone
-fe.protection.place.thaumcraft.metal_alchemical.*                                # (default: true) PLACE Alchemical Construct
-fe.protection.place.thaumcraft.metal_alchemical_advanced.*                       # (default: true) PLACE Advanced Alchemical Construct
-fe.protection.place.thaumcraft.metal_brass.*                                     # (default: true) PLACE Brass Block
-fe.protection.place.thaumcraft.metal_thaumium.*                                  # (default: true) PLACE Thaumium Block
-fe.protection.place.thaumcraft.metal_void.*                                      # (default: true) PLACE Void Metal Block
-fe.protection.place.thaumcraft.mirror.*                                          # (default: true) PLACE Magic Mirror
-fe.protection.place.thaumcraft.mirror_essentia.*                                 # (default: true) PLACE Essentia Mirror
-fe.protection.place.thaumcraft.nitor_black.*                                     # (default: true) PLACE Black Nitor
-fe.protection.place.thaumcraft.nitor_blue.*                                      # (default: true) PLACE Blue Nitor
-fe.protection.place.thaumcraft.nitor_brown.*                                     # (default: true) PLACE Brown Nitor
-fe.protection.place.thaumcraft.nitor_cyan.*                                      # (default: true) PLACE Cyan Nitor
-fe.protection.place.thaumcraft.nitor_gray.*                                      # (default: true) PLACE Gray Nitor
-fe.protection.place.thaumcraft.nitor_green.*                                     # (default: true) PLACE Green Nitor
-fe.protection.place.thaumcraft.nitor_lightblue.*                                 # (default: true) PLACE Light Blue Nitor
-fe.protection.place.thaumcraft.nitor_lime.*                                      # (default: true) PLACE Lime Nitor
-fe.protection.place.thaumcraft.nitor_magenta.*                                   # (default: true) PLACE Magenta Nitor
-fe.protection.place.thaumcraft.nitor_orange.*                                    # (default: true) PLACE Orange Nitor
-fe.protection.place.thaumcraft.nitor_pink.*                                      # (default: true) PLACE Pink Nitor
-fe.protection.place.thaumcraft.nitor_purple.*                                    # (default: true) PLACE Purple Nitor
-fe.protection.place.thaumcraft.nitor_red.*                                       # (default: true) PLACE Red Nitor
-fe.protection.place.thaumcraft.nitor_silver.*                                    # (default: true) PLACE Light Gray Nitor
-fe.protection.place.thaumcraft.nitor_white.*                                     # (default: true) PLACE White Nitor
-fe.protection.place.thaumcraft.nitor_yellow.*                                    # (default: true) PLACE Yellow Nitor
-fe.protection.place.thaumcraft.ore_amber.*                                       # (default: true) PLACE Amber Bearing Stone
-fe.protection.place.thaumcraft.ore_cinnabar.*                                    # (default: true) PLACE Cinnabar Ore
-fe.protection.place.thaumcraft.ore_quartz.*                                      # (default: true) PLACE Quartz Ore
-fe.protection.place.thaumcraft.pattern_crafter.*                                 # (default: true) PLACE Arcane Pattern Crafter
-fe.protection.place.thaumcraft.paving_stone_barrier.*                            # (default: true) PLACE Barrier Stone
-fe.protection.place.thaumcraft.paving_stone_travel.*                             # (default: true) PLACE Paving Stone of Travel
-fe.protection.place.thaumcraft.pedestal_ancient.*                                # (default: true) PLACE Ancient Pedestal
-fe.protection.place.thaumcraft.pedestal_arcane.*                                 # (default: true) PLACE Arcane Pedestal
-fe.protection.place.thaumcraft.pedestal_eldritch.*                               # (default: true) PLACE Eldritch Pedestal
-fe.protection.place.thaumcraft.pillar_ancient.*                                  # (default: true) PLACE Ancient Infusion Pillar
-fe.protection.place.thaumcraft.pillar_arcane.*                                   # (default: true) PLACE Infusion Pillar
-fe.protection.place.thaumcraft.pillar_eldritch.*                                 # (default: true) PLACE Eldritch Infusion Pillar
-fe.protection.place.thaumcraft.placeholder_anvil.*                               # (default: true) PLACE Golem Press
-fe.protection.place.thaumcraft.placeholder_bars.*                                # (default: true) PLACE Golem Press
-fe.protection.place.thaumcraft.placeholder_brick.*                               # (default: true) PLACE Infernal Furnace
-fe.protection.place.thaumcraft.placeholder_cauldron.*                            # (default: true) PLACE Golem Press
-fe.protection.place.thaumcraft.placeholder_obsidian.*                            # (default: true) PLACE Infernal Furnace
-fe.protection.place.thaumcraft.placeholder_table.*                               # (default: true) PLACE Golem Press
-fe.protection.place.thaumcraft.plank_greatwood.*                                 # (default: true) PLACE Greatwood Planks
-fe.protection.place.thaumcraft.plank_silverwood.*                                # (default: true) PLACE Silverwood Planks
-fe.protection.place.thaumcraft.potion_sprayer.*                                  # (default: true) PLACE Potion Sprayer
-fe.protection.place.thaumcraft.purifying_fluid.*                                 # (default: true) PLACE Purifying Fluid
-fe.protection.place.thaumcraft.recharge_pedestal.*                               # (default: true) PLACE Recharge Pedestal
-fe.protection.place.thaumcraft.redstone_relay.*                                  # (default: true) PLACE Redstone Relay
-fe.protection.place.thaumcraft.research_table.*                                  # (default: true) PLACE Research Table
-fe.protection.place.thaumcraft.sapling_greatwood.*                               # (default: true) PLACE Greatwood Sapling
-fe.protection.place.thaumcraft.sapling_silverwood.*                              # (default: true) PLACE Silverwood Sapling
-fe.protection.place.thaumcraft.shimmerleaf.*                                     # (default: true) PLACE Shimmerleaf
-fe.protection.place.thaumcraft.slab_ancient.*                                    # (default: true) PLACE Ancient Stone Slab
-fe.protection.place.thaumcraft.slab_arcane_brick.*                               # (default: true) PLACE Arcane Brick Slab
-fe.protection.place.thaumcraft.slab_arcane_stone.*                               # (default: true) PLACE Arcane Stone Slab
-fe.protection.place.thaumcraft.slab_double_ancient.*                             # (default: true) PLACE tile.slab_double_ancient.name
-fe.protection.place.thaumcraft.slab_double_arcane_brick.*                        # (default: true) PLACE tile.slab_double_arcane_brick.name
-fe.protection.place.thaumcraft.slab_double_arcane_stone.*                        # (default: true) PLACE tile.slab_double_arcane_stone.name
-fe.protection.place.thaumcraft.slab_double_eldritch.*                            # (default: true) PLACE tile.slab_double_eldritch.name
-fe.protection.place.thaumcraft.slab_double_greatwood.*                           # (default: true) PLACE tile.slab_double_greatwood.name
-fe.protection.place.thaumcraft.slab_double_silverwood.*                          # (default: true) PLACE tile.slab_double_silverwood.name
-fe.protection.place.thaumcraft.slab_eldritch.*                                   # (default: true) PLACE Eldritch Stone Slab
-fe.protection.place.thaumcraft.slab_greatwood.*                                  # (default: true) PLACE Greatwood Slab
-fe.protection.place.thaumcraft.slab_silverwood.*                                 # (default: true) PLACE Silverwood Slab
-fe.protection.place.thaumcraft.smelter_aux.*                                     # (default: true) PLACE Auxiliary Slurry Pump
-fe.protection.place.thaumcraft.smelter_basic.*                                   # (default: true) PLACE Essentia Smeltery
-fe.protection.place.thaumcraft.smelter_thaumium.*                                # (default: true) PLACE Thaumium Essentia Smeltery
-fe.protection.place.thaumcraft.smelter_vent.*                                    # (default: true) PLACE Auxiliary Venting Port
-fe.protection.place.thaumcraft.smelter_void.*                                    # (default: true) PLACE Void Metal Essentia Smeltery
-fe.protection.place.thaumcraft.spa.*                                             # (default: true) PLACE Arcane Spa
-fe.protection.place.thaumcraft.stabilizer.*                                      # (default: true) PLACE Stabilizer
-fe.protection.place.thaumcraft.stairs_ancient.*                                  # (default: true) PLACE Ancient Stone Stairs
-fe.protection.place.thaumcraft.stairs_arcane.*                                   # (default: true) PLACE Arcane Stone Stairs
-fe.protection.place.thaumcraft.stairs_arcane_brick.*                             # (default: true) PLACE Arcane Brick Stairs
-fe.protection.place.thaumcraft.stairs_greatwood.*                                # (default: true) PLACE Greatwood Stairs
-fe.protection.place.thaumcraft.stairs_silverwood.*                               # (default: true) PLACE Silverwood Stairs
-fe.protection.place.thaumcraft.stone_ancient.*                                   # (default: true) PLACE Ancient Stone
-fe.protection.place.thaumcraft.stone_ancient_doorway.*                           # (default: true) PLACE Ancient Barrier
-fe.protection.place.thaumcraft.stone_ancient_glyphed.*                           # (default: true) PLACE Glyphed Stone
-fe.protection.place.thaumcraft.stone_ancient_rock.*                              # (default: true) PLACE Ancient Rock
-fe.protection.place.thaumcraft.stone_ancient_tile.*                              # (default: true) PLACE Ancient Stone Tile
-fe.protection.place.thaumcraft.stone_arcane.*                                    # (default: true) PLACE Arcane Stone
-fe.protection.place.thaumcraft.stone_arcane_brick.*                              # (default: true) PLACE Arcane Stone Brick
-fe.protection.place.thaumcraft.stone_eldritch_tile.*                             # (default: true) PLACE Eldritch Stone
-fe.protection.place.thaumcraft.stone_porous.*                                    # (default: true) PLACE Porous Stone
-fe.protection.place.thaumcraft.table_stone.*                                     # (default: true) PLACE Stone Table
-fe.protection.place.thaumcraft.table_wood.*                                      # (default: true) PLACE Wood Table
-fe.protection.place.thaumcraft.taint_crust.*                                     # (default: true) PLACE Crusted Taint
-fe.protection.place.thaumcraft.taint_feature.*                                   # (default: true) PLACE Swollen Taint
-fe.protection.place.thaumcraft.taint_fibre.*                                     # (default: true) PLACE Fibrous Taint
-fe.protection.place.thaumcraft.taint_geyser.*                                    # (default: true) PLACE Taint Geyser
-fe.protection.place.thaumcraft.taint_log.*                                       # (default: true) PLACE Taintwood Log
-fe.protection.place.thaumcraft.taint_rock.*                                      # (default: true) PLACE Tainted Rock
-fe.protection.place.thaumcraft.taint_soil.*                                      # (default: true) PLACE Tainted Soil
-fe.protection.place.thaumcraft.thaumatorium.*                                    # (default: true) PLACE Thaumatorium
-fe.protection.place.thaumcraft.thaumatorium_top.*                                # (default: true) PLACE Thaumatorium
-fe.protection.place.thaumcraft.tube.*                                            # (default: true) PLACE Essentia Tube
-fe.protection.place.thaumcraft.tube_buffer.*                                     # (default: true) PLACE Essentia Buffer
-fe.protection.place.thaumcraft.tube_filter.*                                     # (default: true) PLACE Filtered Essentia Tube
-fe.protection.place.thaumcraft.tube_oneway.*                                     # (default: true) PLACE Directional Essentia Tube
-fe.protection.place.thaumcraft.tube_restrict.*                                   # (default: true) PLACE Restricted Essentia Tube
-fe.protection.place.thaumcraft.tube_valve.*                                      # (default: true) PLACE Essentia Valve
-fe.protection.place.thaumcraft.vis_battery.*                                     # (default: true) PLACE Vis Battery
-fe.protection.place.thaumcraft.vis_generator.*                                   # (default: true) PLACE Vis Generator
-fe.protection.place.thaumcraft.vishroom.*                                        # (default: true) PLACE Vishroom
-fe.protection.place.thaumcraft.void_siphon.*                                     # (default: true) PLACE Void Siphon
-fe.protection.place.thaumcraft.wand_workbench.*                                  # (default: true) PLACE Focal Manipulator
-fe.protection.place.thaumictinkerer.black_quartz_block.*                         # (default: true) PLACE Black Quartz Block
-fe.protection.place.thaumictinkerer.dissimulation.*                              # (default: true) PLACE Dissimulation Block
-fe.protection.place.thaumictinkerer.enchantment_pillar.*                         # (default: true) PLACE Enchanting Pillar
-fe.protection.place.thaumictinkerer.example.*                                    # (default: true) PLACE Placeholder Block
-fe.protection.place.thaumictinkerer.funnel.*                                     # (default: true) PLACE Essentia Funnel
-fe.protection.place.thaumictinkerer.magnet.*                                     # (default: true) PLACE Kinetic Attractor
-fe.protection.place.thaumictinkerer.mob_magnet.*                                 # (default: true) PLACE Corporeal Attractor
-fe.protection.place.thaumictinkerer.nitor_vapor.*                                # (default: true) PLACE tile.thaumictinkerer:nitor_vapor.name
-fe.protection.place.thaumictinkerer.osmotic_enchanter.*                          # (default: true) PLACE Osmotic Enchanter
-fe.protection.place.thaumictinkerer.repairer.*                                   # (default: true) PLACE Thaumic Restorer
-fe.protection.place.thaumictinkerer.transvector_dislocator.*                     # (default: true) PLACE tile.thaumictinkerer:transvector_dislocator.name
-fe.protection.place.thaumictinkerer.transvector_interface.*                      # (default: true) PLACE Transvector Interface
 fe.protection.place.twilightforest.aurora_block.*                                # (default: true) PLACE Aurora Block
 fe.protection.place.twilightforest.aurora_pillar.*                               # (default: true) PLACE Aurora Pillar
 fe.protection.place.twilightforest.aurora_slab.*                                 # (default: true) PLACE Aurora Slab
@@ -7196,43 +6188,6 @@ fe.protection.trample.appliedenergistics2.spatial_pylon.*                       
 fe.protection.trample.appliedenergistics2.tiny_tnt.*                             # (default: true) PLACE Tiny TNT
 fe.protection.trample.appliedenergistics2.vibration_chamber.*                    # (default: true) PLACE Vibration Chamber
 fe.protection.trample.appliedenergistics2.wireless_access_point.*                # (default: true) PLACE ME Wireless Access Point
-fe.protection.trample.bibliocraft.armorstand.*                                   # (default: true) PLACE tile.BiblioCraft:ArmorStand.name
-fe.protection.trample.bibliocraft.bell.*                                         # (default: true) PLACE Desk Bell
-fe.protection.trample.bibliocraft.bookcase.*                                     # (default: true) PLACE tile.BiblioCraft:Bookcase.name
-fe.protection.trample.bibliocraft.bookcasecreative.*                             # (default: true) PLACE tile.BiblioCraft:BookcaseCreative.name
-fe.protection.trample.bibliocraft.case.*                                         # (default: true) PLACE tile.BiblioCraft:Case.name
-fe.protection.trample.bibliocraft.clipboard.*                                    # (default: true) PLACE tile.BiblioCraft:Clipboard.name
-fe.protection.trample.bibliocraft.clock.*                                        # (default: true) PLACE tile.BiblioCraft:Clock.name
-fe.protection.trample.bibliocraft.cookiejar.*                                    # (default: true) PLACE Cookie Jar
-fe.protection.trample.bibliocraft.desk.*                                         # (default: true) PLACE tile.BiblioCraft:Desk.name
-fe.protection.trample.bibliocraft.dinnerplate.*                                  # (default: true) PLACE Dinner Plate
-fe.protection.trample.bibliocraft.discrack.*                                     # (default: true) PLACE Disc Rack
-fe.protection.trample.bibliocraft.fancysign.*                                    # (default: true) PLACE tile.BiblioCraft:FancySign.name
-fe.protection.trample.bibliocraft.fancyworkbench.*                               # (default: true) PLACE tile.BiblioCraft:FancyWorkbench.name
-fe.protection.trample.bibliocraft.framedchest.*                                  # (default: true) PLACE tile.BiblioCraft:FramedChest.name
-fe.protection.trample.bibliocraft.furniturepaneler.*                             # (default: true) PLACE tile.BiblioCraft:FurniturePaneler.name
-fe.protection.trample.bibliocraft.label.*                                        # (default: true) PLACE tile.BiblioCraft:Label.name
-fe.protection.trample.bibliocraft.lampgold.*                                     # (default: true) PLACE tile.BiblioCraft:LampGold.name
-fe.protection.trample.bibliocraft.lampiron.*                                     # (default: true) PLACE tile.BiblioCraft:LampIron.name
-fe.protection.trample.bibliocraft.lanterngold.*                                  # (default: true) PLACE tile.BiblioCraft:LanternGold.name
-fe.protection.trample.bibliocraft.lanterniron.*                                  # (default: true) PLACE tile.BiblioCraft:LanternIron.name
-fe.protection.trample.bibliocraft.mapframe.*                                     # (default: true) PLACE tile.BiblioCraft:MapFrame.name
-fe.protection.trample.bibliocraft.markerpole.*                                   # (default: true) PLACE tile.BiblioCraft:MarkerPole.name
-fe.protection.trample.bibliocraft.paintingframeborderless.*                      # (default: true) PLACE tile.BiblioCraft:PaintingFrameBorderless.name
-fe.protection.trample.bibliocraft.paintingframefancy.*                           # (default: true) PLACE tile.BiblioCraft:PaintingFrameFancy.name
-fe.protection.trample.bibliocraft.paintingframeflat.*                            # (default: true) PLACE tile.BiblioCraft:PaintingFrameFlat.name
-fe.protection.trample.bibliocraft.paintingframemiddle.*                          # (default: true) PLACE tile.BiblioCraft:PaintingFrameMiddle.name
-fe.protection.trample.bibliocraft.paintingframesimple.*                          # (default: true) PLACE tile.BiblioCraft:PaintingFrameSimple.name
-fe.protection.trample.bibliocraft.paintingpress.*                                # (default: true) PLACE Painting Press
-fe.protection.trample.bibliocraft.potionshelf.*                                  # (default: true) PLACE tile.BiblioCraft:PotionShelf.name
-fe.protection.trample.bibliocraft.printingpress.*                                # (default: true) PLACE Printing Press
-fe.protection.trample.bibliocraft.seat.*                                         # (default: true) PLACE tile.BiblioCraft:Seat.name
-fe.protection.trample.bibliocraft.shelf.*                                        # (default: true) PLACE tile.BiblioCraft:Shelf.name
-fe.protection.trample.bibliocraft.swordpedestal.*                                # (default: true) PLACE tile.BiblioCraft:SwordPedestal.name
-fe.protection.trample.bibliocraft.table.*                                        # (default: true) PLACE tile.BiblioCraft:Table.name
-fe.protection.trample.bibliocraft.toolrack.*                                     # (default: true) PLACE tile.BiblioCraft:ToolRack.name
-fe.protection.trample.bibliocraft.typesettingtable.*                             # (default: true) PLACE Typesetting Table
-fe.protection.trample.bibliocraft.typewriter.*                                   # (default: true) PLACE tile.BiblioCraft:Typewriter.name
 fe.protection.trample.biomesoplenty.ash_block.*                                  # (default: true) PLACE Ash Block
 fe.protection.trample.biomesoplenty.bamboo.*                                     # (default: true) PLACE Bamboo
 fe.protection.trample.biomesoplenty.bamboo_thatching.*                           # (default: true) PLACE Bamboo Thatching
@@ -7367,7 +6322,7 @@ fe.protection.trample.botania.altar.*                                           
 fe.protection.trample.botania.altgrass.*                                         # (default: true) PLACE tile.altGrass.name
 fe.protection.trample.botania.animatedtorch.*                                    # (default: true) PLACE tile.animatedTorch.name
 fe.protection.trample.botania.avatar.*                                           # (default: true) PLACE tile.avatar.name
-fe.protection.trample.botania.bellows.*                                          # (default: true) PLACE Arcane Bellows
+fe.protection.trample.botania.bellows.*                                          # (default: true) PLACE tile.bellows.name
 fe.protection.trample.botania.bifrost.*                                          # (default: true) PLACE tile.bifrost.name
 fe.protection.trample.botania.bifrostperm.*                                      # (default: true) PLACE tile.bifrostPerm.name
 fe.protection.trample.botania.bifrostpermpane.*                                  # (default: true) PLACE tile.bifrostPermPane.name
@@ -7837,7 +6792,6 @@ fe.protection.trample.customnpcs.npcredstoneblock.*                             
 fe.protection.trample.customnpcs.npcscripted.*                                   # (default: true) PLACE Scripted Block
 fe.protection.trample.customnpcs.npcscripteddoor.*                               # (default: true) PLACE item.npcscripteddoor.name
 fe.protection.trample.customnpcs.npcwaypoint.*                                   # (default: true) PLACE Location Quest Block
-fe.protection.trample.gravestone.gravestone.*                                    # (default: true) PLACE Air
 fe.protection.trample.harvestcraft.almond_sapling.*                              # (default: true) PLACE Almond Sapling
 fe.protection.trample.harvestcraft.apiary.*                                      # (default: true) PLACE Apiary
 fe.protection.trample.harvestcraft.apple_sapling.*                               # (default: true) PLACE Apple Sapling
@@ -8107,7 +7061,7 @@ fe.protection.trample.minecraft.acacia_stairs.*                                 
 fe.protection.trample.minecraft.activator_rail.*                                 # (default: true) PLACE Activator Rail
 fe.protection.trample.minecraft.air.*                                            # (default: true) PLACE Air
 fe.protection.trample.minecraft.anvil.*                                          # (default: true) PLACE Anvil
-fe.protection.trample.minecraft.barrier.*                                        # (default: true) PLACE Warding Aura
+fe.protection.trample.minecraft.barrier.*                                        # (default: true) PLACE Barrier
 fe.protection.trample.minecraft.beacon.*                                         # (default: true) PLACE Beacon
 fe.protection.trample.minecraft.bed.*                                            # (default: true) PLACE tile.bed.name
 fe.protection.trample.minecraft.bedrock.*                                        # (default: true) PLACE Bedrock
@@ -8364,8 +7318,6 @@ fe.protection.trample.pewter.molten_elementium.*                                
 fe.protection.trample.pewter.molten_manasteel.*                                  # (default: true) PLACE Molten Manasteel
 fe.protection.trample.pewter.molten_osmium.*                                     # (default: true) PLACE Molten Osmium
 fe.protection.trample.pewter.molten_terrasteel.*                                 # (default: true) PLACE Molten Terrasteel
-fe.protection.trample.pewter.molten_thaumium.*                                   # (default: true) PLACE Molten Thaumium
-fe.protection.trample.pewter.molten_voidmetal.*                                  # (default: true) PLACE Molten Void Metal
 fe.protection.trample.pewter.pewterfluid.*                                       # (default: true) PLACE fluid.other.name
 fe.protection.trample.tconstruct.blood.*                                         # (default: true) PLACE fluid.blood.name
 fe.protection.trample.tconstruct.blueslime.*                                     # (default: true) PLACE Liquid Blue Slime
@@ -8475,218 +7427,6 @@ fe.protection.trample.tconstruct.tooltables.*                                   
 fe.protection.trample.tconstruct.wood_rail.*                                     # (default: true) PLACE Wooden Rail
 fe.protection.trample.tconstruct.wood_rail_trapdoor.*                            # (default: true) PLACE Wooden Rail with a Trapdoor
 fe.protection.trample.tconstruct.wooden_hopper.*                                 # (default: true) PLACE Wooden Hopper
-fe.protection.trample.thaumcraft.activator_rail.*                                # (default: true) PLACE Arcane Activator Rail
-fe.protection.trample.thaumcraft.alembic.*                                       # (default: true) PLACE Arcane Alembic
-fe.protection.trample.thaumcraft.amber_block.*                                   # (default: true) PLACE Amber Block
-fe.protection.trample.thaumcraft.amber_brick.*                                   # (default: true) PLACE Amber Bricks
-fe.protection.trample.thaumcraft.arcane_ear.*                                    # (default: true) PLACE Arcane Ear
-fe.protection.trample.thaumcraft.arcane_ear_toggle.*                             # (default: true) PLACE Arcane Ear (Toggle)
-fe.protection.trample.thaumcraft.arcane_workbench.*                              # (default: true) PLACE Arcane Workbench
-fe.protection.trample.thaumcraft.arcane_workbench_charger.*                      # (default: true) PLACE Workbench Charger
-fe.protection.trample.thaumcraft.banner_black.*                                  # (default: true) PLACE Black Banner
-fe.protection.trample.thaumcraft.banner_blue.*                                   # (default: true) PLACE Blue Banner
-fe.protection.trample.thaumcraft.banner_brown.*                                  # (default: true) PLACE Brown Banner
-fe.protection.trample.thaumcraft.banner_crimson_cult.*                           # (default: true) PLACE Crimson Cult Banner
-fe.protection.trample.thaumcraft.banner_cyan.*                                   # (default: true) PLACE Cyan Banner
-fe.protection.trample.thaumcraft.banner_gray.*                                   # (default: true) PLACE Gray Banner
-fe.protection.trample.thaumcraft.banner_green.*                                  # (default: true) PLACE Green Banner
-fe.protection.trample.thaumcraft.banner_lightblue.*                              # (default: true) PLACE Light Blue Banner
-fe.protection.trample.thaumcraft.banner_lime.*                                   # (default: true) PLACE Lime Banner
-fe.protection.trample.thaumcraft.banner_magenta.*                                # (default: true) PLACE Magenta Banner
-fe.protection.trample.thaumcraft.banner_orange.*                                 # (default: true) PLACE Orange Banner
-fe.protection.trample.thaumcraft.banner_pink.*                                   # (default: true) PLACE Pink Banner
-fe.protection.trample.thaumcraft.banner_purple.*                                 # (default: true) PLACE Purple Banner
-fe.protection.trample.thaumcraft.banner_red.*                                    # (default: true) PLACE Red Banner
-fe.protection.trample.thaumcraft.banner_silver.*                                 # (default: true) PLACE Light Gray Banner
-fe.protection.trample.thaumcraft.banner_white.*                                  # (default: true) PLACE White Banner
-fe.protection.trample.thaumcraft.banner_yellow.*                                 # (default: true) PLACE Yellow Banner
-fe.protection.trample.thaumcraft.barrier.*                                       # (default: true) PLACE Warding Aura
-fe.protection.trample.thaumcraft.bellows.*                                       # (default: true) PLACE Arcane Bellows
-fe.protection.trample.thaumcraft.brain_box.*                                     # (default: true) PLACE Mnemonic Matrix
-fe.protection.trample.thaumcraft.candle_black.*                                  # (default: true) PLACE Black Tallow Candle
-fe.protection.trample.thaumcraft.candle_blue.*                                   # (default: true) PLACE Blue Tallow Candle
-fe.protection.trample.thaumcraft.candle_brown.*                                  # (default: true) PLACE Brown Tallow Candle
-fe.protection.trample.thaumcraft.candle_cyan.*                                   # (default: true) PLACE Cyan Tallow Candle
-fe.protection.trample.thaumcraft.candle_gray.*                                   # (default: true) PLACE Gray Tallow Candle
-fe.protection.trample.thaumcraft.candle_green.*                                  # (default: true) PLACE Green Tallow Candle
-fe.protection.trample.thaumcraft.candle_lightblue.*                              # (default: true) PLACE Light Blue Tallow Candle
-fe.protection.trample.thaumcraft.candle_lime.*                                   # (default: true) PLACE Lime Tallow Candle
-fe.protection.trample.thaumcraft.candle_magenta.*                                # (default: true) PLACE Magenta Tallow Candle
-fe.protection.trample.thaumcraft.candle_orange.*                                 # (default: true) PLACE Orange Tallow Candle
-fe.protection.trample.thaumcraft.candle_pink.*                                   # (default: true) PLACE Pink Tallow Candle
-fe.protection.trample.thaumcraft.candle_purple.*                                 # (default: true) PLACE Purple Tallow Candle
-fe.protection.trample.thaumcraft.candle_red.*                                    # (default: true) PLACE Red Tallow Candle
-fe.protection.trample.thaumcraft.candle_silver.*                                 # (default: true) PLACE Light Gray Tallow Candle
-fe.protection.trample.thaumcraft.candle_white.*                                  # (default: true) PLACE White Tallow Candle
-fe.protection.trample.thaumcraft.candle_yellow.*                                 # (default: true) PLACE Yellow Tallow Candle
-fe.protection.trample.thaumcraft.centrifuge.*                                    # (default: true) PLACE Essentia Centrifuge
-fe.protection.trample.thaumcraft.cinderpearl.*                                   # (default: true) PLACE Cinderpearl
-fe.protection.trample.thaumcraft.condenser.*                                     # (default: true) PLACE Flux Condenser
-fe.protection.trample.thaumcraft.condenser_lattice.*                             # (default: true) PLACE Flux Condenser Lattice
-fe.protection.trample.thaumcraft.condenser_lattice_dirty.*                       # (default: true) PLACE Clogged Flux Condenser Lattice
-fe.protection.trample.thaumcraft.crucible.*                                      # (default: true) PLACE Crucible
-fe.protection.trample.thaumcraft.crystal_aer.*                                   # (default: true) PLACE Air Crystal
-fe.protection.trample.thaumcraft.crystal_aqua.*                                  # (default: true) PLACE Water Crystal
-fe.protection.trample.thaumcraft.crystal_ignis.*                                 # (default: true) PLACE Fire Crystal
-fe.protection.trample.thaumcraft.crystal_ordo.*                                  # (default: true) PLACE Order Crystal
-fe.protection.trample.thaumcraft.crystal_perditio.*                              # (default: true) PLACE Entropy Crystal
-fe.protection.trample.thaumcraft.crystal_terra.*                                 # (default: true) PLACE Earth Crystal
-fe.protection.trample.thaumcraft.crystal_vitium.*                                # (default: true) PLACE Flux Crystal
-fe.protection.trample.thaumcraft.dioptra.*                                       # (default: true) PLACE Thaumic Dioptra
-fe.protection.trample.thaumcraft.effect_glimmer.*                                # (default: true) PLACE Glimmer
-fe.protection.trample.thaumcraft.effect_sap.*                                    # (default: true) PLACE Sapping Field
-fe.protection.trample.thaumcraft.effect_shock.*                                  # (default: true) PLACE Static Field
-fe.protection.trample.thaumcraft.empty.*                                         # (default: true) PLACE Empty Space
-fe.protection.trample.thaumcraft.essentia_input.*                                # (default: true) PLACE Filling Essentia Transfuser
-fe.protection.trample.thaumcraft.essentia_output.*                               # (default: true) PLACE Emptying Essentia Transfuser
-fe.protection.trample.thaumcraft.everfull_urn.*                                  # (default: true) PLACE Everfull Urn
-fe.protection.trample.thaumcraft.flesh_block.*                                   # (default: true) PLACE Block of Flesh
-fe.protection.trample.thaumcraft.flux_goo.*                                      # (default: true) PLACE Flux Goo
-fe.protection.trample.thaumcraft.golem_builder.*                                 # (default: true) PLACE Golem Press
-fe.protection.trample.thaumcraft.grass_ambient.*                                 # (default: true) PLACE Ambient Grass Block
-fe.protection.trample.thaumcraft.hole.*                                          # (default: true) PLACE Dimensional Tear
-fe.protection.trample.thaumcraft.hungry_chest.*                                  # (default: true) PLACE Hungry Chest
-fe.protection.trample.thaumcraft.infernal_furnace.*                              # (default: true) PLACE Infernal Furnace
-fe.protection.trample.thaumcraft.infusion_matrix.*                               # (default: true) PLACE Runic Matrix
-fe.protection.trample.thaumcraft.inlay.*                                         # (default: true) PLACE Redstone Inlay
-fe.protection.trample.thaumcraft.jar_brain.*                                     # (default: true) PLACE Brain in a Jar
-fe.protection.trample.thaumcraft.jar_normal.*                                    # (default: true) PLACE Warded Jar
-fe.protection.trample.thaumcraft.jar_void.*                                      # (default: true) PLACE Void Jar
-fe.protection.trample.thaumcraft.lamp_arcane.*                                   # (default: true) PLACE Arcane Lamp
-fe.protection.trample.thaumcraft.lamp_fertility.*                                # (default: true) PLACE Lamp of Fertility
-fe.protection.trample.thaumcraft.lamp_growth.*                                   # (default: true) PLACE Lamp of Growth  
-fe.protection.trample.thaumcraft.leaves_greatwood.*                              # (default: true) PLACE Greatwood Leaves
-fe.protection.trample.thaumcraft.leaves_silverwood.*                             # (default: true) PLACE Silverwood Leaves
-fe.protection.trample.thaumcraft.levitator.*                                     # (default: true) PLACE Arcane Levitator
-fe.protection.trample.thaumcraft.liquid_death.*                                  # (default: true) PLACE Liquid Death
-fe.protection.trample.thaumcraft.log_greatwood.*                                 # (default: true) PLACE Greatwood Log
-fe.protection.trample.thaumcraft.log_silverwood.*                                # (default: true) PLACE Silverwood Log
-fe.protection.trample.thaumcraft.loot_crate_common.*                             # (default: true) PLACE Common Crate
-fe.protection.trample.thaumcraft.loot_crate_rare.*                               # (default: true) PLACE Rare Crate
-fe.protection.trample.thaumcraft.loot_crate_uncommon.*                           # (default: true) PLACE Uncommon Crate
-fe.protection.trample.thaumcraft.loot_urn_common.*                               # (default: true) PLACE Common Urn
-fe.protection.trample.thaumcraft.loot_urn_rare.*                                 # (default: true) PLACE Rare Urn
-fe.protection.trample.thaumcraft.loot_urn_uncommon.*                             # (default: true) PLACE Uncommon Urn
-fe.protection.trample.thaumcraft.matrix_cost.*                                   # (default: true) PLACE Infusion Cost Stone
-fe.protection.trample.thaumcraft.matrix_speed.*                                  # (default: true) PLACE Infusion Speed Stone
-fe.protection.trample.thaumcraft.metal_alchemical.*                              # (default: true) PLACE Alchemical Construct
-fe.protection.trample.thaumcraft.metal_alchemical_advanced.*                     # (default: true) PLACE Advanced Alchemical Construct
-fe.protection.trample.thaumcraft.metal_brass.*                                   # (default: true) PLACE Brass Block
-fe.protection.trample.thaumcraft.metal_thaumium.*                                # (default: true) PLACE Thaumium Block
-fe.protection.trample.thaumcraft.metal_void.*                                    # (default: true) PLACE Void Metal Block
-fe.protection.trample.thaumcraft.mirror.*                                        # (default: true) PLACE Magic Mirror
-fe.protection.trample.thaumcraft.mirror_essentia.*                               # (default: true) PLACE Essentia Mirror
-fe.protection.trample.thaumcraft.nitor_black.*                                   # (default: true) PLACE Black Nitor
-fe.protection.trample.thaumcraft.nitor_blue.*                                    # (default: true) PLACE Blue Nitor
-fe.protection.trample.thaumcraft.nitor_brown.*                                   # (default: true) PLACE Brown Nitor
-fe.protection.trample.thaumcraft.nitor_cyan.*                                    # (default: true) PLACE Cyan Nitor
-fe.protection.trample.thaumcraft.nitor_gray.*                                    # (default: true) PLACE Gray Nitor
-fe.protection.trample.thaumcraft.nitor_green.*                                   # (default: true) PLACE Green Nitor
-fe.protection.trample.thaumcraft.nitor_lightblue.*                               # (default: true) PLACE Light Blue Nitor
-fe.protection.trample.thaumcraft.nitor_lime.*                                    # (default: true) PLACE Lime Nitor
-fe.protection.trample.thaumcraft.nitor_magenta.*                                 # (default: true) PLACE Magenta Nitor
-fe.protection.trample.thaumcraft.nitor_orange.*                                  # (default: true) PLACE Orange Nitor
-fe.protection.trample.thaumcraft.nitor_pink.*                                    # (default: true) PLACE Pink Nitor
-fe.protection.trample.thaumcraft.nitor_purple.*                                  # (default: true) PLACE Purple Nitor
-fe.protection.trample.thaumcraft.nitor_red.*                                     # (default: true) PLACE Red Nitor
-fe.protection.trample.thaumcraft.nitor_silver.*                                  # (default: true) PLACE Light Gray Nitor
-fe.protection.trample.thaumcraft.nitor_white.*                                   # (default: true) PLACE White Nitor
-fe.protection.trample.thaumcraft.nitor_yellow.*                                  # (default: true) PLACE Yellow Nitor
-fe.protection.trample.thaumcraft.ore_amber.*                                     # (default: true) PLACE Amber Bearing Stone
-fe.protection.trample.thaumcraft.ore_cinnabar.*                                  # (default: true) PLACE Cinnabar Ore
-fe.protection.trample.thaumcraft.ore_quartz.*                                    # (default: true) PLACE Quartz Ore
-fe.protection.trample.thaumcraft.pattern_crafter.*                               # (default: true) PLACE Arcane Pattern Crafter
-fe.protection.trample.thaumcraft.paving_stone_barrier.*                          # (default: true) PLACE Barrier Stone
-fe.protection.trample.thaumcraft.paving_stone_travel.*                           # (default: true) PLACE Paving Stone of Travel
-fe.protection.trample.thaumcraft.pedestal_ancient.*                              # (default: true) PLACE Ancient Pedestal
-fe.protection.trample.thaumcraft.pedestal_arcane.*                               # (default: true) PLACE Arcane Pedestal
-fe.protection.trample.thaumcraft.pedestal_eldritch.*                             # (default: true) PLACE Eldritch Pedestal
-fe.protection.trample.thaumcraft.pillar_ancient.*                                # (default: true) PLACE Ancient Infusion Pillar
-fe.protection.trample.thaumcraft.pillar_arcane.*                                 # (default: true) PLACE Infusion Pillar
-fe.protection.trample.thaumcraft.pillar_eldritch.*                               # (default: true) PLACE Eldritch Infusion Pillar
-fe.protection.trample.thaumcraft.placeholder_anvil.*                             # (default: true) PLACE Golem Press
-fe.protection.trample.thaumcraft.placeholder_bars.*                              # (default: true) PLACE Golem Press
-fe.protection.trample.thaumcraft.placeholder_brick.*                             # (default: true) PLACE Infernal Furnace
-fe.protection.trample.thaumcraft.placeholder_cauldron.*                          # (default: true) PLACE Golem Press
-fe.protection.trample.thaumcraft.placeholder_obsidian.*                          # (default: true) PLACE Infernal Furnace
-fe.protection.trample.thaumcraft.placeholder_table.*                             # (default: true) PLACE Golem Press
-fe.protection.trample.thaumcraft.plank_greatwood.*                               # (default: true) PLACE Greatwood Planks
-fe.protection.trample.thaumcraft.plank_silverwood.*                              # (default: true) PLACE Silverwood Planks
-fe.protection.trample.thaumcraft.potion_sprayer.*                                # (default: true) PLACE Potion Sprayer
-fe.protection.trample.thaumcraft.purifying_fluid.*                               # (default: true) PLACE Purifying Fluid
-fe.protection.trample.thaumcraft.recharge_pedestal.*                             # (default: true) PLACE Recharge Pedestal
-fe.protection.trample.thaumcraft.redstone_relay.*                                # (default: true) PLACE Redstone Relay
-fe.protection.trample.thaumcraft.research_table.*                                # (default: true) PLACE Research Table
-fe.protection.trample.thaumcraft.sapling_greatwood.*                             # (default: true) PLACE Greatwood Sapling
-fe.protection.trample.thaumcraft.sapling_silverwood.*                            # (default: true) PLACE Silverwood Sapling
-fe.protection.trample.thaumcraft.shimmerleaf.*                                   # (default: true) PLACE Shimmerleaf
-fe.protection.trample.thaumcraft.slab_ancient.*                                  # (default: true) PLACE Ancient Stone Slab
-fe.protection.trample.thaumcraft.slab_arcane_brick.*                             # (default: true) PLACE Arcane Brick Slab
-fe.protection.trample.thaumcraft.slab_arcane_stone.*                             # (default: true) PLACE Arcane Stone Slab
-fe.protection.trample.thaumcraft.slab_double_ancient.*                           # (default: true) PLACE tile.slab_double_ancient.name
-fe.protection.trample.thaumcraft.slab_double_arcane_brick.*                      # (default: true) PLACE tile.slab_double_arcane_brick.name
-fe.protection.trample.thaumcraft.slab_double_arcane_stone.*                      # (default: true) PLACE tile.slab_double_arcane_stone.name
-fe.protection.trample.thaumcraft.slab_double_eldritch.*                          # (default: true) PLACE tile.slab_double_eldritch.name
-fe.protection.trample.thaumcraft.slab_double_greatwood.*                         # (default: true) PLACE tile.slab_double_greatwood.name
-fe.protection.trample.thaumcraft.slab_double_silverwood.*                        # (default: true) PLACE tile.slab_double_silverwood.name
-fe.protection.trample.thaumcraft.slab_eldritch.*                                 # (default: true) PLACE Eldritch Stone Slab
-fe.protection.trample.thaumcraft.slab_greatwood.*                                # (default: true) PLACE Greatwood Slab
-fe.protection.trample.thaumcraft.slab_silverwood.*                               # (default: true) PLACE Silverwood Slab
-fe.protection.trample.thaumcraft.smelter_aux.*                                   # (default: true) PLACE Auxiliary Slurry Pump
-fe.protection.trample.thaumcraft.smelter_basic.*                                 # (default: true) PLACE Essentia Smeltery
-fe.protection.trample.thaumcraft.smelter_thaumium.*                              # (default: true) PLACE Thaumium Essentia Smeltery
-fe.protection.trample.thaumcraft.smelter_vent.*                                  # (default: true) PLACE Auxiliary Venting Port
-fe.protection.trample.thaumcraft.smelter_void.*                                  # (default: true) PLACE Void Metal Essentia Smeltery
-fe.protection.trample.thaumcraft.spa.*                                           # (default: true) PLACE Arcane Spa
-fe.protection.trample.thaumcraft.stabilizer.*                                    # (default: true) PLACE Stabilizer
-fe.protection.trample.thaumcraft.stairs_ancient.*                                # (default: true) PLACE Ancient Stone Stairs
-fe.protection.trample.thaumcraft.stairs_arcane.*                                 # (default: true) PLACE Arcane Stone Stairs
-fe.protection.trample.thaumcraft.stairs_arcane_brick.*                           # (default: true) PLACE Arcane Brick Stairs
-fe.protection.trample.thaumcraft.stairs_greatwood.*                              # (default: true) PLACE Greatwood Stairs
-fe.protection.trample.thaumcraft.stairs_silverwood.*                             # (default: true) PLACE Silverwood Stairs
-fe.protection.trample.thaumcraft.stone_ancient.*                                 # (default: true) PLACE Ancient Stone
-fe.protection.trample.thaumcraft.stone_ancient_doorway.*                         # (default: true) PLACE Ancient Barrier
-fe.protection.trample.thaumcraft.stone_ancient_glyphed.*                         # (default: true) PLACE Glyphed Stone
-fe.protection.trample.thaumcraft.stone_ancient_rock.*                            # (default: true) PLACE Ancient Rock
-fe.protection.trample.thaumcraft.stone_ancient_tile.*                            # (default: true) PLACE Ancient Stone Tile
-fe.protection.trample.thaumcraft.stone_arcane.*                                  # (default: true) PLACE Arcane Stone
-fe.protection.trample.thaumcraft.stone_arcane_brick.*                            # (default: true) PLACE Arcane Stone Brick
-fe.protection.trample.thaumcraft.stone_eldritch_tile.*                           # (default: true) PLACE Eldritch Stone
-fe.protection.trample.thaumcraft.stone_porous.*                                  # (default: true) PLACE Porous Stone
-fe.protection.trample.thaumcraft.table_stone.*                                   # (default: true) PLACE Stone Table
-fe.protection.trample.thaumcraft.table_wood.*                                    # (default: true) PLACE Wood Table
-fe.protection.trample.thaumcraft.taint_crust.*                                   # (default: true) PLACE Crusted Taint
-fe.protection.trample.thaumcraft.taint_feature.*                                 # (default: true) PLACE Swollen Taint
-fe.protection.trample.thaumcraft.taint_fibre.*                                   # (default: true) PLACE Fibrous Taint
-fe.protection.trample.thaumcraft.taint_geyser.*                                  # (default: true) PLACE Taint Geyser
-fe.protection.trample.thaumcraft.taint_log.*                                     # (default: true) PLACE Taintwood Log
-fe.protection.trample.thaumcraft.taint_rock.*                                    # (default: true) PLACE Tainted Rock
-fe.protection.trample.thaumcraft.taint_soil.*                                    # (default: true) PLACE Tainted Soil
-fe.protection.trample.thaumcraft.thaumatorium.*                                  # (default: true) PLACE Thaumatorium
-fe.protection.trample.thaumcraft.thaumatorium_top.*                              # (default: true) PLACE Thaumatorium
-fe.protection.trample.thaumcraft.tube.*                                          # (default: true) PLACE Essentia Tube
-fe.protection.trample.thaumcraft.tube_buffer.*                                   # (default: true) PLACE Essentia Buffer
-fe.protection.trample.thaumcraft.tube_filter.*                                   # (default: true) PLACE Filtered Essentia Tube
-fe.protection.trample.thaumcraft.tube_oneway.*                                   # (default: true) PLACE Directional Essentia Tube
-fe.protection.trample.thaumcraft.tube_restrict.*                                 # (default: true) PLACE Restricted Essentia Tube
-fe.protection.trample.thaumcraft.tube_valve.*                                    # (default: true) PLACE Essentia Valve
-fe.protection.trample.thaumcraft.vis_battery.*                                   # (default: true) PLACE Vis Battery
-fe.protection.trample.thaumcraft.vis_generator.*                                 # (default: true) PLACE Vis Generator
-fe.protection.trample.thaumcraft.vishroom.*                                      # (default: true) PLACE Vishroom
-fe.protection.trample.thaumcraft.void_siphon.*                                   # (default: true) PLACE Void Siphon
-fe.protection.trample.thaumcraft.wand_workbench.*                                # (default: true) PLACE Focal Manipulator
-fe.protection.trample.thaumictinkerer.black_quartz_block.*                       # (default: true) PLACE Black Quartz Block
-fe.protection.trample.thaumictinkerer.dissimulation.*                            # (default: true) PLACE Dissimulation Block
-fe.protection.trample.thaumictinkerer.enchantment_pillar.*                       # (default: true) PLACE Enchanting Pillar
-fe.protection.trample.thaumictinkerer.example.*                                  # (default: true) PLACE Placeholder Block
-fe.protection.trample.thaumictinkerer.funnel.*                                   # (default: true) PLACE Essentia Funnel
-fe.protection.trample.thaumictinkerer.magnet.*                                   # (default: true) PLACE Kinetic Attractor
-fe.protection.trample.thaumictinkerer.mob_magnet.*                               # (default: true) PLACE Corporeal Attractor
-fe.protection.trample.thaumictinkerer.nitor_vapor.*                              # (default: true) PLACE tile.thaumictinkerer:nitor_vapor.name
-fe.protection.trample.thaumictinkerer.osmotic_enchanter.*                        # (default: true) PLACE Osmotic Enchanter
-fe.protection.trample.thaumictinkerer.repairer.*                                 # (default: true) PLACE Thaumic Restorer
-fe.protection.trample.thaumictinkerer.transvector_dislocator.*                   # (default: true) PLACE tile.thaumictinkerer:transvector_dislocator.name
-fe.protection.trample.thaumictinkerer.transvector_interface.*                    # (default: true) PLACE Transvector Interface
 fe.protection.trample.twilightforest.aurora_block.*                              # (default: true) PLACE Aurora Block
 fe.protection.trample.twilightforest.aurora_pillar.*                             # (default: true) PLACE Aurora Pillar
 fe.protection.trample.twilightforest.aurora_slab.*                               # (default: true) PLACE Aurora Slab
