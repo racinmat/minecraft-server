@@ -6,6 +6,7 @@ import yaml
 from absl import flags
 from absl import logging
 from absl import app
+import os
 
 
 def values_to_struct(value):
@@ -20,20 +21,28 @@ def values_to_struct(value):
 
 
 def main(_):
-    playerdata_dir = ''
-    usercache_file =
-    if not osp.exists(filename):
-        raise RuntimeError("File {} does not exist.".format(filename))
-    nbtfile = nbt.NBTFile(filename, 'rb')
-    print(nbtfile.name)
-    data = dict()
-    for field in nbtfile:
-        value = nbtfile[field]
-        data[field] = values_to_struct(value)
+    playerdata_dir = r'E:\mc backupy\soucasny server svety\scitaniautismus\playerdata'
+    usercache_file = r'E:\mc backupy\soucasny-server\usercache.json'
 
-    with open(osp.basename(filename) + '.yaml', 'w+') as fp:
-        yaml.dump(data, fp, indent=4)
+    with open(usercache_file, 'rb') as fp:
+        user_hashes = json.load(fp)
 
+    uuid_to_name = {i['uuid']: i['name'] for i in user_hashes}
+    for filename in os.listdir(playerdata_dir):
+        file_hash = osp.splitext(osp.basename(filename))[0]
+        nbtfile = nbt.NBTFile(osp.join(playerdata_dir, filename), 'rb')
+        data = dict()
+        for field in nbtfile:
+            value = nbtfile[field]
+            data[field] = values_to_struct(value)
+
+        if file_hash in uuid_to_name:
+            with open(uuid_to_name[file_hash] + '.yaml', 'w+') as fp:
+                yaml.dump(data, fp, indent=4)
+        else:
+            print('unknown hash', file_hash)
+            with open(file_hash + '.yaml', 'w+') as fp:
+                yaml.dump(data, fp, indent=4)
 
 if __name__ == '__main__':
     app.run(main)
