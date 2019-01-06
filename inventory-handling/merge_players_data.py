@@ -25,7 +25,7 @@ def main(_):
     usercache_file_old = r'E:\mc backupy\soucasny-server\usercache.json'
     playerdata_dir_new = r'E:\Projects\minecraft\new-mc-server\braveNewWorld\playerdata'
     usercache_file_new = r'E:\Projects\minecraft\new-mc-server\usercache.json'
-    dir_out = '.'
+    dir_out = './merged_items'
 
     forbidden_mod = 'twilightforest'
 
@@ -98,15 +98,33 @@ def main(_):
             print('Too many items together, cant merge for player', player_name, ', should have', len(old_slots_full),
                   'free slots for transfer')
             continue
-        # todo: change Slot number so old items are set to free slots of new inventory
-        nbtfile_new['Inventory'].extend(nbtfile_old['Inventory'])  # just appending data
-        nbtfile_new['EnderItems'].extend(nbtfile_old['EnderItems'])  # just appending data
-        # when adding non-empty to empty list, types collapse
-        nbtfile_new['EnderItems'].tagID = nbtfile_old['EnderItems'].tagID
-        # todo: nějak se jebe enderchest merging
-        for i in nbtfile_old['Inventory']:
-            if i['id'].value.startswith('twilight'):
+
+        items_to_add = list(nbtfile_old['Inventory']) + list(nbtfile_old['EnderItems'])
+        print('player:', player_name, 'going to add', len(items_to_add), 'items to inventory and ender chest')
+        free_ender_chest_slots = list(set(all_ender_slots) - set(new_ender_slots_full))
+        print(len(free_ender_chest_slots), 'free ender chest slots')
+        for slot in free_ender_chest_slots:
+            if len(items_to_add) == 0:
                 break
+            item_to_add = items_to_add.pop(0)
+            item_to_add['Slot'].value = slot
+            nbtfile_new['EnderItems'].append(item_to_add)
+            nbtfile_new['EnderItems'].tagID = item_to_add.id
+
+        print(len(items_to_add), 'items remaining to put to inventory after ender chest is full')
+
+        free_inventory_slots = list(set(all_slots) - set(new_slots_full))
+        print(len(free_inventory_slots), 'free ender chest slots')
+        for slot in free_ender_chest_slots:
+            if len(items_to_add) == 0:
+                break
+            item_to_add = items_to_add.pop(0)
+            item_to_add['Slot'].value = slot
+            nbtfile_new['Inventory'].append(item_to_add)
+            nbtfile_new['Inventory'].tagID = item_to_add.id
+
+        if len(items_to_add) > 0:
+            print('Failed to add', len(items_to_add), 'items to player', player_name, 'everything is full')
 
         nbtfile_new.write_file(osp.join(dir_out, filename_new))
 
