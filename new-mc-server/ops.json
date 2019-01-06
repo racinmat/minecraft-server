@@ -6,6 +6,12 @@
     "bypassesPlayerLimit": false
   },
   {
+    "uuid": "3394290a-0c19-4e64-882c-0fee00cafd68",
+    "name": "Nurgle",
+    "level": 2,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "6220dacd-98ba-3371-873c-baac80c0b989",
     "name": "PheleanorPhil",
     "level": 2,
@@ -30,8 +36,20 @@
     "bypassesPlayerLimit": false
   },
   {
+    "uuid": "e76fdb64-ec16-34b1-a93b-680c213f0fc1",
+    "name": "KrysiAutismus",
+    "level": 2,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "82ca55fc-93d3-4593-8bc8-650a4a6ce57e",
     "name": "PheleanorPhil",
+    "level": 2,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "447a2daa-8279-3bc2-91f9-722344c2cb54",
+    "name": "Grayfoox",
     "level": 2,
     "bypassesPlayerLimit": false
   }
