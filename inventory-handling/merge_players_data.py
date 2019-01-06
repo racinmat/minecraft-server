@@ -101,6 +101,19 @@ def main(_):
 
         items_to_add = list(nbtfile_old['Inventory']) + list(nbtfile_old['EnderItems'])
         print('player:', player_name, 'going to add', len(items_to_add), 'items to inventory and ender chest')
+
+        free_inventory_slots = list(set(all_slots) - set(new_slots_full))
+        print(len(free_inventory_slots), 'free ender chest slots')
+        for slot in free_inventory_slots:
+            if len(items_to_add) == 0:
+                break
+            item_to_add = items_to_add.pop(0)
+            item_to_add['Slot'].value = slot
+            nbtfile_new['Inventory'].append(item_to_add)
+            nbtfile_new['Inventory'].tagID = item_to_add.id
+
+        print(len(items_to_add), 'items remaining to put to ender chest after inventory is full')
+
         free_ender_chest_slots = list(set(all_ender_slots) - set(new_ender_slots_full))
         print(len(free_ender_chest_slots), 'free ender chest slots')
         for slot in free_ender_chest_slots:
@@ -111,17 +124,6 @@ def main(_):
             nbtfile_new['EnderItems'].append(item_to_add)
             nbtfile_new['EnderItems'].tagID = item_to_add.id
 
-        print(len(items_to_add), 'items remaining to put to inventory after ender chest is full')
-
-        free_inventory_slots = list(set(all_slots) - set(new_slots_full))
-        print(len(free_inventory_slots), 'free ender chest slots')
-        for slot in free_ender_chest_slots:
-            if len(items_to_add) == 0:
-                break
-            item_to_add = items_to_add.pop(0)
-            item_to_add['Slot'].value = slot
-            nbtfile_new['Inventory'].append(item_to_add)
-            nbtfile_new['Inventory'].tagID = item_to_add.id
 
         if len(items_to_add) > 0:
             print('Failed to add', len(items_to_add), 'items to player', player_name, 'everything is full')
