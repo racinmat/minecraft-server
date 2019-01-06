@@ -23,8 +23,8 @@ def values_to_struct(value):
 def main(_):
     playerdata_dir_old = r'E:\mc backupy\soucasny server svety\scitaniautismus\playerdata'
     usercache_file_old = r'E:\mc backupy\soucasny-server\usercache.json'
-    playerdata_dir_new = r'E:\Projects\minecraft\new-mc-server\braveNewWorld\playerdata'
-    usercache_file_new = r'E:\Projects\minecraft\new-mc-server\usercache.json'
+    playerdata_dir_new = r'E:\mc backupy\novy soucasny svet backup\braveNewWorld\playerdata'
+    usercache_file_new = r'E:\mc backupy\novy soucasny svet backup\usercache.json'
     dir_out = './merged_items'
 
     forbidden_mod = 'twilightforest'
@@ -71,10 +71,48 @@ def main(_):
             continue
 
         nbtfile_old = nbt.NBTFile(playerdata_files_old[player_filename_old], 'rb')
+
+        #######################
+        # forgecaps resolving #
+        #######################
         old_forgecaps = nbtfile_old['ForgeCaps']
+        new_forgecaps = nbtfile_new['ForgeCaps']
+
+        # merging thaumcraft progress: knowledge
+        old_knowledge = old_forgecaps['thaumcraft:knowledge']['knowledge']
+        new_knowledge = new_forgecaps['thaumcraft:knowledge']['knowledge']
+        new_knowledge_dict = {i['key'].value: i for i in new_knowledge}
+        for item in old_knowledge:
+            old_key = item['key'].value
+            if old_key in new_knowledge_dict:
+                old_val = item['amount'].value
+                new_val = new_knowledge_dict[old_key]['amount'].value
+                new_knowledge_dict[old_key]['amount'].value = max(old_val, new_val)
+            else:
+                new_knowledge.append(item)
+                new_knowledge.tagID = item.id
+
+        # merging thaumcraft progress: research
+        old_research = old_forgecaps['thaumcraft:knowledge']['research']
+        new_research = new_forgecaps['thaumcraft:knowledge']['research']
+        new_research_dict = {i['key'].value: i for i in new_research}
+        for item in old_research:
+            old_key = item['key'].value
+            if old_key in new_research_dict:
+                if 'stage' in item:
+                    old_val = item['stage'].value
+                    new_val = new_research_dict[old_key]['stage'].value
+                    new_research_dict[old_key]['stage'].value = max(old_val, new_val)
+            else:
+                new_research.append(item)
+                new_research.tagID = item.id
+
         old_forgecaps.update(nbtfile_new['ForgeCaps'])  # old data, merged with new, same parts overwritten by new
         nbtfile_new['ForgeCaps'] = old_forgecaps
 
+        ###################
+        # items resolving #
+        ###################
         all_slots = list(range(36))
         all_ender_slots = list(range(27))
         new_slots_full = [i['Slot'].value for i in nbtfile_new['Inventory']]

@@ -21,8 +21,10 @@ def values_to_struct(value):
 
 
 def main(_):
-    playerdata_dir = r'E:\mc backupy\soucasny server svety\scitaniautismus\playerdata'
+    # playerdata_dir = r'E:\mc backupy\soucasny server svety\scitaniautismus\playerdata'
+    playerdata_dir = r'E:\Projects\minecraft\inventory-handling\merged_items'
     usercache_file = r'E:\mc backupy\soucasny-server\usercache.json'
+    dir_out = './merged_items'
 
     with open(usercache_file, 'rb') as fp:
         user_hashes = json.load(fp)
@@ -34,12 +36,13 @@ def main(_):
         data = values_to_struct(nbtfile)
 
         if file_hash in uuid_to_name:
-            with open(uuid_to_name[file_hash] + '.yaml', 'w+') as fp:
+            with open(osp.join(dir_out, uuid_to_name[file_hash] + '.yaml'), 'w+') as fp:
                 yaml.dump(data, fp, indent=4)
         else:
             print('unknown hash', file_hash)
-            with open(file_hash + '.yaml', 'w+') as fp:
+            with open(osp.join(dir_out, file_hash + '.yaml'), 'w+') as fp:
                 yaml.dump(data, fp, indent=4)
+
 
 if __name__ == '__main__':
     app.run(main)
