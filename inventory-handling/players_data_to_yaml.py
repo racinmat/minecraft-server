@@ -31,10 +31,7 @@ def main(_):
     for filename in os.listdir(playerdata_dir):
         file_hash = osp.splitext(osp.basename(filename))[0]
         nbtfile = nbt.NBTFile(osp.join(playerdata_dir, filename), 'rb')
-        data = dict()
-        for field in nbtfile:
-            value = nbtfile[field]
-            data[field] = values_to_struct(value)
+        data = values_to_struct(nbtfile)
 
         if file_hash in uuid_to_name:
             with open(uuid_to_name[file_hash] + '.yaml', 'w+') as fp:

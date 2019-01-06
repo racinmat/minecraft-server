@@ -30,6 +30,12 @@
     "bypassesPlayerLimit": false
   },
   {
+    "uuid": "0caa1425-e0ec-3150-9027-9b06a72d572e",
+    "name": "azathoth",
+    "level": 2,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "985969ce-f9cc-38b0-a7ea-2a2097f0d513",
     "name": "SirLovi",
     "level": 2,
