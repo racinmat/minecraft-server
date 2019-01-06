@@ -116,8 +116,7 @@ def main(_):
         all_slots = list(range(36))
         all_ender_slots = list(range(27))
         new_slots_full = [i['Slot'].value for i in nbtfile_new['Inventory']]
-        # new_ender_slots_full = [i['Slot'].value for i in nbtfile_new['EnderItems']]
-        new_ender_slots_full = []
+        new_ender_slots_full = [i['Slot'].value for i in nbtfile_new['EnderItems']]
 
         # filtering out items from forbidden mod
         for i, item in enumerate(nbtfile_old['Inventory']):
@@ -161,7 +160,6 @@ def main(_):
             item_to_add['Slot'].value = slot
             nbtfile_new['EnderItems'].append(item_to_add)
             nbtfile_new['EnderItems'].tagID = item_to_add.id
-
 
         if len(items_to_add) > 0:
             print('Failed to add', len(items_to_add), 'items to player', player_name, 'everything is full')
