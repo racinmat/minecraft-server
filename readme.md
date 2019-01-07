@@ -8,6 +8,10 @@ There are few python scripts for handling the player data in `inventory-handling
 you can use it to merge neder chest contents, inventories, thaumcraft progres...
 but use only at your own risk and always backup.
  
+At the beginning, this was using docker to run MC server, using the `itzg/minecraft-server` image.
+But then it started to fail. But it serves also as a very good bootstraper for server and then you can run 
+the MC server without it, directly on host, if you have Java installed.
+ 
 ## Lessons learned
 - If you use Biomes'o'Plenty as a worldgen, it lags the server during new chunk generation. 
     - Either don't use BoP as a worldgen
