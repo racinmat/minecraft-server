@@ -4,6 +4,10 @@ Just configuration, mods and some other stuff.
 
 During the playing, we encountered few issues.
 
+There are few python scripts for handling the player data in `inventory-handling` directory, 
+you can use it to merge neder chest contents, inventories, thaumcraft progres...
+but use only at your own risk and always backup.
+ 
 ## Lessons learned
 - If you use Biomes'o'Plenty as a worldgen, it lags the server during new chunk generation. 
     - Either don't use BoP as a worldgen
