@@ -1,5 +1,5 @@
 # --- ModList ---
-# Generated: 6-0-2019 (Server time)
+# Generated: 8-0-2019 (Server time)
 # Change the location of this file in main.cfg
 
 Minecraft;1.12.2;
@@ -15,6 +15,8 @@ Biomes O' Plenty;7.0.1.2422;http://mods.curse.com/mc-mods/minecraft/220318-biome
 Just Enough Items;4.13.1.225;https://github.com/mezz/JustEnoughItems
 Thaumcraft;6.1.BETA26;http://www.minecraftforum.net/topic/2011841-thaumcraft
 Botania;r1.10-358;http://www.botaniamod.net
+CodeChicken Lib;3.2.2.353;http://chickenbones.net/Pages/links.html
+ChickenChunks;2.4.1.73;http://www.minecraftforum.net/topic/909223
 Chisel;MC1.12.2-0.2.1.35;https://minecraft.curseforge.com/projects/chisel
 Chunk Pregenerator;1.9;
 Clumps;3.1.1;
@@ -29,6 +31,7 @@ Forge Essentials;12.3;
 Shadowfacts' Forgelin;1.8.2;https://github.com/shadowfacts/Forgelin
 iChunUtil;7.1.4;http://ichun.me/mods/ichunutil/
 Iron Chest;1.12.2-7.0.54.838;http://www.minecraftforum.net/topic/981855-
+JourneyMap;1.12.2-5.5.3;http://journeymap.info
 Mekanism;1.12.2-9.4.13.349;
 MekanismGenerators;9.4.11;
 Morpheus;1.12-3.3.2;http://www.curse.com/mc-mods/Minecraft/morpheus
@@ -37,3 +40,4 @@ Pam's HarvestCraft;1.12.2zb;http://minecraft.curseforge.com/members/MatrexsVigil
 Pewter;1.4.3;
 Thaumcrafft Inventory Scanning;2.0.10;
 Thaumic Tinkerer;1.12.2-5.0-353c71c;http://minecraftforum.net/topic/1813058-
+The One Probe;1.4.25;

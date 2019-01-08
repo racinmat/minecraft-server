@@ -1,6 +1,6 @@
 #// --------- PERMISSIONS LIST ITEMS ------- \\#
-#// --------------- 06.01 23:44 ------------ \\#
-#// ----------- Total amount: 18614 --------- \\#
+#// --------------- 08.01 22:21 ------------ \\#
+#// ----------- Total amount: 18649 --------- \\#
 #// ---------------------------------------- \\#
 fe.protection.craft.*                                                            # (default: true) Allow crafting of items. Not necessarily works with modded crafting tables
 fe.protection.craft.actuallyadditions.diamond_paxel.*                            # (default: true) CRAFT Diamond AIOT
@@ -2080,6 +2080,13 @@ fe.protection.craft.thaumictinkerer.energetic_nitor.*                           
 fe.protection.craft.thaumictinkerer.form_revealer.*                              # (default: true) CRAFT Multiblock Visualizer
 fe.protection.craft.thaumictinkerer.share_book.*                                 # (default: true) CRAFT Tome of Knowledge Sharing
 fe.protection.craft.thaumictinkerer.soul_mould.*                                 # (default: true) CRAFT item.thaumictinkerer:soul_mould.name
+fe.protection.craft.theoneprobe.creativeprobe.*                                  # (default: true) CRAFT The Creative Probe
+fe.protection.craft.theoneprobe.diamond_helmet_probe.*                           # (default: true) CRAFT Diamond Helmet with Probe
+fe.protection.craft.theoneprobe.gold_helmet_probe.*                              # (default: true) CRAFT Gold Helmet with Probe
+fe.protection.craft.theoneprobe.iron_helmet_probe.*                              # (default: true) CRAFT Iron Helmet with Probe
+fe.protection.craft.theoneprobe.probe.*                                          # (default: true) CRAFT The One Probe
+fe.protection.craft.theoneprobe.probe_goggles.*                                  # (default: true) CRAFT The One Probe (Bauble)
+fe.protection.craft.theoneprobe.probenote.*                                      # (default: true) CRAFT The One Probe Read Me
 fe.protection.craft.twilightforest.alpha_fur.*                                   # (default: true) CRAFT Alpha Yeti Fur
 fe.protection.craft.twilightforest.arctic_boots.*                                # (default: true) CRAFT Arctic Boots
 fe.protection.craft.twilightforest.arctic_chestplate.*                           # (default: true) CRAFT Arctic Jacket
@@ -4268,6 +4275,13 @@ fe.protection.exist.thaumictinkerer.energetic_nitor.*                           
 fe.protection.exist.thaumictinkerer.form_revealer.*                              # (default: true) EXIST Multiblock Visualizer
 fe.protection.exist.thaumictinkerer.share_book.*                                 # (default: true) EXIST Tome of Knowledge Sharing
 fe.protection.exist.thaumictinkerer.soul_mould.*                                 # (default: true) EXIST item.thaumictinkerer:soul_mould.name
+fe.protection.exist.theoneprobe.creativeprobe.*                                  # (default: true) EXIST The Creative Probe
+fe.protection.exist.theoneprobe.diamond_helmet_probe.*                           # (default: true) EXIST Diamond Helmet with Probe
+fe.protection.exist.theoneprobe.gold_helmet_probe.*                              # (default: true) EXIST Gold Helmet with Probe
+fe.protection.exist.theoneprobe.iron_helmet_probe.*                              # (default: true) EXIST Iron Helmet with Probe
+fe.protection.exist.theoneprobe.probe.*                                          # (default: true) EXIST The One Probe
+fe.protection.exist.theoneprobe.probe_goggles.*                                  # (default: true) EXIST The One Probe (Bauble)
+fe.protection.exist.theoneprobe.probenote.*                                      # (default: true) EXIST The One Probe Read Me
 fe.protection.exist.twilightforest.alpha_fur.*                                   # (default: true) EXIST Alpha Yeti Fur
 fe.protection.exist.twilightforest.arctic_boots.*                                # (default: true) EXIST Arctic Boots
 fe.protection.exist.twilightforest.arctic_chestplate.*                           # (default: true) EXIST Arctic Jacket
@@ -6456,6 +6470,13 @@ fe.protection.inventory.thaumictinkerer.energetic_nitor.*                       
 fe.protection.inventory.thaumictinkerer.form_revealer.*                          # (default: true) INVENTORY Multiblock Visualizer
 fe.protection.inventory.thaumictinkerer.share_book.*                             # (default: true) INVENTORY Tome of Knowledge Sharing
 fe.protection.inventory.thaumictinkerer.soul_mould.*                             # (default: true) INVENTORY item.thaumictinkerer:soul_mould.name
+fe.protection.inventory.theoneprobe.creativeprobe.*                              # (default: true) INVENTORY The Creative Probe
+fe.protection.inventory.theoneprobe.diamond_helmet_probe.*                       # (default: true) INVENTORY Diamond Helmet with Probe
+fe.protection.inventory.theoneprobe.gold_helmet_probe.*                          # (default: true) INVENTORY Gold Helmet with Probe
+fe.protection.inventory.theoneprobe.iron_helmet_probe.*                          # (default: true) INVENTORY Iron Helmet with Probe
+fe.protection.inventory.theoneprobe.probe.*                                      # (default: true) INVENTORY The One Probe
+fe.protection.inventory.theoneprobe.probe_goggles.*                              # (default: true) INVENTORY The One Probe (Bauble)
+fe.protection.inventory.theoneprobe.probenote.*                                  # (default: true) INVENTORY The One Probe Read Me
 fe.protection.inventory.twilightforest.alpha_fur.*                               # (default: true) INVENTORY Alpha Yeti Fur
 fe.protection.inventory.twilightforest.arctic_boots.*                            # (default: true) INVENTORY Arctic Boots
 fe.protection.inventory.twilightforest.arctic_chestplate.*                       # (default: true) INVENTORY Arctic Jacket
@@ -8645,6 +8666,13 @@ fe.protection.use.thaumictinkerer.energetic_nitor.*                             
 fe.protection.use.thaumictinkerer.form_revealer.*                                # (default: true) USE Multiblock Visualizer
 fe.protection.use.thaumictinkerer.share_book.*                                   # (default: true) USE Tome of Knowledge Sharing
 fe.protection.use.thaumictinkerer.soul_mould.*                                   # (default: true) USE item.thaumictinkerer:soul_mould.name
+fe.protection.use.theoneprobe.creativeprobe.*                                    # (default: true) USE The Creative Probe
+fe.protection.use.theoneprobe.diamond_helmet_probe.*                             # (default: true) USE Diamond Helmet with Probe
+fe.protection.use.theoneprobe.gold_helmet_probe.*                                # (default: true) USE Gold Helmet with Probe
+fe.protection.use.theoneprobe.iron_helmet_probe.*                                # (default: true) USE Iron Helmet with Probe
+fe.protection.use.theoneprobe.probe.*                                            # (default: true) USE The One Probe
+fe.protection.use.theoneprobe.probe_goggles.*                                    # (default: true) USE The One Probe (Bauble)
+fe.protection.use.theoneprobe.probenote.*                                        # (default: true) USE The One Probe Read Me
 fe.protection.use.twilightforest.alpha_fur.*                                     # (default: true) USE Alpha Yeti Fur
 fe.protection.use.twilightforest.arctic_boots.*                                  # (default: true) USE Arctic Boots
 fe.protection.use.twilightforest.arctic_chestplate.*                             # (default: true) USE Arctic Jacket

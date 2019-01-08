@@ -1,6 +1,6 @@
 #// ------------ PERMISSIONS LIST ---------- \\#
-#// --------------- 06.01 23:44 ------------ \\#
-#// ----------- Total amount: 18614 --------- \\#
+#// --------------- 08.01 22:21 ------------ \\#
+#// ----------- Total amount: 18649 --------- \\#
 #// ---------------------------------------- \\#
 command./searchitem                                                              # (default: true) 
 command./sel                                                                     # (default: true) 
@@ -18,6 +18,7 @@ command.blockdata                                                               
 command.botania-open                                                             # (default: true) 
 command.botania-share                                                            # (default: true) 
 command.brush                                                                    # (default: true) 
+command.chunkloaders                                                             # (OP only: true) 
 command.clear                                                                    # (OP only: true) 
 command.clone                                                                    # (OP only: true) 
 command.debug                                                                    # (OP only: true) 
@@ -38,6 +39,7 @@ command.forge                                                                   
 command.function                                                                 # (OP only: true) 
 command.gamerule                                                                 # (OP only: true) 
 command.give                                                                     # (OP only: true) 
+command.jtp                                                                      # (OP only: true) 
 command.kick                                                                     # (OP only: true) 
 command.kill                                                                     # (OP only: true) 
 command.list                                                                     # (default: true) 
@@ -979,7 +981,7 @@ fe.remote                                                                       
 fe.remote.chat.push                                                              # (default: true) Allows requesting chat push messages
 fe.remote.chat.query                                                             # (default: true) Allows querying chat messages
 fe.remote.chat.send                                                              # (OP only: true) fe.remote.chat.send
-fe.remote.command                                                                # (default: true) Allows to run commands remotely
+fe.remote.command                                                                # (OP only: true) Allows to run commands remotely
 fe.remote.control                                                                # (OP only: true) Allows to start / stop remote server and control users (regen passkeys, kick, block)
 fe.remote.mapper.query.region                                                    # (default: true) Allows querying region tiles
 fe.remote.permission.set                                                         # (OP only: true) Allows to change permissions
