@@ -1,6 +1,6 @@
 # These are files for private minecraft server
 
-https://travis-ci.com/racinmat/minecraft-server.svg?branch=master
+[![Build Status](https://travis-ci.com/racinmat/minecraft-server.svg?branch=master)](https://travis-ci.com/racinmat/minecraft-server)
 
 ## Mods to download:
 [Link to mods used on server is here](https://drive.google.com/drive/folders/1dRisuINVxgMkCGCf8HNyH6incuSy0Qe4?usp=sharing)
