@@ -35,12 +35,15 @@ if __name__ == '__main__':
         if mod_name in already_present:
             local_checksum = md5sum(mod_path)
             if local_checksum == already_present[mod_name]:
+                print(mod_name, 'haven\'t changed')
                 continue    # same file, skip it
             file_metadata = {'name': mod_name, 'parents': [mods_dir_id]}
             media = MediaFileUpload(mod_path, mimetype='application/java-archive')
             file = files.update(body=file_metadata, media_body=media).execute()
+            print(mod_name, 'updated')
         else:
             file_metadata = {'name': mod_name, 'parents': [mods_dir_id]}
             media = MediaFileUpload(mod_path, mimetype='application/java-archive')
             file = files.create(body=file_metadata, media_body=media).execute()
-        print('File ID: %s' % file.get('id'))
+        print(mod_name, 'added')
+    print('all mods updated, uploaded or haven\'t changed')
