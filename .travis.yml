@@ -3,9 +3,8 @@ python:
   - "3.6"
 install:
   - pip install -r requirements.txt
+  - cd mod-managing
+  - openssl aes-256-cbc -K $encrypted_ec62114405c8_key -iv $encrypted_ec62114405c8_iv -in mcserver-service-account-key.json.enc -out mcserver-service-account-key.json -d
 script:
-- cd mod-managing
-- pwd
-- ls .
-- pwd
-- python upload-mods.py
+  - cd mod-managing
+  - python upload-mods.py
