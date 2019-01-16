@@ -1,29 +1,36 @@
 version: '3'
 services:
-    minecraft:
-        image: itzg/minecraft-server
-        environment:
-            EULA: "TRUE"
-            CONSOLE: "false"
-            ENABLE_RCON: "true"
-            RCON_PASSWORD: "testing"
-            RCON_PORT: 28016
-            VERSION: "1.12.2"
-            TYPE: "FORGE"
-            MAX_MEMORY: 8G
-#            JVM_DD_OPTS: fml.queryResult:confirm
-            JVM_OPTS: -Dfml.queryResult=confirm
-        ports:
-          - 25565:25565
-          - 27020:27020
-          - 28016:28016
+    ruby:
+        image: ruby
         volumes:
-          - "./mc-server-files:/data"
-        restart: always
-        command: ''
-        entrypoint: bash
+          - .:/data
+        command: bash
         stdin_open: true
         tty: true
+#    minecraft:
+#        image: itzg/minecraft-server
+#        environment:
+#            EULA: "TRUE"
+#            CONSOLE: "false"
+#            ENABLE_RCON: "true"
+#            RCON_PASSWORD: "testing"
+#            RCON_PORT: 28016
+#            VERSION: "1.12.2"
+#            TYPE: "FORGE"
+#            MAX_MEMORY: 8G
+##            JVM_DD_OPTS: fml.queryResult:confirm
+#            JVM_OPTS: -Dfml.queryResult=confirm
+#        ports:
+#          - 25565:25565
+#          - 27020:27020
+#          - 28016:28016
+#        volumes:
+#          - "./mc-server-files:/data"
+#        restart: always
+#        command: ''
+#        entrypoint: bash
+#        stdin_open: true
+#        tty: true
 #    command: -Dfml.queryResult=confirm
 #  rcon:
 #    image: itzg/rcon

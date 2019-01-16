@@ -19,6 +19,7 @@ def md5sum(filename, blocksize=65536):
 if __name__ == '__main__':
     SCOPES = ['https://www.googleapis.com/auth/drive']
     OAUTH2_SCOPE = 'https://www.googleapis.com/auth/drive'
+    # when using travis for secrea
     SERVICE_ACCOUNT_FILE = 'mcserver-service-account-key.json'
     credentials = service_account.Credentials.from_service_account_file(SERVICE_ACCOUNT_FILE, scopes=SCOPES)
     drive_service = build('drive', 'v3', credentials=credentials)
