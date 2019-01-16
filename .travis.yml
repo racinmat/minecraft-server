@@ -1,5 +1,8 @@
 language: python
 python:
   - "3.6"
+install:
+  - pip install -r requirements.txt
 script:
-- cd mod-managing & python upload-mods.py
+- cd mod-managing && ls .
+- cd mod-managing && python upload-mods.py
