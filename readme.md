@@ -1,5 +1,10 @@
 # These are files for private minecraft server
 
+
+## Mods to download:
+[Link to mods used on server is here](https://drive.google.com/drive/folders/1dRisuINVxgMkCGCf8HNyH6incuSy0Qe4?usp=sharing)
+ please, download them to your mods folder.
+
 Just configuration, mods and some other stuff.
 
 During the playing, we encountered few issues.
@@ -19,3 +24,4 @@ the MC server without it, directly on host, if you have Java installed.
 - Don't place mekanism's Digital Miner on chunk border, it might disappear. There is bug in core minecraft, 
 trashing multiblock items on chunk borders when one chunk is unloaded in different time than the other.
 - Probably don'T use the twilight forest's charm of keeping, it seemd to be bugging the server in combination with graves.  
+- JVM has some memory leaks, it helps to restart the server once in few days
