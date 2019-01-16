@@ -1,6 +1,6 @@
 #// ------------ PERMISSIONS LIST ---------- \\#
-#// --------------- 08.01 22:21 ------------ \\#
-#// ----------- Total amount: 18649 --------- \\#
+#// --------------- 16.01 10:51 ------------ \\#
+#// ----------- Total amount: 18648 --------- \\#
 #// ---------------------------------------- \\#
 command./searchitem                                                              # (default: true) 
 command./sel                                                                     # (default: true) 
@@ -18,7 +18,6 @@ command.blockdata                                                               
 command.botania-open                                                             # (default: true) 
 command.botania-share                                                            # (default: true) 
 command.brush                                                                    # (default: true) 
-command.chunkloaders                                                             # (OP only: true) 
 command.clear                                                                    # (OP only: true) 
 command.clone                                                                    # (OP only: true) 
 command.debug                                                                    # (OP only: true) 

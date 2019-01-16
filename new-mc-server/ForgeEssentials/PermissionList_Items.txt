@@ -1,6 +1,6 @@
 #// --------- PERMISSIONS LIST ITEMS ------- \\#
-#// --------------- 08.01 22:21 ------------ \\#
-#// ----------- Total amount: 18649 --------- \\#
+#// --------------- 16.01 10:51 ------------ \\#
+#// ----------- Total amount: 18648 --------- \\#
 #// ---------------------------------------- \\#
 fe.protection.craft.*                                                            # (default: true) Allow crafting of items. Not necessarily works with modded crafting tables
 fe.protection.craft.actuallyadditions.diamond_paxel.*                            # (default: true) CRAFT Diamond AIOT

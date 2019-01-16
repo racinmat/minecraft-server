@@ -1,6 +1,6 @@
 #// -------- PERMISSIONS LIST BLOCKS ------- \\#
-#// --------------- 08.01 22:21 ------------ \\#
-#// ----------- Total amount: 18649 --------- \\#
+#// --------------- 16.01 10:51 ------------ \\#
+#// ----------- Total amount: 18648 --------- \\#
 #// ---------------------------------------- \\#
 fe.protection.break.*                                                            # (default: true) Allow breaking blocks
 fe.protection.break.actuallyadditions.block_atomic_reconstructor.*               # (default: true) BREAK Atomic Reconstructor
@@ -579,7 +579,7 @@ fe.protection.break.botania.teruterubozu.*                                      
 fe.protection.break.botania.tinyplanetblock.*                                    # (default: true) BREAK tile.tinyPlanetBlock.name
 fe.protection.break.botania.tinypotato.*                                         # (default: true) BREAK tile.tinyPotato.name
 fe.protection.break.botania.turntable.*                                          # (default: true) BREAK tile.turntable.name
-fe.protection.break.chickenchunks.chunk_loader.*                                 # (default: true) BREAK tile.chickenchunks:chunk_loader.name
+fe.protection.break.chickenchunks.chunk_loader.*                                 # (default: true) BREAK Air
 fe.protection.break.chisel.andesite.*                                            # (default: true) BREAK Andesite
 fe.protection.break.chisel.andesite1.*                                           # (default: true) BREAK Andesite
 fe.protection.break.chisel.andesite2.*                                           # (default: true) BREAK Andesite
@@ -2333,7 +2333,7 @@ fe.protection.explode.botania.teruterubozu.*                                    
 fe.protection.explode.botania.tinyplanetblock.*                                  # (default: true) EXPLODE tile.tinyPlanetBlock.name
 fe.protection.explode.botania.tinypotato.*                                       # (default: true) EXPLODE tile.tinyPotato.name
 fe.protection.explode.botania.turntable.*                                        # (default: true) EXPLODE tile.turntable.name
-fe.protection.explode.chickenchunks.chunk_loader.*                               # (default: true) EXPLODE tile.chickenchunks:chunk_loader.name
+fe.protection.explode.chickenchunks.chunk_loader.*                               # (default: true) EXPLODE Air
 fe.protection.explode.chisel.andesite.*                                          # (default: true) EXPLODE Andesite
 fe.protection.explode.chisel.andesite1.*                                         # (default: true) EXPLODE Andesite
 fe.protection.explode.chisel.andesite2.*                                         # (default: true) EXPLODE Andesite
@@ -4087,7 +4087,7 @@ fe.protection.interact.botania.teruterubozu.*                                   
 fe.protection.interact.botania.tinyplanetblock.*                                 # (default: true) INTERACT tile.tinyPlanetBlock.name
 fe.protection.interact.botania.tinypotato.*                                      # (default: true) INTERACT tile.tinyPotato.name
 fe.protection.interact.botania.turntable.*                                       # (default: true) INTERACT tile.turntable.name
-fe.protection.interact.chickenchunks.chunk_loader.*                              # (default: true) INTERACT tile.chickenchunks:chunk_loader.name
+fe.protection.interact.chickenchunks.chunk_loader.*                              # (default: true) INTERACT Air
 fe.protection.interact.chisel.andesite.*                                         # (default: true) INTERACT Andesite
 fe.protection.interact.chisel.andesite1.*                                        # (default: true) INTERACT Andesite
 fe.protection.interact.chisel.andesite2.*                                        # (default: true) INTERACT Andesite
@@ -5842,7 +5842,7 @@ fe.protection.place.botania.teruterubozu.*                                      
 fe.protection.place.botania.tinyplanetblock.*                                    # (default: true) PLACE tile.tinyPlanetBlock.name
 fe.protection.place.botania.tinypotato.*                                         # (default: true) PLACE tile.tinyPotato.name
 fe.protection.place.botania.turntable.*                                          # (default: true) PLACE tile.turntable.name
-fe.protection.place.chickenchunks.chunk_loader.*                                 # (default: true) PLACE tile.chickenchunks:chunk_loader.name
+fe.protection.place.chickenchunks.chunk_loader.*                                 # (default: true) PLACE Air
 fe.protection.place.chisel.andesite.*                                            # (default: true) PLACE Andesite
 fe.protection.place.chisel.andesite1.*                                           # (default: true) PLACE Andesite
 fe.protection.place.chisel.andesite2.*                                           # (default: true) PLACE Andesite
@@ -7596,7 +7596,7 @@ fe.protection.trample.botania.teruterubozu.*                                    
 fe.protection.trample.botania.tinyplanetblock.*                                  # (default: true) PLACE tile.tinyPlanetBlock.name
 fe.protection.trample.botania.tinypotato.*                                       # (default: true) PLACE tile.tinyPotato.name
 fe.protection.trample.botania.turntable.*                                        # (default: true) PLACE tile.turntable.name
-fe.protection.trample.chickenchunks.chunk_loader.*                               # (default: true) PLACE tile.chickenchunks:chunk_loader.name
+fe.protection.trample.chickenchunks.chunk_loader.*                               # (default: true) PLACE Air
 fe.protection.trample.chisel.andesite.*                                          # (default: true) PLACE Andesite
 fe.protection.trample.chisel.andesite1.*                                         # (default: true) PLACE Andesite
 fe.protection.trample.chisel.andesite2.*                                         # (default: true) PLACE Andesite
