@@ -3685,6 +3685,7 @@ item.oreberries.oreberry
 item.theoneprobe.gold_helmet_probe
 item.theoneprobe.probe_goggles
 item.theoneprobe.probenote
+tile.chickenchunks:chunk_loader
 item.theoneprobe.probe
 item.theoneprobe.diamond_helmet_probe
 item.theoneprobe.iron_helmet_probe
@@ -5441,4 +5442,4 @@ tile.pavlovacake
 tile.pineappleupsidedowncake
 tile.pumpkincheesecake
 tile.redvelvetcake
-tile.air
+tile.chickenchunks:chunk_loader

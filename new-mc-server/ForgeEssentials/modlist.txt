@@ -15,6 +15,8 @@ Biomes O' Plenty;7.0.1.2422;http://mods.curse.com/mc-mods/minecraft/220318-biome
 Just Enough Items;4.13.1.225;https://github.com/mezz/JustEnoughItems
 Thaumcraft;6.1.BETA26;http://www.minecraftforum.net/topic/2011841-thaumcraft
 Botania;r1.10-358;http://www.botaniamod.net
+CodeChicken Lib;3.2.2.353;http://chickenbones.net/Pages/links.html
+ChickenChunks;2.4.1.73;http://www.minecraftforum.net/topic/909223
 Chisel;MC1.12.2-0.2.1.35;https://minecraft.curseforge.com/projects/chisel
 Chunk Pregenerator;1.9;
 Clumps;3.1.1;
